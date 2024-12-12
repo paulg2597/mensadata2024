@@ -1,0 +1,2310 @@
+Datum,Kategorie,Name,Studierendenpreis,Preis andere,Nutriscore,Krokette
+2024-04-15,Eintopf,Lauchrahmtopf mit Kartoffelwürfeln und Suppengemüse,"1,62 €","3,16 €",A,0
+2024-04-15,Essen 1,"Kartoffelnudeln mit Kraut, Paprikastreifen und Speck","1,94 €","3,78 €",A,0
+2024-04-15,Essen 2,Gebratene Hähnchenbrust mit Paprikarahmsoße,"2,56 €","4,99 €",A,0
+2024-04-15,Vegan,Frische Kartoffelknödel mit Champignons in Sojarahm,"2,56 €","4,99 €",A,0
+2024-04-15,Wok-/Grill,"Lahmacun, türkische Pizza mit frischen Salaten, Hähnchenstreifen und Joghurt","4,48 €","6,35 €",B,0
+2024-04-15,Beilage 1,Kroketten,"0,62 €","1,21 €",C,1
+2024-04-15,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-04-15,Beilage 3,Nudeln,"0,40 €","0,78 €",A,0
+2024-04-15,Dessert 1,Pfirsichjoghurt,"0,52 €","1,01 €",C,0
+2024-04-15,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-04-15,Gemüse 1,Karottenscheiben,"0,34 €","0,66 €",A,0
+2024-04-15,Gemüse 2,Erbsen,"0,48 €","0,94 €",A,0
+2024-04-15,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-04-15,Suppe,Kohlrabicremesuppe,"0,50 €","0,98 €",A,0
+2024-04-16,Eintopf,Süßkartoffel-Tomaten-Eintopf,"1,70 €","3,32 €",A,0
+2024-04-16,Essen 1,Fleischbällchen mit Paprika-Zwiebeln-Erbsengemüse und Ajvar,"2,52 €","4,91 €",A,0
+2024-04-16,Essen 2,Gebratenes Rotbarschfilet mit Lauchrahmsoße,"2,56 €","4,99 €",B,0
+2024-04-16,Vegan,Jackfruit-Ragout mit frischen Wiesenchampignons,"1,66 €","3,24 €",A,0
+2024-04-16,Wok-/Grill,"""Pimp Your Burger"" - Rindfleischpatty mit Salat, unserer Haussoße, Pommes frites und Toppings nach Wahl","6,04 €","7,91 €",D,0
+2024-04-16,Beilage 1,Nudeln,"0,40 €","0,78 €",A,0
+2024-04-16,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-04-16,Dessert 1,Milchreis mit Zimt und Zucker,"0,72 €","1,40 €",C,0
+2024-04-16,Dessert 2,Pfirsichjoghurt,"0,52 €","1,01 €",C,0
+2024-04-16,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-04-16,Gemüse 1,Romanobohnen,"0,52 €","1,01 €",A,0
+2024-04-16,Gemüse 2,Blattspinat in Sojarahm,"0,60 €","1,17 €",A,0
+2024-04-16,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-04-16,Suppe,Tomatensuppe,"0,40 €","0,78 €",A,0
+2024-04-17,Eintopf,Unser Bestseller: Ungarische Gulaschsuppe,"3,16 €","6,16 €",A,0
+2024-04-17,Essen 1,Nudel- Gemüseauflauf auf Tomatensugo,"2,22 €","4,33 €",A,0
+2024-04-17,Essen 2,Knusprig gebratener Schweinebauch mit Zwiebel-Apfelragout,"2,30 €","4,49 €",D,0
+2024-04-17,Vegan,"Kichererbsencurry mit Spinat, Blumenkohl, Wurzelgemüse und Reis","1,88 €","3,67 €",A,0
+2024-04-17,Wok-/Grill,"""Gong Bao Chicken"" - Traditionelles chinesisches Wok-Gericht aus der Szechuan-Küche mit Reis","3,72 €","5,59 €",A,0
+2024-04-17,Beilage 1,Schwenkkartoffeln,"0,64 €","1,25 €",B,0
+2024-04-17,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-04-17,Dessert 1,Vanillepudding,"0,60 €","1,17 €",C,0
+2024-04-17,Dessert 2,Milchreis mit Zimt und Zucker,"0,72 €","1,40 €",C,0
+2024-04-17,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-04-17,Gemüse 1,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-04-17,Gemüse 2,Brokkoli,"0,76 €","1,48 €",A,0
+2024-04-17,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-04-17,Suppe,Pürierte Erbsensuppe,"0,56 €","1,09 €",A,0
+2024-04-18,Eintopf,Erbseneintopf,"1,72 €","3,35 €",A,0
+2024-04-18,Essen 1,Schwenkkartoffelpfanne mit Gemüse und Kräuter-Quark,"1,74 €","3,39 €",A,0
+2024-04-18,Essen 2,"""Jägergulasch"" - Schweinegulasch mit Speck und Champignons in Weißwein-Sahnesoße","2,52 €","4,91 €",B,0
+2024-04-18,Vegan,"Veggie-Gyros ""Akropolis"" mit Zaziki","1,62 €","3,16 €",A,0
+2024-04-18,Wok-/Grill,"Hausgemachte Lasagne al forno, Rindfleisch mit Wurzelgemüse, Tomatensoße und Salat","3,69 €","5,56 €",B,0
+2024-04-18,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-04-18,Beilage 2,Nudeln mit Gemüse,"0,52 €","1,01 €",A,0
+2024-04-18,Dessert 1,Erdbeercremejoghurt,"0,46 €","0,90 €",B,0
+2024-04-18,Dessert 2,Vanillepudding,"0,60 €","1,17 €",C,0
+2024-04-18,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-04-18,Gemüse 1,Balkangemüse,"0,46 €","0,90 €",A,0
+2024-04-18,Gemüse 2,Blumenkohl,"0,44 €","0,86 €",A,0
+2024-04-18,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-04-18,Suppe,Apfel-Kürbissuppe,"0,54 €","1,05 €",B,0
+2024-04-19,Aktion,Erbseneintopf,"1,72 €","3,35 €",A,0
+2024-04-19,Eintopf,"Gemüseeintopf ""Pichelsteiner Art""","1,54 €","3,00 €",A,0
+2024-04-19,Essen 1,"""Tortilla Española"" Spanisches Kartoffelomelette mit Paprika und Kirschtomaten","1,96 €","3,82 €",A,0
+2024-04-19,Essen 2,"Fischfiletstreifen ""Kibbeling"" mit Zitronen-Mayonnaise","2,32 €","4,52 €",C,0
+2024-04-19,Essen 3,"""Jägergulasch"" - Schweinegulasch mit Speck und Champignons in Weißwein-Sahnesoße","2,52 €","4,91 €",B,0
+2024-04-19,Vegan,Frisches Grillgemüse mit Kartoffeln aus dem Ofen,"2,32 €","4,52 €",B,0
+2024-04-19,Wok-/Grill,"Großes Schweineschnitzel ""Holsteiner Art"" mit Schmorzwiebeln, Spiegelei und Pommes frites","5,01 €","6,88 €",A,0
+2024-04-19,Beilage 1,Kartoffeln,"0,56 €","1,09 €",A,0
+2024-04-19,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-04-19,Beilage 3,Nudeln mit Gemüse,"0,52 €","1,01 €",A,0
+2024-04-19,Dessert 1,Quark mit Mandarinen,"0,52 €","1,01 €",A,0
+2024-04-19,Dessert 2,Vanillepudding,"0,60 €","1,17 €",C,0
+2024-04-19,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-04-19,Gemüse 1,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-04-19,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-04-19,Suppe,Blumenkohlrahmsuppe,"0,54 €","1,05 €",A,0
+2024-04-15,Eintopf,Lauchrahmtopf mit Kartoffelwürfeln und Suppengemüse,"1,62 €","3,16 €",A,0
+2024-04-15,Essen 1,"Kartoffelnudeln mit Kraut, Paprikastreifen und Speck","1,94 €","3,78 €",A,0
+2024-04-15,Essen 2,Gebratene Hähnchenbrust mit Paprikarahmsoße,"2,56 €","4,99 €",A,0
+2024-04-15,Vegan,Frische Kartoffelknödel mit Champignons in Sojarahm,"2,56 €","4,99 €",A,0
+2024-04-15,Wok-/Grill,"Lahmacun, türkische Pizza mit frischen Salaten, Hähnchenstreifen und Joghurt","4,48 €","6,35 €",B,0
+2024-04-15,Beilage 1,Kroketten,"0,62 €","1,21 €",C,1
+2024-04-15,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-04-15,Beilage 3,Nudeln,"0,40 €","0,78 €",A,0
+2024-04-15,Dessert 1,Pfirsichjoghurt,"0,52 €","1,01 €",C,0
+2024-04-15,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-04-15,Gemüse 1,Karottenscheiben,"0,34 €","0,66 €",A,0
+2024-04-15,Gemüse 2,Erbsen,"0,48 €","0,94 €",A,0
+2024-04-15,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-04-15,Suppe,Kohlrabicremesuppe,"0,50 €","0,98 €",A,0
+2024-04-16,Eintopf,Süßkartoffel-Tomaten-Eintopf,"1,70 €","3,32 €",A,0
+2024-04-16,Essen 1,Fleischbällchen mit Paprika-Zwiebeln-Erbsengemüse und Ajvar,"2,52 €","4,91 €",A,0
+2024-04-16,Essen 2,Gebratenes Rotbarschfilet mit Lauchrahmsoße,"2,56 €","4,99 €",B,0
+2024-04-16,Vegan,Jackfruit-Ragout mit frischen Wiesenchampignons,"1,66 €","3,24 €",A,0
+2024-04-16,Wok-/Grill,"""Pimp Your Burger"" - Rindfleischpatty mit Salat, unserer Haussoße, Pommes frites und Toppings nach Wahl","6,04 €","7,91 €",D,0
+2024-04-16,Beilage 1,Nudeln,"0,40 €","0,78 €",A,0
+2024-04-16,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-04-16,Dessert 1,Milchreis mit Zimt und Zucker,"0,72 €","1,40 €",C,0
+2024-04-16,Dessert 2,Pfirsichjoghurt,"0,52 €","1,01 €",C,0
+2024-04-16,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-04-16,Gemüse 1,Romanobohnen,"0,52 €","1,01 €",A,0
+2024-04-16,Gemüse 2,Blattspinat in Sojarahm,"0,60 €","1,17 €",A,0
+2024-04-16,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-04-16,Suppe,Tomatensuppe,"0,40 €","0,78 €",A,0
+2024-04-17,Eintopf,Unser Bestseller: Ungarische Gulaschsuppe,"3,16 €","6,16 €",A,0
+2024-04-17,Essen 1,Nudel- Gemüseauflauf auf Tomatensugo,"2,22 €","4,33 €",A,0
+2024-04-17,Essen 2,Knusprig gebratener Schweinebauch mit Zwiebel-Apfelragout,"2,30 €","4,49 €",D,0
+2024-04-17,Vegan,"Kichererbsencurry mit Spinat, Blumenkohl, Wurzelgemüse und Reis","1,88 €","3,67 €",A,0
+2024-04-17,Wok-/Grill,"""Gong Bao Chicken"" - Traditionelles chinesisches Wok-Gericht aus der Szechuan-Küche mit Reis","3,72 €","5,59 €",A,0
+2024-04-17,Beilage 1,Schwenkkartoffeln,"0,64 €","1,25 €",B,0
+2024-04-17,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-04-17,Dessert 1,Vanillepudding,"0,60 €","1,17 €",C,0
+2024-04-17,Dessert 2,Milchreis mit Zimt und Zucker,"0,72 €","1,40 €",C,0
+2024-04-17,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-04-17,Gemüse 1,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-04-17,Gemüse 2,Brokkoli,"0,76 €","1,48 €",A,0
+2024-04-17,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-04-17,Suppe,Pürierte Erbsensuppe,"0,56 €","1,09 €",A,0
+2024-04-18,Eintopf,Erbseneintopf,"1,72 €","3,35 €",A,0
+2024-04-18,Essen 1,Schwenkkartoffelpfanne mit Gemüse und Kräuter-Quark,"1,74 €","3,39 €",A,0
+2024-04-18,Essen 2,"""Jägergulasch"" - Schweinegulasch mit Speck und Champignons in Weißwein-Sahnesoße","2,52 €","4,91 €",B,0
+2024-04-18,Vegan,"Veggie-Gyros ""Akropolis"" mit Zaziki","1,62 €","3,16 €",A,0
+2024-04-18,Wok-/Grill,"Hausgemachte Lasagne al forno, Rindfleisch mit Wurzelgemüse, Tomatensoße und Salat","3,69 €","5,56 €",B,0
+2024-04-18,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-04-18,Beilage 2,Nudeln mit Gemüse,"0,52 €","1,01 €",A,0
+2024-04-18,Dessert 1,Erdbeercremejoghurt,"0,46 €","0,90 €",B,0
+2024-04-18,Dessert 2,Vanillepudding,"0,60 €","1,17 €",C,0
+2024-04-18,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-04-18,Gemüse 1,Balkangemüse,"0,46 €","0,90 €",A,0
+2024-04-18,Gemüse 2,Blumenkohl,"0,44 €","0,86 €",A,0
+2024-04-18,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-04-18,Suppe,Apfel-Kürbissuppe,"0,54 €","1,05 €",B,0
+2024-04-19,Aktion,Erbseneintopf,"1,72 €","3,35 €",A,0
+2024-04-19,Eintopf,"Gemüseeintopf ""Pichelsteiner Art""","1,54 €","3,00 €",A,0
+2024-04-19,Essen 1,"""Tortilla Española"" Spanisches Kartoffelomelette mit Paprika und Kirschtomaten","1,96 €","3,82 €",A,0
+2024-04-19,Essen 2,"Fischfiletstreifen ""Kibbeling"" mit Zitronen-Mayonnaise","2,32 €","4,52 €",C,0
+2024-04-19,Essen 3,"""Jägergulasch"" - Schweinegulasch mit Speck und Champignons in Weißwein-Sahnesoße","2,52 €","4,91 €",B,0
+2024-04-19,Vegan,Frisches Grillgemüse mit Kartoffeln aus dem Ofen,"2,32 €","4,52 €",B,0
+2024-04-19,Wok-/Grill,"Großes Schweineschnitzel ""Holsteiner Art"" mit Schmorzwiebeln, Spiegelei und Pommes frites","5,01 €","6,88 €",A,0
+2024-04-19,Beilage 1,Kartoffeln,"0,56 €","1,09 €",A,0
+2024-04-19,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-04-19,Beilage 3,Nudeln mit Gemüse,"0,52 €","1,01 €",A,0
+2024-04-19,Dessert 1,Quark mit Mandarinen,"0,52 €","1,01 €",A,0
+2024-04-19,Dessert 2,Vanillepudding,"0,60 €","1,17 €",C,0
+2024-04-19,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-04-19,Gemüse 1,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-04-19,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-04-19,Suppe,Blumenkohlrahmsuppe,"0,54 €","1,05 €",A,0
+2024-04-22,Eintopf,"""planted. Chicken"" Eintopf mit Curry und Gemüse","2,34 €","4,56 €",A,0
+2024-04-22,Essen 1,Kartoffelgnocchi mit frischem Gemüse und Kräuter-Sahnesoße,"2,06 €","4,02 €",A,0
+2024-04-22,Essen 2,"Putengulasch ""Süß-Sauer"" mit Koriander","2,40 €","4,68 €",A,0
+2024-04-22,Vegan,"Orientalische Couscouspfanne mit Gemüse, Mango, Rosinen, Nüssen und Soja-Joghurtdip","1,96 €","3,82 €",A,0
+2024-04-22,Wok-/Grill,"Medium gegartes Roastbeef mit Kräuterbutter, Pommes frites und hausgemachtem Krautsalat","7,74 €","9,61 €",A,0
+2024-04-22,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-04-22,Beilage 2,Penne Rigate mit Gemüse,"0,47 €","0,91 €",A,0
+2024-04-22,Dessert 1,Joghurt mit Kirschen,"0,59 €","1,14 €",C,0
+2024-04-22,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-04-22,Gemüse 1,Cordial Mischgemüse,"0,60 €","1,17 €",A,0
+2024-04-22,Gemüse 2,Pariser Karotten,"0,66 €","1,29 €",A,0
+2024-04-22,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-04-22,Suppe,Gemüsecremesuppe,"0,39 €","0,77 €",B,0
+2024-04-23,Eintopf,Wirsingeintopf,"2,24 €","4,37 €",A,0
+2024-04-23,Essen 1,"Schupfnudeln mit karamellisierten Äpfeln, Ahornsirup und Vanillesoße","2,46 €","4,80 €",C,0
+2024-04-23,Essen 2,Gebratenes Tilapiafilet mit Meerrettich-Sahnesoße,"2,34 €","4,56 €",A,0
+2024-04-23,Vegan,"""Chili con Soja"" mit Kidneybohnen, Mais und Fladenbrot","1,90 €","3,71 €",A,0
+2024-04-23,Wok-/Grill,"""Pimp Your Burger"" - Mariniertes Hähchenbrustfilet mit Cole Slaw, Süßkartoffelpommes und Toppings nach Wahl","5,40 €","7,27 €",B,0
+2024-04-23,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-04-23,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-04-23,Dessert 1,Buttermilchdessert mit Erdbeeren,"0,63 €","1,24 €",A,0
+2024-04-23,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-04-23,Gemüse 1,Mischgemüse,"0,64 €","1,25 €",A,0
+2024-04-23,Gemüse 2,Blattspinat in Sojarahm,"0,60 €","1,17 €",A,0
+2024-04-23,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-04-23,Suppe,Blumenkohlrahmsuppe,"0,53 €","1,03 €",A,0
+2024-04-24,Eintopf,Mediterraner Tomaten-Zucchini-Eintopf,"1,62 €","3,16 €",A,0
+2024-04-24,Essen 1,Blumenkohl-Brokkoligratin mit Béchamelsoße,"1,76 €","3,43 €",A,0
+2024-04-24,Essen 2,Gebackener Hackbraten mit Balkansoße,"2,54 €","4,95 €",A,0
+2024-04-24,Vegan,"""Acht Schätze"" - Pikante Sesamnudeln mit asiatischem Pfannengemüse","1,98 €","3,86 €",A,0
+2024-04-24,Wok-/Grill,"Svícková na smetane - Lendenbraten mit sämiger Wurzelgemüse-Sahne, Semmelknödel und Preiselbeeren","4,36 €","6,23 €",A,0
+2024-04-24,Beilage 1,Mie Nudeln,"0,56 €","1,09 €",A,0
+2024-04-24,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-04-24,Dessert 1,Grießpudding mit Himbeeren,"0,74 €","1,44 €",C,0
+2024-04-24,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-04-24,Gemüse 1,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-04-24,Gemüse 2,Blumenkohl-Brokkoli-Mix,"0,54 €","1,05 €",A,0
+2024-04-24,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-04-24,Suppe,Champignonsuppe,"0,55 €","1,08 €",A,0
+2024-04-25,Eintopf,Gartengemüse-Eintopf mit Nudeln,"1,86 €","3,63 €",A,0
+2024-04-25,Essen 1,Zwei Spinatknödel mit Kräuter-Zwiebelsoße,"2,00 €","3,90 €",A,0
+2024-04-25,Essen 2,"Spaghetti ""Bolognese""","2,30 €","4,49 €",A,0
+2024-04-25,Vegan,"Rote Bete Gnocchis mit Gemüse, Champignons und gehackten Walnüssen","1,98 €","3,86 €",A,0
+2024-04-25,Wok-/Grill,"""Fish & Chips"" - Backfisch mit Erbsenpüree und Pommes frites","3,12 €","4,99 €",A,0
+2024-04-25,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-04-25,Beilage 2,Reis mit Erbsen,"0,62 €","1,21 €",A,0
+2024-04-25,Dessert 1,Mangoquark,"0,64 €","1,24 €",A,0
+2024-04-25,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-04-25,Gemüse 1,Delikatessbohnen,"0,43 €","0,84 €",A,0
+2024-04-25,Gemüse 2,Balkangemüse,"0,46 €","0,90 €",A,0
+2024-04-25,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-04-25,Suppe,Brokkolisuppe,"0,72 €","1,40 €",A,0
+2024-04-26,Eintopf,Eintopf von grünen Bohnen,"1,72 €","3,35 €",A,0
+2024-04-26,Essen 1,"One Pot aus dem Ofen mit Kartoffeln, Gemüse und Cheddar","1,90 €","3,71 €",B,0
+2024-04-26,Essen 2,Zwei Kutterfrikadellen mit Remouladensoße,"2,18 €","4,25 €",D,0
+2024-04-26,Vegan,Bunte Tortellini-Gemüsepfanne mit Tomatensoße,"2,22 €","4,33 €",A,0
+2024-04-26,Wok-/Grill,"""Plant-based Schnitzel vom Feld"" mit frischen Rahmchampignons, Pommes frites und Salat","5,54 €","7,41 €",A,0
+2024-04-26,Beilage 1,Couscous,"0,44 €","0,86 €",A,0
+2024-04-26,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-04-26,Dessert 1,Joghurt mit Ananas,"0,52 €","1,01 €",B,0
+2024-04-26,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-04-26,Gemüse 1,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-04-26,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-04-26,Suppe,Rote Linsen-Kartoffelsuppe,"0,56 €","1,10 €",A,0
+2024-04-29,Eintopf,"Hackfleischeintopf ""Budapest"" mit Kartoffeln und Paprika","2,92 €","5,69 €",A,0
+2024-04-29,Essen 1,"Rösti ""Caprese"" mit Tomaten und Mozzarella überbacken","2,20 €","4,29 €",B,0
+2024-04-29,Essen 2,"Holländische ""Frikandel Spezial"" mit Curryketchup, Mayonnaise und feinen Zwiebeln","1,72 €","3,35 €",C,0
+2024-04-29,Vegan,Gebratene schwäbische Maultaschen mit Mischgemüse,"2,14 €","4,17 €",A,0
+2024-04-29,Wok-/Grill,"Frische, bunte Bandnudeln mit Rucola-Pesto, Kirschtomaten und Schweinefiletstreifen","5,16 €","7,03 €",A,0
+2024-04-29,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-04-29,Beilage 2,Schwenkkartoffeln,"0,64 €","1,25 €",B,0
+2024-04-29,Dessert 1,Joghurt mit Ananas,"0,36 €","0,70 €",B,0
+2024-04-29,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-04-29,Gemüse 1,Brokkoli,"0,76 €","1,48 €",A,0
+2024-04-29,Gemüse 2,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-04-29,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-04-29,Suppe,Kartoffelsuppe,"0,42 €","0,82 €",A,0
+2024-04-30,Eintopf,Pürierter Kartoffeleintopf mit frischer Blattpetersilie,"1,90 €","3,71 €",A,0
+2024-04-30,Essen 1,Spaghetti al Limone mit gerösteten Mandeln und Parmesan,"1,74 €","3,39 €",B,0
+2024-04-30,Essen 2,Gebratenes Buntbarschfilet mit Lauchrahmsoße,"2,16 €","4,21 €",B,0
+2024-04-30,Vegan,Frühlingsrolle mit Gemüsefüllung und Mango-Chutney,"2,42 €","4,72 €",C,0
+2024-04-30,Wok-/Grill,"""Pimp Your Burger"" - Rindfleischpatty mit Salat, unserer Haussoße, Pommes frites und Toppings nach Wahl","6,06 €","7,95 €",D,0
+2024-04-30,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-04-30,Beilage 2,Nudeln mit Gemüse,"0,54 €","1,05 €",A,0
+2024-04-30,Dessert 2,Schokopudding,"0,60 €","1,17 €",C,0
+2024-04-30,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-04-30,Gemüse 1,Blumenkohl,"0,42 €","0,82 €",A,0
+2024-04-30,Gemüse 2,Karottenscheiben,"0,36 €","0,70 €",A,0
+2024-04-30,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-04-30,Suppe,Brokkolisuppe,"0,36 €","0,70 €",A,0
+2024-05-02,Eintopf,Gemüse-Nudeltopf mit veganem Ei,"1,88 €","3,67 €",A,0
+2024-05-02,Essen 1,"""Mac & Cheese"" - Maccaroni mit Chashewkernen und Käsesoße","1,98 €","3,86 €",B,0
+2024-05-02,Essen 2,Hausgemachte Frikadelle mit Champignonrahmsoße,"2,64 €","5,15 €",A,0
+2024-05-02,Vegan,Kartoffel-Endivienstampf mit Falafelbällchen,"2,22 €","4,33 €",B,0
+2024-05-02,Wok-/Grill,"""Powerfood Salatbowl"" mit Hähnchenstreifen in Chili-Kokosrahm auf verschiedenen Salaten und einem Dressing nach Wahl","3,94 €","5,81 €",A,0
+2024-05-02,Beilage 1,Reisnudeln,"0,38 €","0,74 €",A,0
+2024-05-02,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-05-02,Dessert 2,Buttermilchdessert Mango,"0,72 €","1,40 €",B,0
+2024-05-02,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-05-02,Gemüse 1,Erbsen,"0,48 €","0,94 €",A,0
+2024-05-02,Gemüse 2,Ratatouille Gemüse,"0,46 €","0,90 €",A,0
+2024-05-02,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-05-02,Suppe,Petersilienwurzelsuppe,"0,76 €","1,48 €",A,0
+2024-05-03,Eintopf,Kichererbsen-Tomateneintopf,"1,46 €","3,33 €",A,0
+2024-05-03,Essen 1,Currywurstpfanne mit Paprika und Zwiebeln,"1,90 €","3,71 €",B,0
+2024-05-03,Essen 2,Seelachsfilet mit Spinat und Mozzarella überbacken und Zitronensoße,"2,96 €","5,77 €",A,0
+2024-05-03,Vegan,Bunter Gemüse-Mix mit tomatisierten Vollkornnudeln und frischem Basilikum,"2,12 €","4,13 €",A,0
+2024-05-03,Wok-/Grill,American Pancakes mit Beerenobst und Vanillesoße,"3,20 €","5,07 €",C,0
+2024-05-03,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-05-03,Beilage 2,Reis mit Gemüse,"0,60 €","1,17 €",B,0
+2024-05-03,Dessert 2,Grießpudding mit Himbeeren,"0,46 €","0,90 €",C,0
+2024-05-03,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-05-03,Gemüse 1,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-05-03,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-05-03,Suppe,Kräutersuppe,"0,42 €","0,82 €",B,0
+2024-05-06,Eintopf,"""Blumenkohleintopf mit Kartoffeln und Kichererbsen""","1,64 €","3,20 €",A,0
+2024-05-06,Essen 1,Kartoffel-Spitzkohlpfanne mit Walnuss-Apfeldip,"1,84 €","3,59 €",A,0
+2024-05-06,Essen 2,Schweinegulasch Toskana im Reisrand,"2,86 €","5,58 €",A,0
+2024-05-06,Vegan,Jackfruit-Kürbis-Curry mit Ananas und Kokosmilch,"1,98 €","3,86 €",A,0
+2024-05-06,Wok-/Grill,"""Pierogi"" mit Kartoffel-Quarkfüllung, Gemüsestiften und Schnittlauch-Crème-fraîche","2,74 €","4,61 €",B,0
+2024-05-06,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-05-06,Beilage 2,Rosmarinkartoffeln,"0,64 €","1,25 €",A,0
+2024-05-06,Dessert 1,Erdbeercremejoghurt,"0,46 €","0,90 €",B,0
+2024-05-06,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-05-06,Gemüse 1,Brokkoli,"0,68 €","1,33 €",A,0
+2024-05-06,Gemüse 2,Ratatouille Gemüse,"0,48 €","0,90 €",A,0
+2024-05-06,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-05-06,Suppe,Kohlrabicremesuppe,"0,50 €","0,98 €",A,0
+2024-05-07,Eintopf,Linseneintopf,"1,54 €","3,28 €",A,0
+2024-05-07,Essen 1,"Gebratener Reis mit Gemüse, Ei und einer Hähnchenhaxe","2,50 €","4,88 €",A,0
+2024-05-07,Essen 2,Rotbarschfilet mit Rahmgemüse,"2,20 €","4,29 €",A,0
+2024-05-07,Vegan,Backkartoffel mit Blattspinat und Kirschtomaten gefüllt,"1,96 €","3,82 €",A,0
+2024-05-07,Wok-/Grill,"""Pimp your Burger"" - Kross gebratenes Gemüse-Patty mit Pommes frites und Toppings nach Wahl","5,82 €","7,69 €",B,0
+2024-05-07,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-05-07,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-05-07,Dessert 2,Grießpudding mit Himbeeren,"0,74 €","1,44 €",C,0
+2024-05-07,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-05-07,Gemüse 1,Delikatessbohnen,"0,44 €","0,86 €",A,0
+2024-05-07,Gemüse 2,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-05-07,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-05-07,Suppe,Champignonsuppe,"0,54 €","1,05 €",A,0
+2024-05-08,Eintopf,"Möhren ""Durcheinander""","1,78 €","3,47 €",A,0
+2024-05-08,Essen 1,Semmelknödel mit Waldpilzen,"1,92 €","3,74 €",B,0
+2024-05-08,Essen 2,"""Pulled-Porkpfanne BBQ"" mit Paprika und Zwiebeln","2,34 €","4,56 €",A,0
+2024-05-08,Vegan,Hausgemachte Linsenlasagne mit Tomatensoße,"2,22 €","4,39 €",A,0
+2024-05-08,Wok-/Grill,"Choriatiki salata Griechischer Gemüsesalat mit roten Linsen, Oliven, Gurken, Tomaten, Paprika und gebratenem Halloumi","5,48 €","7,35 €",C,0
+2024-05-08,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-05-08,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-05-08,Dessert 2,Quark mit Erdbeeren,"0,72 €","1,40 €",A,0
+2024-05-08,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-05-08,Gemüse 1,Erbsen,"0,48 €","0,94 €",A,0
+2024-05-08,Gemüse 2,Mexicogemüse,"0,64 €","1,25 €",A,0
+2024-05-08,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-05-08,Suppe,Brokkolisuppe,"0,52 €","1,01 €",A,0
+2024-05-10,Eintopf,Unser Bestseller: Ungarische Gulaschsuppe,"3,28 €","6,40 €",A,0
+2024-05-10,Essen 1,Süßer Germknödel mit warmer Vanillesoße und Waldbeeren,"1,68 €","3,28 €",B,0
+2024-05-10,Essen 2,Zwei Kutterfrikadellen mit Remouladensoße,"2,20 €","4,29 €",D,0
+2024-05-10,Vegan,Gnocchi-Gyros-Pfanne mit Zaziki,"1,72 €","3,35 €",A,0
+2024-05-10,Wok-/Grill,Rheinischer Sauerbraten mit Apfelrotkohl und frischen Kartoffelklößen,"5,78 €","7,65 €",A,0
+2024-05-10,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-05-10,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-05-10,Dessert 1,Blaubeerjoghurt,"0,64 €","1,25 €",C,0
+2024-05-10,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-05-10,Gemüse 1,Romanobohnen,"0,52 €","1,01 €",A,0
+2024-05-10,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-05-10,Suppe,Asiatische Gemüsesuppe,"0,62 €","1,21 €",A,0
+2024-05-13,Eintopf,Eintopf von grünen Bohnen,"1,72 €","3,35 €",A,0
+2024-05-13,Essen 1,Gefüllte Gnocchi mit Ajvarsoße und gebratenen Paprikastreifen,"2,34 €","4,56 €",B,0
+2024-05-13,Essen 2,Paniertes Hähnchenschnitzel mit Rahmsoße,"2,19 €","4,28 €",B,0
+2024-05-13,Vegan,"Kartoffel-Gemüsepfanne mit Falaffelbällchen, Cashewkernen und Koriander","1,95 €","3,80 €",A,0
+2024-05-13,Wok-/Grill,"Tomatenrisotto mit Green Mountain Balls, veganem Fetakäse und Rucola","4,31 €","6,18 €",B,0
+2024-05-13,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-05-13,Beilage 2,Kroketten,"0,61 €","1,19 €",C,1
+2024-05-13,Dessert 1,Pfirsichquark,"0,62 €","1,21 €",A,0
+2024-05-13,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-05-13,Gemüse 1,Rahmkohlrabi,"0,44 €","0,86 €",A,0
+2024-05-13,Gemüse 2,Blumenkohl,"0,44 €","0,86 €",A,0
+2024-05-13,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-05-13,Suppe,Karotten-Ingwersuppe,"0,39 €","0,76 €",A,0
+2024-05-14,Eintopf,Spitzkohleintopf,"1,83 €","3,56 €",A,0
+2024-05-14,Essen 1,Spaghetti mit einer rauchigen Speck-Sahnesoße,"1,65 €","3,22 €",B,0
+2024-05-14,Essen 2,Gebratenes Buntbarschfilet mit Lauchrahmsoße,"2,20 €","4,28 €",B,0
+2024-05-14,Vegan,Seitan Ragout mit Mischpilzen und Vollkornnudeln,"2,14 €","4,17 €",A,0
+2024-05-14,Wok-/Grill,"""Pimp Your Burger"" Zartes Hähnchenbrustfilet mit Haussoße, Rucola, Pommes frites und Toppings","5,23 €","7,10 €",B,0
+2024-05-14,Beilage 1,Rosmarinkartoffeln,"0,62 €","1,21 €",A,0
+2024-05-14,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-05-14,Dessert 1,Joghurt mit Kirschen,"0,56 €","1,09 €",C,0
+2024-05-14,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-05-14,Gemüse 1,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-05-14,Gemüse 2,Brokkoli,"0,76 €","1,48 €",A,0
+2024-05-14,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-05-14,Suppe,Blumenkohlrahmsuppe,"0,54 €","1,05 €",A,0
+2024-05-15,Eintopf,Lauchrahmtopf mit Kartoffelwürfeln und Suppengemüse,"1,62 €","3,16 €",A,0
+2024-05-15,Essen 1,Allgäuer Käsespätzle mit Lauch und Röstzwiebeln,"2,43 €","4,74 €",A,0
+2024-05-15,Essen 2,Kasselerrückenbraten mit Malzbiersoße,"2,24 €","4,37 €",A,0
+2024-05-15,Vegan,Indisches Rote Linsen Dal mit Blattspinat,"1,92 €","3,75 €",A,0
+2024-05-15,Wok-/Grill,"Cevapcici - Hausgemachte Hackfleischröllchen mit Zwiebelringen, Zaziki und Djuvec-Reis","4,66 €","6,53 €",A,0
+2024-05-15,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-05-15,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-05-15,Dessert 2,Milchreis mit Zimt und Zucker,"0,74 €","1,48 €",C,0
+2024-05-15,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-05-15,Gemüse 1,Wirsing Gemüse Sojarahm TK,"0,60 €","1,20 €",A,0
+2024-05-15,Gemüse 2,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-05-15,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-05-15,Suppe,Curry-Rahmsuppe,"0,52 €","1,01 €",A,0
+2024-05-16,Eintopf,Erbseneintopf,"1,73 €","3,37 €",A,0
+2024-05-16,Essen 1,Kartoffeltaschen mit Frischkäsefüllung und Mangoldsoße,"2,35 €","4,58 €",B,0
+2024-05-16,Essen 2,Putenstreifen in einer fruchtigen Currysoße,"2,54 €","4,96 €",A,0
+2024-05-16,Vegan,Asiatischer Reistopf mit Wokgemüse und Sojabohnenkeimlingen,"1,92 €","3,75 €",A,0
+2024-05-16,Wok-/Grill,"Rinderschmorbraten mit kräftiger Rotweinjus, Apfelrotkohl und frischen Klößen","5,57 €","7,44 €",A,0
+2024-05-16,Beilage 1,Nudeln mit Gemüse,"0,54 €","1,05 €",A,0
+2024-05-16,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-05-16,Dessert 2,Vanillepudding,"0,60 €","1,17 €",C,0
+2024-05-16,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-05-16,Gemüse 1,Mischgemüse,"0,50 €","0,98 €",A,0
+2024-05-16,Gemüse 2,Romanesco,"0,76 €","1,48 €",A,0
+2024-05-16,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-05-16,Suppe,Paprikarahmsuppe,"0,62 €","1,21 €",A,0
+2024-05-17,Eintopf,Brasilianischer Gemüseeintopf mit roten Bohnen und Mais,"1,69 €","3,30 €",A,0
+2024-05-17,Essen 1,"""Kommse vonne Schicht, watt Schöneres gibbet nich"" als unsere: Currywurst","1,80 €","3,51 €",C,0
+2024-05-17,Essen 2,Zwei Backfischfilets mit Remouladensoße,"2,43 €","4,73 €",D,0
+2024-05-17,Vegan,Gulasch von der rheinischen Knolle mit Haferschmand,"1,49 €","2,91 €",A,0
+2024-05-17,Wok-/Grill,Indisches Butter Chicken mit Basmatireis,"4,99 €","6,86 €",A,0
+2024-05-17,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-05-17,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-05-17,Dessert 1,Erdbeercremejoghurt,"0,48 €","0,94 €",B,0
+2024-05-17,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-05-17,Gemüse 1,Erbsen und Fingerkarotten,"0,50 €","0,98 €",A,0
+2024-05-17,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-05-17,Suppe,Kräutersuppe,"0,42 €","0,82 €",B,0
+2024-05-21,Eintopf,"Hackfleischeintopf ""Budapest"" mit Kartoffeln und Paprika","2,92 €","5,68 €",A,0
+2024-05-21,Essen 1,Gnocchiauflauf mit Blattspinat und Tomate,"2,18 €","4,25 €",A,0
+2024-05-21,Essen 2,Paniertes Putenschnitzel mit Geflügelsoße,"2,40 €","4,68 €",A,0
+2024-05-21,Vegan,"Veganes "" No-Chicken"" Frikassee","1,84 €","3,59 €",A,0
+2024-05-21,Wok-/Grill,"""Pimp Your Burger"" - ""Planted."" Kebap Burger mit Pommes Frites und Toppings nach Wahl","5,76 €","7,63 €",A,0
+2024-05-21,Beilage 1,Nudeln,"0,40 €","0,78 €",A,0
+2024-05-21,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-05-21,Dessert 1,Waldbeerjoghurt,"0,46 €","0,90 €",B,0
+2024-05-21,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-05-21,Gemüse 1,Sommergemüse,"0,44 €","0,86 €",A,0
+2024-05-21,Gemüse 2,Brokkoli,"0,76 €","1,48 €",A,0
+2024-05-21,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-05-21,Suppe,Tandoori Gemüsesuppe,"0,52 €","1,01 €",A,0
+2024-05-22,Eintopf,Pürierter Kartoffeleintopf mit frischer Blattpetersilie,"1,90 €","3,71 €",A,0
+2024-05-22,Essen 1,Schupfnudel-Poutine,"2,40 €","4,68 €",B,0
+2024-05-22,Essen 2,Hausgemachte Bifteki-Frikadelle mit Hirtenkäsefüllung und Zaziki,"2,60 €","5,07 €",B,0
+2024-05-22,Vegan,"Vollkornspaghetti mit Mangold, Kirschtomaten und gerösteten Sonnenblumenkernen","1,64 €","3,20 €",A,0
+2024-05-22,Wok-/Grill,"Pollo a la Brasa Peruanische Hähnchenkeule mit Koriander, Limette, Chili, Basmati-Reis und Ajì Verde","5,24 €","7,11 €",D,0
+2024-05-22,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-05-22,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-05-22,Dessert 1,Schokopudding,"0,60 €","1,17 €",C,0
+2024-05-22,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-05-22,Gemüse 1,Rustica Karotten,"0,64 €","1,25 €",A,0
+2024-05-22,Gemüse 2,Ratatouille Gemüse,"0,48 €","0,94 €",A,0
+2024-05-22,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-05-22,Suppe,Kräutersuppe,"0,42 €","0,82 €",B,0
+2024-05-23,Eintopf,Blumenkohl-Curry-Topf mit Kokosmilch,"1,66 €","3,24 €",A,0
+2024-05-23,Essen 1,"Reisnudelpfanne ""Olymp"" - Reisnudeln mit mediterranem Gemüse und Weißkäse","1,82 €","3,55 €",A,0
+2024-05-23,Essen 2,Natur gebratenes Stielkotelett mit Schmorzwiebeln und Jus,"2,52 €","4,91 €",A,0
+2024-05-23,Vegan,Hausgemachte Linsenlasagne mit Tomatensoße,"2,22 €","4,33 €",A,0
+2024-05-23,Wok-/Grill,"Miso Ramen - Nudelsuppe mit Rinderhüfte, Shii-Take u. Mu-Err Pilzen, Nori-Blätter, Soja, Sesam, Ingwer und Koriander","5,44 €","7,31 €",A,0
+2024-05-23,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-05-23,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-05-23,Dessert 1,Pfirsichquark,"0,62 €","1,21 €",A,0
+2024-05-23,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-05-23,Gemüse 1,Delikatessbohnen,"0,44 €","0,86 €",A,0
+2024-05-23,Gemüse 2,Buntes Gemüse mit Kichererbsen,"0,76 €","1,48 €",A,0
+2024-05-23,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-05-23,Suppe,Kartoffelsuppe,"0,46 €","0,90 €",A,0
+2024-05-24,Eintopf,Ribollita - Toskanischer Bauerntopf,"1,82 €","3,55 €",A,0
+2024-05-24,Essen 1,Gebackenes Käseschnitzel mit Kräutersoße,"2,48 €","4,84 €",C,0
+2024-05-24,Essen 2,Alaska-Seelachsfilet in Eihülle und Senf-Dillsoße,"2,64 €","5,15 €",A,0
+2024-05-24,Vegan,Gebackene Aubergine mit Tabouleh und Soja-Minzdip,"1,72 €","3,25 €",A,0
+2024-05-24,Wok-/Grill,"Argentinische Steakhüfte mit Pfefferrahmsoße, Pommes frites und Salat","7,00 €","8,87 €",A,0
+2024-05-24,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-05-24,Beilage 2,Nudeln,"0,40 €","0,78 €",A,0
+2024-05-24,Dessert 1,Joghurt mit Müsli,"0,43 €","0,84 €",B,0
+2024-05-24,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-05-24,Gemüse 1,Blattspinat in Sojarahm,"0,60 €","1,17 €",A,0
+2024-05-24,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-05-24,Suppe,Curry-Rahmsuppe,"0,52 €","1,01 €",A,0
+2024-06-03,Eintopf,"""planted. Chicken"" Eintopf mit Curry und Gemüse","2,34 €","4,56 €",A,0
+2024-06-03,Essen 1,Kartoffelgnocchi mit frischem Gemüse und Kräuter-Sahnesoße,"1,98 €","3,86 €",A,0
+2024-06-03,Essen 2,"Putengulasch ""Süß-Sauer"" mit Koriander","2,40 €","4,68 €",A,0
+2024-06-03,Vegan,"Orientalische Couscouspfanne mit Gemüse, Mango, Rosinen, Nüssen und Soja-Joghurtdip","1,96 €","3,82 €",A,0
+2024-06-03,Wok-/Grill,"Medium gegartes Roastbeef mit Kräuterbutter, Pommes frites und hausgemachtem Krautsalat","7,74 €","9,61 €",A,0
+2024-06-03,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-06-03,Beilage 2,Penne Rigate mit Gemüse,"0,47 €","0,91 €",A,0
+2024-06-03,Dessert 1,Joghurt mit Kirschen,"0,59 €","1,14 €",C,0
+2024-06-03,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-06-03,Gemüse 1,Cordial Mischgemüse,"0,60 €","1,17 €",A,0
+2024-06-03,Gemüse 2,Pariser Karotten,"0,66 €","1,29 €",A,0
+2024-06-03,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-06-03,Suppe,Gemüsecremesuppe,"0,42 €","0,82 €",B,0
+2024-06-04,Aktion,"Weißer Stangenspargel mit einem Schnitzel vom Feld, Kräuterrahmsoße und neue Kartoffeln","7,98 €","9,85 €",A,0
+2024-06-04,Eintopf,Wirsingeintopf,"2,24 €","4,37 €",A,0
+2024-06-04,Essen 1,"Schupfnudeln mit karamellisierten Äpfeln, Ahornsirup und Vanillesoße","2,46 €","4,80 €",C,0
+2024-06-04,Essen 2,Gebratenes Tilapiafilet mit Meerrettich-Sahnesoße,"2,34 €","4,56 €",A,0
+2024-06-04,Vegan,"""Chili con Soja"" mit Kidneybohnen, Mais und Fladenbrot","1,90 €","3,71 €",A,0
+2024-06-04,Wok-/Grill,"Weißer Stangenspargel mit Putenschnitzelchen, dazu Sc. Hollandaise oder zerlassene Butter und neue Kartoffeln","7,70 €","9,57 €",C,0
+2024-06-04,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-06-04,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-06-04,Dessert 1,Buttermilchdessert mit Erdbeeren,"0,63 €","1,24 €",A,0
+2024-06-04,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-06-04,Gemüse 1,Mischgemüse,"0,64 €","1,25 €",A,0
+2024-06-04,Gemüse 2,Blattspinat in Sojarahm,"0,60 €","1,17 €",A,0
+2024-06-04,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-06-04,Suppe,Blumenkohlrahmsuppe,"0,53 €","1,03 €",A,0
+2024-06-05,Aktion,"Weißer Stangenspargel mit einem Schnitzel vom Feld, Kräuterrahmsoße und neue Kartoffeln","7,98 €","9,85 €",A,0
+2024-06-05,Eintopf,Mediterraner Tomaten-Zucchini-Eintopf,"1,62 €","3,16 €",A,0
+2024-06-05,Essen 1,Blumenkohl-Brokkoligratin mit Béchamelsoße,"1,76 €","3,43 €",A,0
+2024-06-05,Essen 2,Gebackener Hackbraten mit Balkansoße,"2,54 €","4,95 €",A,0
+2024-06-05,Vegan,Pikante Sesamnudeln mit asiatischem Pfannengemüse,"1,98 €","3,86 €",A,0
+2024-06-05,Wok-/Grill,"Weißer Stangenspargel mit Buntbarschfilet, dazu Sc. Hollandaise oder zerlassene Butter und neue Kartoffeln","7,98 €","9,85 €",C,0
+2024-06-05,Beilage 1,Kroketten,"0,62 €","1,21 €",C,1
+2024-06-05,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-06-05,Dessert 1,Grießpudding mit Himbeeren,"0,74 €","1,44 €",C,0
+2024-06-05,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-06-05,Gemüse 1,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-06-05,Gemüse 2,Mexicogemüse,"0,64 €","1,25 €",A,0
+2024-06-05,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-06-05,Suppe,Champignonsuppe,"0,55 €","1,08 €",A,0
+2024-06-06,Aktion,"Weißer Stangenspargel mit einem Schnitzel vom Feld, Kräuterrahmsoße und neue Kartoffeln","7,98 €","9,85 €",A,0
+2024-06-06,Eintopf,Gartengemüse-Eintopf mit Nudeln,"1,86 €","3,63 €",A,0
+2024-06-06,Essen 1,Zwei Spinatknödel mit Kräuter-Zwiebelsoße,"2,00 €","3,90 €",A,0
+2024-06-06,Essen 2,"Spaghetti ""Bolognese""","2,30 €","4,49 €",A,0
+2024-06-06,Vegan,"Rote Bete Gnocchis mit Gemüse, Champignons und gehackten Walnüssen","1,98 €","3,86 €",A,0
+2024-06-06,Wok-/Grill,"Weißer Stangenspargel mit Hähnchenbrustfilet, dazu Sc. Hollandaise oder zerlassene Butter und neue Kartoffeln","8,24 €","10,11 €",C,0
+2024-06-06,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-06-06,Beilage 2,Reis mit Erbsen,"0,62 €","1,21 €",A,0
+2024-06-06,Dessert 1,Mangoquark,"0,64 €","1,24 €",A,0
+2024-06-06,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-06-06,Gemüse 1,Delikatessbohnen,"0,43 €","0,84 €",A,0
+2024-06-06,Gemüse 2,Balkangemüse,"0,46 €","0,90 €",A,0
+2024-06-06,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-06-06,Suppe,Brokkolisuppe,"0,72 €","1,40 €",A,0
+2024-06-07,Eintopf,Eintopf von grünen Bohnen,"1,72 €","3,35 €",A,0
+2024-06-07,Essen 1,"One Pot aus dem Ofen mit Kartoffeln, Gemüse und Cheddar","1,90 €","3,71 €",A,0
+2024-06-07,Essen 2,Zwei Kutterfrikadellen mit Remouladensoße,"2,18 €","4,25 €",D,0
+2024-06-07,Vegan,Bunte Tortellini-Gemüsepfanne mit Tomatensoße,"2,22 €","4,33 €",A,0
+2024-06-07,Wok-/Grill,"""Plant-based Schnitzel vom Feld"" mit frischen Rahmchampignons, Pommes frites und Salat","5,54 €","7,41 €",A,0
+2024-06-07,Beilage 1,Couscous,"0,44 €","0,86 €",A,0
+2024-06-07,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-06-07,Dessert 1,Joghurt mit Ananas,"0,52 €","1,01 €",B,0
+2024-06-07,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-06-07,Gemüse 1,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-06-07,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-06-07,Suppe,Rote Linsen-Kartoffelsuppe,"0,56 €","1,10 €",A,0
+2024-06-10,Eintopf,"Hackfleischeintopf ""Budapest"" mit Kartoffeln und Paprika","2,92 €","5,69 €",A,0
+2024-06-10,Essen 1,"Rösti ""Caprese"" mit Tomaten und Mozzarella überbacken","2,20 €","4,29 €",B,0
+2024-06-10,Essen 2,"Holländische ""Frikandel Spezial"" mit Curryketchup, Mayonnaise und feinen Zwiebeln","1,72 €","3,35 €",C,0
+2024-06-10,Vegan,Gebratene schwäbische Maultaschen mit Mischgemüse,"2,14 €","4,17 €",A,0
+2024-06-10,Wok-/Grill,"Frische, bunte Bandnudeln mit Rucola-Pesto, Kirschtomaten und Schweinefiletstreifen","5,16 €","7,03 €",A,0
+2024-06-10,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-06-10,Beilage 2,Schwenkkartoffeln,"0,64 €","1,25 €",B,0
+2024-06-10,Beilage 3,Kartoffelpüree,"0,60 €","1,17 €",A,0
+2024-06-10,Dessert 1,Joghurt mit Ananas,"0,52 €","1,01 €",B,0
+2024-06-10,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-06-10,Gemüse 1,Brokkoli,"0,76 €","1,48 €",A,0
+2024-06-10,Gemüse 2,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-06-10,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-06-10,Suppe,Kartoffelsuppe,"0,42 €","0,82 €",A,0
+2024-06-11,Eintopf,Pürierter Kartoffeleintopf mit frischer Blattpetersilie,"1,90 €","3,71 €",A,0
+2024-06-11,Essen 1,Spaghetti al Limone mit gerösteten Mandeln und Parmesan,"1,74 €","3,39 €",B,0
+2024-06-11,Essen 2,Gebratenes Buntbarschfilet mit Lauchrahmsoße,"2,16 €","4,21 €",B,0
+2024-06-11,Vegan,Frühlingsrolle mit Gemüsefüllung und Mango-Chutney,"2,42 €","4,72 €",C,0
+2024-06-11,Wok-/Grill,"""Pimp Your Burger"" - Rindfleischpatty mit Salat, unserer Haussoße, Pommes frites und Toppings nach Wahl","6,08 €","7,95 €",D,0
+2024-06-11,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-06-11,Beilage 2,Nudeln mit Gemüse,"0,54 €","1,05 €",A,0
+2024-06-11,Dessert 1,Schokopudding,"0,60 €","1,17 €",C,0
+2024-06-11,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-06-11,Gemüse 1,Blumenkohl,"0,42 €","0,82 €",A,0
+2024-06-11,Gemüse 2,Karottenscheiben,"0,36 €","0,70 €",A,0
+2024-06-11,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-06-11,Suppe,Brokkolisuppe,"0,36 €","0,70 €",A,0
+2024-06-12,Eintopf,"Weißer Bohneneintopf ""Serbische Art""","1,86 €","3,63 €",A,0
+2024-06-12,Essen 1,"Kartoffelnocken mit Wirsing, Karottenscheiben und Kürbisrahmsoße","1,80 €","3,60 €",A,0
+2024-06-12,Essen 2,Lummerbraten vom Schwein mit grüner Pfeffersoße,"2,22 €","4,33 €",A,0
+2024-06-12,Vegan,Penne Primavera,"1,72 €","3,35 €",A,0
+2024-06-12,Wok-/Grill,"Bami Goreng Bratnudeln mit Ei, Pak choi, Frühlingszwiebeln, Hähnchenfleisch und Ketjap Manis","3,88 €","5,75 €",A,0
+2024-06-12,Beilage 1,Kroketten,"0,62 €","1,21 €",C,1
+2024-06-12,Beilage 2,Kartoffelpüree,"0,42 €","0,82 €",A,0
+2024-06-12,Dessert 1,Waldbeerjoghurt,"0,52 €","1,01 €",B,0
+2024-06-12,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-06-12,Gemüse 1,Delikatessbohnen,"0,44 €","0,86 €",A,0
+2024-06-12,Gemüse 2,Balkangemüse,"0,46 €","0,90 €",A,0
+2024-06-12,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-06-12,Suppe,Karotten-Ingwersuppe,"0,40 €","0,78 €",A,0
+2024-06-13,Eintopf,Gemüse-Nudeltopf mit veganem Ei,"1,88 €","3,67 €",A,0
+2024-06-13,Essen 1,"""Mac & Cheese"" - Maccaroni mit Chashewkernen und Käsesoße","1,96 €","3,82 €",B,0
+2024-06-13,Essen 2,Hausgemachte Frikadelle mit Champignonrahmsoße,"2,64 €","5,15 €",A,0
+2024-06-13,Vegan,Kartoffel-Endivienstampf mit Falafelbällchen,"2,22 €","4,33 €",B,0
+2024-06-13,Wok-/Grill,"""Powerfood Salatbowl"" mit Hähnchenstreifen in Chili-Kokosrahm auf verschiedenen Salaten und einem Dressing nach Wahl","3,94 €","5,81 €",A,0
+2024-06-13,Beilage 1,Reisnudeln,"0,38 €","0,74 €",A,0
+2024-06-13,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-06-13,Dessert 1,Buttermilchdessert Mango,"0,72 €","1,40 €",B,0
+2024-06-13,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-06-13,Gemüse 1,Erbsen,"0,48 €","0,94 €",A,0
+2024-06-13,Gemüse 2,Ratatouille Gemüse,"0,46 €","0,90 €",A,0
+2024-06-13,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-06-13,Suppe,Petersilienwurzelsuppe,"0,76 €","1,48 €",A,0
+2024-06-14,Eintopf,Kichererbsen-Tomateneintopf,"1,46 €","3,33 €",A,0
+2024-06-14,Essen 1,Currywurstpfanne mit Paprika und Zwiebeln,"1,90 €","3,71 €",B,0
+2024-06-14,Essen 2,Seelachsfilet mit Spinat und Mozzarella überbacken und Zitronensoße,"2,96 €","5,77 €",A,0
+2024-06-14,Vegan,Bunter Gemüse-Mix mit tomatisierten Vollkornnudeln und frischem Basilikum,"2,12 €","4,13 €",A,0
+2024-06-14,Wok-/Grill,American Pancakes mit Beerenobst und Vanillesoße,"3,20 €","5,07 €",C,0
+2024-06-14,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-06-14,Beilage 2,Reis mit Gemüse,"0,60 €","1,17 €",B,0
+2024-06-14,Dessert 1,Grießpudding mit Himbeeren,"0,46 €","0,90 €",C,0
+2024-06-14,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-06-14,Gemüse 1,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-06-14,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-06-14,Suppe,Kräutersuppe,"0,42 €","0,82 €",B,0
+2024-06-17,Eintopf,"""Blumenkohleintopf mit Kartoffeln und Kichererbsen""","1,64 €","3,20 €",A,0
+2024-06-17,Essen 1,Kartoffel-Spitzkohlpfanne mit Walnuss-Apfeldip,"1,84 €","3,59 €",A,0
+2024-06-17,Essen 2,Schweinegulasch Toskana im Reisrand,"2,86 €","5,58 €",A,0
+2024-06-17,Vegan,Jackfruit-Kürbis-Curry mit Ananas und Kokosmilch,"1,98 €","3,86 €",A,0
+2024-06-17,Wok-/Grill,Power Bowl mit Couscous und Hähnchen,"5,74 €","7,61 €",A,0
+2024-06-17,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-06-17,Beilage 2,Rosmarinkartoffeln,"0,64 €","1,25 €",A,0
+2024-06-17,Dessert 1,Erdbeercremejoghurt,"0,46 €","0,90 €",B,0
+2024-06-17,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-06-17,Gemüse 1,Brokkoli,"0,68 €","1,33 €",A,0
+2024-06-17,Gemüse 2,Ratatouille Gemüse,"0,48 €","0,90 €",A,0
+2024-06-17,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-06-17,Suppe,Kohlrabicremesuppe,"0,50 €","0,98 €",A,0
+2024-06-18,Eintopf,Linseneintopf,"1,54 €","3,28 €",A,0
+2024-06-18,Essen 1,"Gebratener Reis mit Gemüse, Ei und einer Hähnchenhaxe","2,50 €","4,88 €",A,0
+2024-06-18,Essen 2,Rotbarschfilet mit Rahmgemüse,"2,20 €","4,29 €",A,0
+2024-06-18,Vegan,Backkartoffel mit Blattspinat und Kirschtomaten gefüllt,"1,96 €","3,82 €",A,0
+2024-06-18,Wok-/Grill,"Quinoa Avocado Bowl ""Grüner geht immer""","3,44 €","5,31 €",A,0
+2024-06-18,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-06-18,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-06-18,Dessert 2,Grießpudding mit Himbeeren,"0,74 €","1,44 €",C,0
+2024-06-18,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-06-18,Gemüse 1,Delikatessbohnen,"0,44 €","0,86 €",A,0
+2024-06-18,Gemüse 2,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-06-18,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-06-18,Suppe,Champignonsuppe,"0,54 €","1,05 €",A,0
+2024-06-19,Eintopf,"Möhren ""Durcheinander""","1,78 €","3,47 €",A,0
+2024-06-19,Essen 1,Semmelknödel mit Waldpilzen,"1,92 €","3,74 €",B,0
+2024-06-19,Essen 2,"""Pulled-Porkpfanne BBQ"" mit Paprika und Zwiebeln","2,34 €","4,56 €",A,0
+2024-06-19,Vegan,Hausgemachte Linsenlasagne mit Tomatensoße,"2,22 €","4,39 €",A,0
+2024-06-19,Wok-/Grill,Grünkern Bowl mit gekochtem Ei und Hähnchenbrust,"4,24 €","6,11 €",A,0
+2024-06-19,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-06-19,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-06-19,Dessert 2,Quark mit Erdbeeren,"0,72 €","1,40 €",A,0
+2024-06-19,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-06-19,Gemüse 1,Erbsen,"0,48 €","0,94 €",A,0
+2024-06-19,Gemüse 2,Mexicogemüse,"0,64 €","1,25 €",A,0
+2024-06-19,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-06-19,Suppe,Brokkolisuppe,"0,52 €","1,01 €",A,0
+2024-06-20,Eintopf,"Afrikanischer Ananas-Erdnuß-Eintopf ""planted.""","2,56 €","4,99 €",A,0
+2024-06-20,Essen 1,"Penne ""Mykonos"" mit Gemüse und Hirtenkäse","1,66 €","3,24 €",A,0
+2024-06-20,Essen 2,Geplatzte Wirsingroulade mit Jus,"2,04 €","3,98 €",A,0
+2024-06-20,Vegan,"Pommes frites ""Street Food Style"" mit Sojabolognese","2,06 €","4,01 €",A,0
+2024-06-20,Wok-/Grill,Tofino-Surfbowl mit glasiertem Lachs,"6,20 €","8,07 €",A,0
+2024-06-20,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-06-20,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-06-20,Dessert 2,Rote Grütze mit Vanillesoße,"0,60 €","1,20 €",C,0
+2024-06-20,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-06-20,Gemüse 1,Fingerkarotten,"0,44 €","0,86 €",A,0
+2024-06-20,Gemüse 2,Blumenkohl,"0,44 €","0,86 €",A,0
+2024-06-20,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-06-20,Suppe,Tomatencremesuppe,"0,56 €","1,09 €",B,0
+2024-06-21,Eintopf,Unser Bestseller: Ungarische Gulaschsuppe,"3,28 €","6,40 €",A,0
+2024-06-21,Essen 1,Süßer Germknödel mit warmer Vanillesoße und Waldbeeren,"1,68 €","3,28 €",B,0
+2024-06-21,Essen 2,Zwei Kutterfrikadellen mit Remouladensoße,"2,20 €","4,29 €",D,0
+2024-06-21,Vegan,Gnocchi-Gyros-Pfanne mit Zaziki,"1,72 €","3,35 €",A,0
+2024-06-21,Wok-/Grill,"Bunte Taco-Bowl ""al Pastor""","5,46 €","7,33 €",A,0
+2024-06-21,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-06-21,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-06-21,Dessert 1,Blaubeerjoghurt,"0,64 €","1,25 €",C,0
+2024-06-21,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-06-21,Gemüse 1,Romanobohnen,"0,52 €","1,01 €",A,0
+2024-06-21,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-06-21,Suppe,Asiatische Gemüsesuppe,"0,62 €","1,21 €",A,0
+2024-06-24,Eintopf,Eintopf von grünen Bohnen,"1,72 €","3,35 €",A,0
+2024-06-24,Essen 1,Gefüllte Gnocchi mit Ajvarsoße und gebratenen Paprikastreifen,"2,34 €","4,56 €",B,0
+2024-06-24,Essen 2,Paniertes Hähnchenschnitzel mit Rahmsoße,"2,19 €","4,28 €",B,0
+2024-06-24,Vegan,"Kartoffel-Gemüsepfanne mit Falaffelbällchen, Cashewkernen und Koriander","1,95 €","3,80 €",A,0
+2024-06-24,Wok-/Grill,"""FreeStyl""Veranstaltung","2,40 €","4,68 €",C,0
+2024-06-24,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-06-24,Beilage 2,Kroketten,"0,61 €","1,19 €",C,1
+2024-06-24,Dessert 1,Joghurt mit Kirschen,"0,40 €","0,80 €",C,0
+2024-06-24,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-06-24,Gemüse 1,Rahmkohlrabi,"0,44 €","0,86 €",A,0
+2024-06-24,Gemüse 2,Blumenkohl,"0,44 €","0,86 €",A,0
+2024-06-24,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-06-24,Suppe,Karotten-Ingwersuppe,"0,39 €","0,76 €",A,0
+2024-06-25,Eintopf,Spitzkohleintopf,"1,83 €","3,56 €",A,0
+2024-06-25,Essen 1,Spaghetti mit einer rauchigen Speck-Sahnesoße,"1,65 €","3,22 €",B,0
+2024-06-25,Essen 2,Gebratenes Buntbarschfilet mit Lauchrahmsoße,"2,20 €","4,28 €",B,0
+2024-06-25,Vegan,Seitan Ragout mit Mischpilzen und Vollkornnudeln,"2,14 €","4,17 €",A,0
+2024-06-25,Wok-/Grill,"""FreeStyle"" Veranstaltung","3,61 €","7,03 €",B,0
+2024-06-25,Beilage 1,Rosmarinkartoffeln,"0,62 €","1,21 €",A,0
+2024-06-25,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-06-25,Dessert 1,Vanillepudding,"0,40 €","0,80 €",C,0
+2024-06-25,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-06-25,Gemüse 1,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-06-25,Gemüse 2,Brokkoli,"0,76 €","1,48 €",A,0
+2024-06-25,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-06-25,Suppe,Blumenkohlrahmsuppe,"0,54 €","1,05 €",A,0
+2024-07-01,Essen 1,"Tortelloni ""Mediterraneo"" mit Kirschtomaten und Sonnenblumenkernen","2,26 €","4,41 €",A,0
+2024-07-01,Essen 2,Paniertes Putenschnitzel mit Geflügelsoße,"2,40 €","4,68 €",A,0
+2024-07-01,Essen 3,"""Kommse vonne Schicht, watt Schöneres gibbet nich"" als unsere: Currywurst","1,80 €","3,51 €",C,0
+2024-07-01,Vegan,"Bulgur-Gemüsepfanne ""Sweet Chili"" mit Grünkohl-Hanfbällchen","2,48 €","4,84 €",A,0
+2024-07-01,Wok-/Grill,"Frisch, gegrillte Schweinefiletmedaillons mit Speckböhnchen und Gnocchi","5,08 €","6,95 €",A,0
+2024-07-01,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-07-01,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-07-01,Beilage 3,Nudeln mit Gemüse,"0,54 €","1,05 €",A,0
+2024-07-01,Dessert 1,Zitronenquark,"0,44 €","0,86 €",A,0
+2024-07-01,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-01,Gemüse 1,Mischgemüse in Sojarahm,"0,58 €","1,13 €",A,0
+2024-07-01,Gemüse 2,Erbsen,"0,48 €","0,94 €",A,0
+2024-07-01,Gemüse 3,Rosmarinkartoffeln,"0,62 €","1,21 €",A,0
+2024-07-01,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-01,Suppe,Karotten-Ingwersuppe,"0,40 €","0,78 €",A,0
+2024-07-02,Eintopf,"Hackfleischeintopf ""Budapest"" mit Kartoffeln und Paprika","2,92 €","5,68 €",A,0
+2024-07-02,Essen 1,Gnocchiauflauf mit Blattspinat und Tomate,"2,18 €","4,25 €",A,0
+2024-07-02,Essen 2,Gebratenes Tilapiafilet mit Kokos-Curry-Gemüse,"2,42 €","4,72 €",A,0
+2024-07-02,Essen 3,"Orientalischer Falafel-Bowl Taboulé, Paprika, Pilze, Koriander, Couscous, Fladenbrot, Hummus, würzige Falafelbällchen und veganer Joghurt-Dip","5,60 €","7,47 €",A,0
+2024-07-02,Vegan,"Veganes "" No-Chicken"" Frikassee","1,84 €","3,59 €",A,0
+2024-07-02,Wok-/Grill,"Orientalischer Chicken-Bowl Taboulé, Paprika, Pilze, Koriander, Couscous, Fladenbrot, Mandeln, Hummus, marinierte Chicken-Wings und Joghurt-Dip","6,20 €","8,07 €",A,0
+2024-07-02,Beilage 1,Nudeln,"0,40 €","0,78 €",A,0
+2024-07-02,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-07-02,Dessert 1,Waldbeerjoghurt,"0,46 €","0,90 €",B,0
+2024-07-02,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-02,Gemüse 1,Sommergemüse,"0,44 €","0,86 €",A,0
+2024-07-02,Gemüse 2,Brokkoli,"0,76 €","1,48 €",A,0
+2024-07-02,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-02,Suppe,Tandoori Gemüsesuppe,"0,52 €","1,01 €",A,0
+2024-07-03,Eintopf,Pürierter Kartoffeleintopf mit frischer Blattpetersilie,"1,90 €","3,71 €",A,0
+2024-07-03,Essen 1,Schupfnudel-Poutine,"2,40 €","4,68 €",B,0
+2024-07-03,Essen 2,Hausgemachte Bifteki-Frikadelle mit Hirtenkäsefüllung und Zaziki,"2,60 €","5,07 €",B,0
+2024-07-03,Essen 3,"""Jägergulasch"" - Schweinegulasch mit Speck und Champignons in Weißwein-Sahnesoße","2,56 €","4,99 €",B,0
+2024-07-03,Vegan,"Vollkornspaghetti mit Mangold, Kirschtomaten und gerösteten Sonnenblumenkernen","1,64 €","3,20 €",A,0
+2024-07-03,Wok-/Grill,"Sucuk-Pasta Frische bunte Bandnudeln mit kräftig gewürzten Sucuk-würfeln, Zwiebeln und Tomatensoße","4,14 €","6,01 €",D,0
+2024-07-03,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-07-03,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-07-03,Beilage 3,Gnocchi,"0,92 €","1,79 €",A,0
+2024-07-03,Dessert 1,Schokopudding,"0,60 €","1,17 €",C,0
+2024-07-03,Dessert 2,Waldbeerjoghurt,"0,46 €","0,90 €",B,0
+2024-07-03,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-03,Gemüse 1,Rustica Karotten,"0,64 €","1,25 €",A,0
+2024-07-03,Gemüse 2,Ratatouille Gemüse,"0,48 €","0,94 €",A,0
+2024-07-03,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-03,Suppe,Kräutersuppe,"0,42 €","0,82 €",B,0
+2024-07-04,Eintopf,Blumenkohl-Curry-Topf mit Kokosmilch,"1,66 €","3,24 €",A,0
+2024-07-04,Essen 1,"Reisnudelpfanne ""Olymp"" - Reisnudeln mit mediterranem Gemüse und Weißkäse","1,82 €","3,55 €",A,0
+2024-07-04,Essen 2,Natur gebratenes Stielkotelett mit Schmorzwiebeln und Jus,"2,52 €","4,91 €",A,0
+2024-07-04,Vegan,Hausgemachte Linsenlasagne mit Tomatensoße,"2,22 €","4,33 €",A,0
+2024-07-04,Wok-/Grill,"Kurzgebratene, ausgelöste Hähnchenkeule mit Erdnusssoße und Risi Bisi","4,42 €","6,29 €",A,0
+2024-07-04,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-07-04,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-07-04,Dessert 1,Pfirsichquark,"0,62 €","1,21 €",A,0
+2024-07-04,Dessert 2,Schokopudding,"0,60 €","1,17 €",C,0
+2024-07-04,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-04,Gemüse 1,Delikatessbohnen,"0,44 €","0,86 €",A,0
+2024-07-04,Gemüse 2,Buntes Gemüse mit Kichererbsen,"0,76 €","1,48 €",A,0
+2024-07-04,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-04,Suppe,Kartoffelsuppe,"0,46 €","0,90 €",A,0
+2024-07-05,Eintopf,Ribollita - Toskanischer Bauerntopf,"1,82 €","3,55 €",A,0
+2024-07-05,Essen 1,Gebackenes Käseschnitzel mit Kräutersoße,"2,48 €","4,84 €",D,0
+2024-07-05,Essen 2,Alaska-Seelachsfilet in Eihülle und Senf-Dillsoße,"2,64 €","5,15 €",A,0
+2024-07-05,Vegan,Gebratene Aubergine mit Tabouleh und Soja-Minzdip,"1,72 €","3,25 €",A,0
+2024-07-05,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-07-05,Beilage 2,Nudeln,"0,40 €","0,78 €",A,0
+2024-07-05,Dessert 1,Joghurt mit Müsli,"0,43 €","0,84 €",B,0
+2024-07-05,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-05,Gemüse 1,Blattspinat in Sojarahm,"0,60 €","1,17 €",A,0
+2024-07-05,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-05,Suppe,Curry-Rahmsuppe,"0,52 €","1,01 €",A,0
+2024-07-08,Eintopf,Lauchrahmtopf mit Kartoffelwürfeln und Suppengemüse,"1,62 €","3,16 €",A,0
+2024-07-08,Essen 1,"Kartoffelnudeln mit Kraut, Paprikastreifen und Speck","1,94 €","3,78 €",A,0
+2024-07-08,Essen 2,Gebratene Hähnchenbrust mit Paprikarahmsoße,"2,56 €","4,99 €",A,0
+2024-07-08,Vegan,Frische Kartoffelknödel mit Champignons in Sojarahm,"2,56 €","4,99 €",A,0
+2024-07-08,Beilage 1,Kroketten,"0,62 €","1,21 €",C,1
+2024-07-08,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-07-08,Dessert 1,Vanillepudding,"0,60 €","1,17 €",C,0
+2024-07-08,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-08,Gemüse 1,Karottenscheiben,"0,34 €","0,66 €",A,0
+2024-07-08,Gemüse 2,Erbsen,"0,48 €","0,94 €",A,0
+2024-07-08,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-08,Suppe,Kohlrabicremesuppe,"0,50 €","0,98 €",A,0
+2024-07-09,Eintopf,Süßkartoffel-Tomaten-Eintopf,"1,70 €","3,32 €",A,0
+2024-07-09,Essen 1,Fleischbällchen mit Paprika-Zwiebeln-Erbsengemüse und Ajvar,"2,52 €","4,91 €",A,0
+2024-07-09,Essen 2,Gebratenes Rotbarschfilet mit Lauchrahmsoße,"2,56 €","4,99 €",B,0
+2024-07-09,Vegan,Jackfruit-Ragout mit frischen Wiesenchampignons,"1,66 €","3,24 €",A,0
+2024-07-09,Wok-/Grill,"""Pimp Your Burger"" - Rindfleischpatty mit Salat, unserer Haussoße, Pommes frites und Toppings nach Wahl","6,04 €","7,91 €",D,0
+2024-07-09,Beilage 1,Nudeln,"0,40 €","0,78 €",A,0
+2024-07-09,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-07-09,Dessert 1,Milchreis mit Zimt und Zucker,"0,72 €","1,40 €",C,0
+2024-07-09,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-09,Gemüse 1,Romanobohnen,"0,52 €","1,01 €",A,0
+2024-07-09,Gemüse 2,Blattspinat in Sojarahm,"0,60 €","1,17 €",A,0
+2024-07-09,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-09,Suppe,Tomatensuppe,"0,40 €","0,78 €",A,0
+2024-07-10,Eintopf,Unser Bestseller: Ungarische Gulaschsuppe,"3,16 €","6,16 €",A,0
+2024-07-10,Essen 1,Nudel- Gemüseauflauf auf Tomatensugo,"2,22 €","4,33 €",A,0
+2024-07-10,Essen 2,Knusprig gebratener Schweinebauch mit Zwiebel-Apfelragout,"2,30 €","4,49 €",D,0
+2024-07-10,Vegan,"Kichererbsencurry mit Spinat, Blumenkohl, Wurzelgemüse und Reis","1,88 €","3,67 €",A,0
+2024-07-10,Wok-/Grill,Piccata alla milanese Paniertes Schnitzel mit Parmesan und Spaghetti in Tomatensoße,"3,16 €","5,03 €",A,0
+2024-07-10,Beilage 1,Schwenkkartoffeln,"0,64 €","1,25 €",B,0
+2024-07-10,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-07-10,Dessert 1,Pfirsichjoghurt,"0,52 €","1,01 €",C,0
+2024-07-10,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-10,Gemüse 1,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-07-10,Gemüse 2,Brokkoli,"0,76 €","1,48 €",A,0
+2024-07-10,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-10,Suppe,Pürierte Erbsensuppe,"0,56 €","1,09 €",A,0
+2024-07-11,Eintopf,Erbseneintopf,"1,72 €","3,35 €",A,0
+2024-07-11,Essen 1,Schwenkkartoffelpfanne mit Gemüse und Kräuter-Quark,"1,74 €","3,39 €",A,0
+2024-07-11,Essen 2,"""Jägergulasch"" - Schweinegulasch mit Speck und Champignons in Weißwein-Sahnesoße","2,52 €","4,91 €",B,0
+2024-07-11,Vegan,"Veggie-Gyros ""Akropolis"" mit Zaziki","1,62 €","3,16 €",A,0
+2024-07-11,Wok-/Grill,"Hausgemachte Lasagne al forno, Rindfleisch mit Wurzelgemüse, Tomatensoße und Salat","3,69 €","5,56 €",B,0
+2024-07-11,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-07-11,Beilage 2,Nudeln mit Gemüse,"0,52 €","1,01 €",A,0
+2024-07-11,Dessert 1,Erdbeercremejoghurt,"0,46 €","0,90 €",B,0
+2024-07-11,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-11,Gemüse 1,Balkangemüse,"0,46 €","0,90 €",A,0
+2024-07-11,Gemüse 2,Blumenkohl,"0,44 €","0,86 €",A,0
+2024-07-11,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-11,Suppe,Apfel-Kürbissuppe,"0,54 €","1,05 €",B,0
+2024-07-12,Eintopf,"Gemüseeintopf ""Pichelsteiner Art""","1,54 €","3,00 €",A,0
+2024-07-12,Essen 1,"""Tortilla Española"" Spanisches Kartoffelomelette mit Paprika und Kirschtomaten","1,96 €","3,82 €",A,0
+2024-07-12,Essen 2,"Fischfiletstreifen ""Kibbeling"" mit Zitronen-Mayonnaise","2,32 €","4,52 €",C,0
+2024-07-12,Vegan,Frisches Grillgemüse mit Kartoffeln aus dem Ofen,"2,32 €","4,52 €",B,0
+2024-07-12,Wok-/Grill,"Großes Schweineschnitzel ""Holsteiner Art"" mit Schmorzwiebeln, Spiegelei und Pommes frites","5,01 €","6,88 €",A,0
+2024-07-12,Beilage 1,Kartoffeln,"0,56 €","1,09 €",A,0
+2024-07-12,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-07-12,Dessert 1,Quark mit Mandarinen,"0,52 €","1,01 €",A,0
+2024-07-12,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-12,Gemüse 1,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-07-12,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-12,Suppe,Blumenkohlrahmsuppe,"0,54 €","1,05 €",A,0
+2024-07-15,Eintopf,"""planted. Chicken"" Eintopf mit Curry und Gemüse","2,34 €","4,56 €",A,0
+2024-07-15,Essen 1,Kartoffelgnocchi mit frischem Gemüse und Kräuter-Sahnesoße,"1,98 €","3,86 €",A,0
+2024-07-15,Essen 2,"Putengulasch ""Süß-Sauer"" mit Koriander","2,40 €","4,68 €",A,0
+2024-07-15,Vegan,"Orientalische Couscouspfanne mit Gemüse, Mango, Rosinen, Nüssen und Soja-Joghurtdip","1,96 €","3,82 €",A,0
+2024-07-15,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-07-15,Beilage 2,Penne Rigate mit Gemüse,"0,47 €","0,91 €",A,0
+2024-07-15,Dessert 1,Joghurt mit Kirschen,"0,59 €","1,14 €",C,0
+2024-07-15,Dessert 2,Schokopudding,"0,60 €","1,17 €",C,0
+2024-07-15,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-15,Gemüse 1,Cordial Mischgemüse,"0,60 €","1,17 €",A,0
+2024-07-15,Gemüse 2,Pariser Karotten,"0,66 €","1,29 €",A,0
+2024-07-15,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-15,Suppe,Gemüsecremesuppe,"0,42 €","0,82 €",B,0
+2024-07-16,Eintopf,Wirsingeintopf,"2,24 €","4,37 €",A,0
+2024-07-16,Essen 1,"Schupfnudeln mit karamellisierten Äpfeln, Ahornsirup und Vanillesoße","2,46 €","4,80 €",C,0
+2024-07-16,Essen 2,Gebratenes Tilapiafilet mit Meerrettich-Sahnesoße,"2,34 €","4,56 €",A,0
+2024-07-16,Vegan,"""Chili con Soja"" mit Kidneybohnen, Mais und Fladenbrot","1,90 €","3,71 €",A,0
+2024-07-16,Wok-/Grill,"""Pimp Your Burger"" - Mariniertes Hähchenbrustfilet mit Cole Slaw, Süßkartoffelpommes und Toppings nach Wahl","5,40 €","7,27 €",B,0
+2024-07-16,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-07-16,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-07-16,Dessert 1,Buttermilchdessert mit Erdbeeren,"0,63 €","1,24 €",A,0
+2024-07-16,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-16,Gemüse 1,Mischgemüse,"0,64 €","1,25 €",A,0
+2024-07-16,Gemüse 2,Blattspinat in Sojarahm,"0,60 €","1,17 €",A,0
+2024-07-16,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-16,Suppe,Blumenkohlrahmsuppe,"0,53 €","1,03 €",A,0
+2024-07-17,Eintopf,Mediterraner Tomaten-Zucchini-Eintopf,"1,62 €","3,16 €",A,0
+2024-07-17,Essen 1,Blumenkohl-Brokkoligratin mit Béchamelsoße,"1,76 €","3,43 €",A,0
+2024-07-17,Essen 2,Gebackener Hackbraten mit Balkansoße,"2,54 €","4,95 €",A,0
+2024-07-17,Vegan,Pikante Sesamnudeln mit asiatischem Pfannengemüse,"1,98 €","3,86 €",A,0
+2024-07-17,Wok-/Grill,"Pyttipanna Gebratene Kartoffeln mit Speck, frischen Kräutern, Spiegelei und rote Bete","3,08 €","4,95 €",A,0
+2024-07-17,Beilage 1,Kroketten,"0,62 €","1,21 €",C,1
+2024-07-17,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-07-17,Dessert 1,Grießpudding mit Himbeeren,"0,74 €","1,44 €",C,0
+2024-07-17,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-17,Gemüse 1,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-07-17,Gemüse 2,Mexicogemüse,"0,64 €","1,25 €",A,0
+2024-07-17,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-17,Suppe,Champignonsuppe,"0,55 €","1,08 €",A,0
+2024-07-18,Eintopf,Gartengemüse-Eintopf mit Nudeln,"1,86 €","3,63 €",A,0
+2024-07-18,Essen 1,Zwei Spinatknödel mit Kräuter-Zwiebelsoße,"2,00 €","3,90 €",A,0
+2024-07-18,Essen 2,"Spaghetti ""Bolognese""","2,30 €","4,49 €",A,0
+2024-07-18,Vegan,"Rote Bete Gnocchis mit Gemüse, Champignons und gehackten Walnüssen","1,98 €","3,86 €",A,0
+2024-07-18,Wok-/Grill,"""Fish & Chips"" - Backfisch mit Erbsenpüree und Pommes frites","3,12 €","4,99 €",A,0
+2024-07-18,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-07-18,Beilage 2,Reis mit Erbsen,"0,62 €","1,21 €",A,0
+2024-07-18,Dessert 1,Mangoquark,"0,64 €","1,24 €",A,0
+2024-07-18,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-18,Gemüse 1,Delikatessbohnen,"0,43 €","0,84 €",A,0
+2024-07-18,Gemüse 2,Balkangemüse,"0,46 €","0,90 €",A,0
+2024-07-18,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-18,Suppe,Brokkolisuppe,"0,72 €","1,40 €",A,0
+2024-07-19,Eintopf,Eintopf von grünen Bohnen,"1,72 €","3,35 €",A,0
+2024-07-19,Essen 1,"One Pot aus dem Ofen mit Kartoffeln, Gemüse und Cheddar","1,90 €","3,71 €",A,0
+2024-07-19,Essen 2,Zwei Kutterfrikadellen mit Remouladensoße,"2,18 €","4,25 €",D,0
+2024-07-19,Vegan,Bunte Tortellini-Gemüsepfanne mit Tomatensoße,"2,22 €","4,33 €",A,0
+2024-07-19,Wok-/Grill,"""Plant-based Schnitzel vom Feld"" mit frischen Rahmchampignons, Pommes frites und Salat","5,54 €","7,41 €",A,0
+2024-07-19,Beilage 1,Couscous,"0,44 €","0,86 €",A,0
+2024-07-19,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-07-19,Dessert 1,Joghurt mit Ananas,"0,52 €","1,01 €",B,0
+2024-07-19,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-19,Gemüse 1,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-07-19,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-19,Suppe,Rote Linsen-Kartoffelsuppe,"0,56 €","1,10 €",A,0
+2024-07-22,Eintopf,"Hackfleischeintopf ""Budapest"" mit Kartoffeln und Paprika","2,92 €","5,69 €",A,0
+2024-07-22,Essen 1,"Rösti ""Caprese"" mit Tomaten und Mozzarella überbacken","2,20 €","4,29 €",B,0
+2024-07-22,Essen 2,"Holländische ""Frikandel Spezial"" mit Curryketchup, Mayonnaise und feinen Zwiebeln","1,72 €","3,35 €",C,0
+2024-07-22,Vegan,Gebratene schwäbische Maultaschen mit Mischgemüse,"2,14 €","4,17 €",A,0
+2024-07-22,Wok-/Grill,"Frische, bunte Bandnudeln mit Rucola-Pesto, Kirschtomaten und Schweinefiletstreifen","5,16 €","7,03 €",A,0
+2024-07-22,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-07-22,Beilage 2,Schwenkkartoffeln,"0,64 €","1,25 €",B,0
+2024-07-22,Dessert 1,Joghurt mit Ananas,"0,52 €","1,01 €",B,0
+2024-07-22,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-22,Gemüse 1,Brokkoli,"0,76 €","1,48 €",A,0
+2024-07-22,Gemüse 2,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-07-22,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-22,Suppe,Kartoffelsuppe,"0,42 €","0,82 €",A,0
+2024-07-23,Eintopf,Pürierter Kartoffeleintopf mit frischer Blattpetersilie,"1,90 €","3,71 €",A,0
+2024-07-23,Essen 1,Spaghetti al Limone mit gerösteten Mandeln und Parmesan,"1,74 €","3,39 €",B,0
+2024-07-23,Essen 2,Gebratenes Buntbarschfilet mit Lauchrahmsoße,"2,16 €","4,21 €",B,0
+2024-07-23,Vegan,Frühlingsrolle mit Gemüsefüllung und Mango-Chutney,"2,42 €","4,72 €",C,0
+2024-07-23,Wok-/Grill,"""Pimp Your Burger"" - Rindfleischpatty mit Salat, unserer Haussoße, Pommes frites und Toppings nach Wahl","6,08 €","7,95 €",D,0
+2024-07-23,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-07-23,Beilage 2,Nudeln mit Gemüse,"0,54 €","1,05 €",A,0
+2024-07-23,Dessert 1,Schokopudding,"0,60 €","1,17 €",C,0
+2024-07-23,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-23,Gemüse 1,Blumenkohl,"0,42 €","0,82 €",A,0
+2024-07-23,Gemüse 2,Karottenscheiben,"0,36 €","0,70 €",A,0
+2024-07-23,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-23,Suppe,Brokkolisuppe,"0,36 €","0,70 €",A,0
+2024-07-24,Eintopf,"Weißer Bohneneintopf ""Serbische Art""","1,86 €","3,63 €",A,0
+2024-07-24,Essen 1,"Kartoffelnocken mit Spitzkohl, Karottenscheiben und Kürbisrahmsoße","1,80 €","3,60 €",A,0
+2024-07-24,Essen 2,Lummerbraten vom Schwein mit grüner Pfeffersoße,"2,22 €","4,33 €",A,0
+2024-07-24,Vegan,Penne Primavera mit buntem Gemüse,"1,72 €","3,35 €",A,0
+2024-07-24,Wok-/Grill,"Choriatiki salata Griechischer Gemüsesalat mit roten Linsen, Oliven, Gurken, Tomaten, Paprika und gebratenem Halloumi","5,48 €","7,35 €",C,0
+2024-07-24,Beilage 1,Kroketten,"0,62 €","1,21 €",C,1
+2024-07-24,Beilage 2,Kartoffelpüree,"0,42 €","0,82 €",A,0
+2024-07-24,Dessert 1,Waldbeerjoghurt,"0,52 €","1,01 €",B,0
+2024-07-24,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-24,Gemüse 1,Delikatessbohnen,"0,44 €","0,86 €",A,0
+2024-07-24,Gemüse 2,Balkangemüse,"0,46 €","0,90 €",A,0
+2024-07-24,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-24,Suppe,Karotten-Ingwersuppe,"0,40 €","0,78 €",A,0
+2024-07-25,Eintopf,Gemüse-Nudeltopf mit veganem Ei,"1,88 €","3,67 €",A,0
+2024-07-25,Essen 1,"""Mac & Cheese"" - Maccaroni mit Chashewkernen und Käsesoße","1,96 €","3,82 €",B,0
+2024-07-25,Essen 2,Hausgemachte Frikadelle mit Champignonrahmsoße,"2,64 €","5,15 €",A,0
+2024-07-25,Vegan,Kartoffel-Endivienstampf mit Falafelbällchen,"2,22 €","4,33 €",B,0
+2024-07-25,Wok-/Grill,"""Powerfood Salatbowl"" mit Hähnchenstreifen in Chili-Kokosrahm auf verschiedenen Salaten und einem Dressing nach Wahl","3,94 €","5,81 €",A,0
+2024-07-25,Beilage 1,Reisnudeln,"0,38 €","0,74 €",A,0
+2024-07-25,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-07-25,Dessert 1,Buttermilchdessert Mango,"0,72 €","1,40 €",B,0
+2024-07-25,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-25,Gemüse 1,Erbsen,"0,48 €","0,94 €",A,0
+2024-07-25,Gemüse 2,Ratatouille Gemüse,"0,46 €","0,90 €",A,0
+2024-07-25,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-25,Suppe,Petersilienwurzelsuppe,"0,76 €","1,48 €",A,0
+2024-07-26,Eintopf,Kichererbsen-Tomateneintopf,"1,46 €","3,33 €",A,0
+2024-07-26,Essen 1,Currywurstpfanne mit Paprika und Zwiebeln,"1,90 €","3,71 €",B,0
+2024-07-26,Essen 2,Seelachsfilet mit Spinat und Mozzarella überbacken und Zitronensoße,"2,96 €","5,77 €",A,0
+2024-07-26,Vegan,Bunter Gemüse-Mix mit tomatisierten Vollkornnudeln und frischem Basilikum,"2,12 €","4,13 €",A,0
+2024-07-26,Wok-/Grill,American Pancakes mit Beerenobst und Vanillesoße,"3,20 €","5,07 €",C,0
+2024-07-26,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-07-26,Beilage 2,Reis mit Gemüse,"0,60 €","1,17 €",B,0
+2024-07-26,Dessert 1,Grießpudding mit Himbeeren,"0,46 €","0,90 €",C,0
+2024-07-26,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-26,Gemüse 1,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-07-26,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-26,Suppe,Kräutersuppe,"0,42 €","0,82 €",B,0
+2024-07-29,Eintopf,"""Blumenkohleintopf mit Kartoffeln und Kichererbsen""","1,64 €","3,20 €",A,0
+2024-07-29,Essen 1,Kartoffel-Spitzkohlpfanne mit Walnuss-Apfeldip,"1,84 €","3,59 €",A,0
+2024-07-29,Essen 2,Schweinegulasch Toskana im Reisrand,"2,86 €","5,58 €",A,0
+2024-07-29,Vegan,Jackfruit-Kürbis-Curry mit Ananas und Kokosmilch,"1,98 €","3,86 €",A,0
+2024-07-29,Wok-/Grill,"""Pierogi"" mit Kartoffel-Quarkfüllung, Gemüsestiften und Schnittlauch-Crème-fraîche","2,74 €","4,61 €",B,0
+2024-07-29,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-07-29,Beilage 2,Rosmarinkartoffeln,"0,64 €","1,25 €",A,0
+2024-07-29,Beilage 3,Kroketten,"0,62 €","1,21 €",C,1
+2024-07-29,Dessert 1,Erdbeercremejoghurt,"0,46 €","0,90 €",B,0
+2024-07-29,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-29,Gemüse 1,Brokkoli,"0,68 €","1,33 €",A,0
+2024-07-29,Gemüse 2,Ratatouille Gemüse,"0,48 €","0,90 €",A,0
+2024-07-29,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-29,Suppe,Kohlrabicremesuppe,"0,50 €","0,98 €",A,0
+2024-07-30,Eintopf,Linseneintopf,"1,54 €","3,28 €",A,0
+2024-07-30,Essen 1,"Gebratener Reis mit Gemüse, Ei und einer Hähnchenhaxe","2,50 €","4,88 €",A,0
+2024-07-30,Essen 2,Rotbarschfilet mit Rahmgemüse,"2,20 €","4,29 €",A,0
+2024-07-30,Vegan,Backkartoffel mit Blattspinat und Kirschtomaten gefüllt,"1,96 €","3,82 €",A,0
+2024-07-30,Wok-/Grill,"""Pimp your Burger"" - Kross gebratenes Gemüse-Patty mit Pommes frites und Toppings nach Wahl","5,82 €","7,69 €",B,0
+2024-07-30,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-07-30,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-07-30,Dessert 1,Grießpudding mit Himbeeren,"0,74 €","1,44 €",C,0
+2024-07-30,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-30,Gemüse 1,Delikatessbohnen,"0,44 €","0,86 €",A,0
+2024-07-30,Gemüse 2,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-07-30,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-30,Suppe,Champignonsuppe,"0,54 €","1,05 €",A,0
+2024-07-31,Eintopf,"Möhren ""Durcheinander""","1,78 €","3,47 €",A,0
+2024-07-31,Essen 1,Semmelknödel mit Waldpilzen,"1,92 €","3,74 €",B,0
+2024-07-31,Essen 2,"""Pulled-Porkpfanne BBQ"" mit Paprika und Zwiebeln","2,34 €","4,56 €",A,0
+2024-07-31,Vegan,Hausgemachte Linsenlasagne mit Tomatensoße,"2,22 €","4,39 €",A,0
+2024-07-31,Wok-/Grill,"Pollo a la Brasa Peruanische Hähnchenkeule mit Koriander, Limette, Chili, Basmati-Reis und Ajì Verde","5,24 €","7,11 €",D,0
+2024-07-31,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-07-31,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-07-31,Dessert 1,Quark mit Erdbeeren,"0,72 €","1,40 €",A,0
+2024-07-31,Dessert Gläser,Dessert im Glas,---,---,C,0
+2024-07-31,Gemüse 1,Erbsen,"0,48 €","0,94 €",A,0
+2024-07-31,Gemüse 2,Mexicogemüse,"0,64 €","1,25 €",A,0
+2024-07-31,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-31,Suppe,Brokkolisuppe,"0,52 €","1,01 €",A,0
+2024-08-01,Eintopf,"Afrikanischer Ananas-Erdnuß-Eintopf ""planted.""","2,56 €","4,99 €",A,0
+2024-08-01,Essen 1,"Penne ""Mykonos"" mit Gemüse und Hirtenkäse","1,66 €","3,24 €",A,0
+2024-08-01,Essen 2,Geplatzte Wirsingroulade mit Jus,"2,04 €","3,98 €",A,0
+2024-08-01,Vegan,"Pommes frites ""Street Food Style"" mit Sojabolognese","2,06 €","4,01 €",A,0
+2024-08-01,Wok-/Grill,"""Pakora ""Gebackenes Tilapiafilet auf Indische Art mit Gemüsereis und Joghurt-Minzdip","3,26 €","5,13 €",A,0
+2024-08-01,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-08-01,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-08-01,Dessert 1,Rote Grütze mit Vanillesoße,"0,78 €","1,52 €",C,0
+2024-08-01,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-01,Gemüse 1,Fingerkarotten,"0,44 €","0,86 €",A,0
+2024-08-01,Gemüse 2,Blumenkohl,"0,44 €","0,86 €",A,0
+2024-08-01,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-01,Suppe,Tomatencremesuppe,"0,56 €","1,09 €",B,0
+2024-08-02,Eintopf,Unser Bestseller: Ungarische Gulaschsuppe,"3,28 €","6,40 €",A,0
+2024-08-02,Essen 1,Süßer Germknödel mit warmer Vanillesoße und Waldbeeren,"1,68 €","3,28 €",B,0
+2024-08-02,Essen 2,Zwei Kutterfrikadellen mit Remouladensoße,"2,20 €","4,29 €",D,0
+2024-08-02,Vegan,Gnocchi-Gyros-Pfanne mit Zaziki,"1,72 €","3,35 €",A,0
+2024-08-02,Wok-/Grill,Rheinischer Sauerbraten mit Apfelrotkohl und frischen Kartoffelklößen,"5,78 €","7,65 €",A,0
+2024-08-02,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-08-02,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-08-02,Dessert 1,Blaubeerjoghurt,"0,64 €","1,25 €",C,0
+2024-08-02,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-02,Gemüse 1,Romanobohnen,"0,52 €","1,01 €",A,0
+2024-08-02,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-02,Suppe,Asiatische Gemüsesuppe,"0,62 €","1,21 €",A,0
+2024-07-29,Eintopf,"""Blumenkohleintopf mit Kartoffeln und Kichererbsen""","1,64 €","3,20 €",A,0
+2024-07-29,Essen 1,Kartoffel-Spitzkohlpfanne mit Walnuss-Apfeldip,"1,84 €","3,59 €",A,0
+2024-07-29,Essen 2,Schweinegulasch Toskana im Reisrand,"2,86 €","5,58 €",A,0
+2024-07-29,Vegan,Jackfruit-Kürbis-Curry mit Ananas und Kokosmilch,"1,98 €","3,86 €",A,0
+2024-07-29,Wok-/Grill,"""Pierogi"" mit Kartoffel-Quarkfüllung, Gemüsestiften und Schnittlauch-Crème-fraîche","2,74 €","4,61 €",B,0
+2024-07-29,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-07-29,Beilage 2,Rosmarinkartoffeln,"0,64 €","1,25 €",A,0
+2024-07-29,Beilage 3,Kroketten,"0,62 €","1,21 €",C,1
+2024-07-29,Dessert 1,Erdbeercremejoghurt,"0,46 €","0,90 €",B,0
+2024-07-29,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-29,Gemüse 1,Brokkoli,"0,68 €","1,33 €",A,0
+2024-07-29,Gemüse 2,Ratatouille Gemüse,"0,48 €","0,90 €",A,0
+2024-07-29,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-29,Suppe,Kohlrabicremesuppe,"0,50 €","0,98 €",A,0
+2024-07-30,Eintopf,Linseneintopf,"1,54 €","3,28 €",A,0
+2024-07-30,Essen 1,"Gebratener Reis mit Gemüse, Ei und einer Hähnchenhaxe","2,50 €","4,88 €",A,0
+2024-07-30,Essen 2,Rotbarschfilet mit Rahmgemüse,"2,20 €","4,29 €",A,0
+2024-07-30,Vegan,Backkartoffel mit Blattspinat und Kirschtomaten gefüllt,"1,96 €","3,82 €",A,0
+2024-07-30,Wok-/Grill,"""Pimp your Burger"" - Kross gebratenes Gemüse-Patty mit Pommes frites und Toppings nach Wahl","5,82 €","7,69 €",B,0
+2024-07-30,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-07-30,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-07-30,Dessert 1,Grießpudding mit Himbeeren,"0,74 €","1,44 €",C,0
+2024-07-30,Dessert 2,Erdbeercremejoghurt,"0,46 €","0,90 €",B,0
+2024-07-30,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-30,Gemüse 1,Delikatessbohnen,"0,44 €","0,86 €",A,0
+2024-07-30,Gemüse 2,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-07-30,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-30,Suppe,Champignonsuppe,"0,54 €","1,05 €",A,0
+2024-07-31,Eintopf,"Möhren ""Durcheinander""","1,78 €","3,47 €",A,0
+2024-07-31,Essen 1,Semmelknödel mit Waldpilzen,"1,92 €","3,74 €",B,0
+2024-07-31,Essen 2,"""Pulled-Porkpfanne BBQ"" mit Paprika und Zwiebeln","2,34 €","4,56 €",A,0
+2024-07-31,Vegan,Hausgemachte Linsenlasagne mit Tomatensoße,"2,22 €","4,39 €",A,0
+2024-07-31,Wok-/Grill,"Pollo a la Brasa Peruanische Hähnchenkeule mit Koriander, Limette, Chili, Basmati-Reis und Ajì Verde","5,24 €","7,11 €",D,0
+2024-07-31,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-07-31,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-07-31,Beilage 3,Rosmarinkartoffeln,"0,64 €","1,25 €",A,0
+2024-07-31,Dessert 1,Quark mit Erdbeeren,"0,72 €","1,40 €",A,0
+2024-07-31,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-31,Gemüse 1,Erbsen,"0,48 €","0,94 €",A,0
+2024-07-31,Gemüse 2,Mexicogemüse,"0,64 €","1,25 €",A,0
+2024-07-31,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-31,Suppe,Brokkolisuppe,"0,52 €","1,01 €",A,0
+2024-08-01,Eintopf,"Afrikanischer Ananas-Erdnuß-Eintopf ""planted.""","2,56 €","4,99 €",A,0
+2024-08-01,Essen 1,"Penne ""Mykonos"" mit Gemüse und Hirtenkäse","1,66 €","3,24 €",A,0
+2024-08-01,Essen 2,Geplatzte Wirsingroulade mit Jus,"2,04 €","3,98 €",A,0
+2024-08-01,Essen 3,"Möhren ""Durcheinander""","1,78 €","3,47 €",A,0
+2024-08-01,Vegan,"Pommes frites ""Street Food Style"" mit Sojabolognese","2,06 €","4,01 €",A,0
+2024-08-01,Wok-/Grill,"""Pakora ""Gebackenes Tilapiafilet auf Indische Art mit Gemüsereis und Joghurt-Minzdip","3,26 €","5,13 €",A,0
+2024-08-01,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-08-01,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-08-01,Dessert 1,Rote Grütze mit Vanillesoße,"0,78 €","1,52 €",C,0
+2024-08-01,Dessert 2,Quark mit Erdbeeren,"0,72 €","1,40 €",A,0
+2024-08-01,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-01,Gemüse 1,Fingerkarotten,"0,44 €","0,86 €",A,0
+2024-08-01,Gemüse 2,Blumenkohl,"0,44 €","0,86 €",A,0
+2024-08-01,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-01,Suppe,Tomatencremesuppe,"0,56 €","1,09 €",B,0
+2024-08-02,Eintopf,Unser Bestseller: Ungarische Gulaschsuppe,"3,28 €","6,40 €",A,0
+2024-08-02,Essen 1,Süßer Germknödel mit warmer Vanillesoße und Waldbeeren,"1,68 €","3,28 €",B,0
+2024-08-02,Essen 2,Zwei Kutterfrikadellen mit Remouladensoße,"2,20 €","4,29 €",D,0
+2024-08-02,Vegan,Gnocchi-Gyros-Pfanne mit Zaziki,"1,72 €","3,35 €",A,0
+2024-08-02,Wok-/Grill,Rheinischer Sauerbraten mit Apfelrotkohl und frischen Kartoffelklößen,"5,78 €","7,65 €",A,0
+2024-08-02,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-08-02,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-08-02,Dessert 1,Blaubeerjoghurt,"0,64 €","1,25 €",C,0
+2024-08-02,Dessert 2,Rote Grütze mit Vanillesoße,"0,78 €","1,52 €",C,0
+2024-08-02,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-02,Gemüse 1,Romanobohnen,"0,52 €","1,01 €",A,0
+2024-08-02,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-02,Suppe,Asiatische Gemüsesuppe,"0,62 €","1,21 €",A,0
+2024-07-29,Eintopf,"""Blumenkohleintopf mit Kartoffeln und Kichererbsen""","1,64 €","3,20 €",A,0
+2024-07-29,Essen 1,Kartoffel-Spitzkohlpfanne mit Walnuss-Apfeldip,"1,84 €","3,59 €",A,0
+2024-07-29,Essen 2,Schweinegulasch Toskana im Reisrand,"2,86 €","5,58 €",A,0
+2024-07-29,Vegan,Jackfruit-Kürbis-Curry mit Ananas und Kokosmilch,"1,98 €","3,86 €",A,0
+2024-07-29,Wok-/Grill,"""Pierogi"" mit Kartoffel-Quarkfüllung, Gemüsestiften und Schnittlauch-Crème-fraîche","2,74 €","4,61 €",B,0
+2024-07-29,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-07-29,Beilage 2,Rosmarinkartoffeln,"0,64 €","1,25 €",A,0
+2024-07-29,Beilage 3,Kroketten,"0,62 €","1,21 €",C,1
+2024-07-29,Dessert 1,Erdbeercremejoghurt,"0,46 €","0,90 €",B,0
+2024-07-29,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-29,Gemüse 1,Brokkoli,"0,68 €","1,33 €",A,0
+2024-07-29,Gemüse 2,Ratatouille Gemüse,"0,48 €","0,90 €",A,0
+2024-07-29,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-29,Suppe,Kohlrabicremesuppe,"0,50 €","0,98 €",A,0
+2024-07-30,Eintopf,Linseneintopf,"1,54 €","3,28 €",A,0
+2024-07-30,Essen 1,"Gebratener Reis mit Gemüse, Ei und einer Hähnchenhaxe","2,50 €","4,88 €",A,0
+2024-07-30,Essen 2,Rotbarschfilet mit Rahmgemüse,"2,20 €","4,29 €",A,0
+2024-07-30,Vegan,Backkartoffel mit Blattspinat und Kirschtomaten gefüllt,"1,96 €","3,82 €",A,0
+2024-07-30,Wok-/Grill,"""Pimp your Burger"" - Kross gebratenes Gemüse-Patty mit Pommes frites und Toppings nach Wahl","5,82 €","7,69 €",B,0
+2024-07-30,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-07-30,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-07-30,Dessert 1,Grießpudding mit Himbeeren,"0,74 €","1,44 €",C,0
+2024-07-30,Dessert 2,Erdbeercremejoghurt,"0,46 €","0,90 €",B,0
+2024-07-30,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-30,Gemüse 1,Delikatessbohnen,"0,44 €","0,86 €",A,0
+2024-07-30,Gemüse 2,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-07-30,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-30,Suppe,Champignonsuppe,"0,54 €","1,05 €",A,0
+2024-07-31,Eintopf,"Möhren ""Durcheinander""","1,78 €","3,47 €",A,0
+2024-07-31,Essen 1,Semmelknödel mit Waldpilzen,"1,92 €","3,74 €",B,0
+2024-07-31,Essen 2,"""Pulled-Porkpfanne BBQ"" mit Paprika und Zwiebeln","2,34 €","4,56 €",A,0
+2024-07-31,Vegan,Hausgemachte Linsenlasagne mit Tomatensoße,"2,22 €","4,39 €",A,0
+2024-07-31,Wok-/Grill,"Pollo a la Brasa Peruanische Hähnchenkeule mit Koriander, Limette, Chili, Basmati-Reis und Ajì Verde","5,24 €","7,11 €",D,0
+2024-07-31,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-07-31,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-07-31,Beilage 3,Rosmarinkartoffeln,"0,64 €","1,25 €",A,0
+2024-07-31,Dessert 1,Quark mit Erdbeeren,"0,72 €","1,40 €",A,0
+2024-07-31,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-07-31,Gemüse 1,Erbsen,"0,48 €","0,94 €",A,0
+2024-07-31,Gemüse 2,Mexicogemüse,"0,64 €","1,25 €",A,0
+2024-07-31,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-07-31,Suppe,Brokkolisuppe,"0,52 €","1,01 €",A,0
+2024-08-01,Eintopf,"Afrikanischer Ananas-Erdnuß-Eintopf ""planted.""","2,56 €","4,99 €",A,0
+2024-08-01,Essen 1,"Penne ""Mykonos"" mit Gemüse und Hirtenkäse","1,66 €","3,24 €",A,0
+2024-08-01,Essen 2,Geplatzte Wirsingroulade mit Jus,"2,04 €","3,98 €",A,0
+2024-08-01,Essen 3,"Möhren ""Durcheinander""","1,78 €","3,47 €",A,0
+2024-08-01,Vegan,"Pommes frites ""Street Food Style"" mit Sojabolognese","2,06 €","4,01 €",A,0
+2024-08-01,Wok-/Grill,"""Pakora ""Gebackenes Tilapiafilet auf Indische Art mit Gemüsereis und Joghurt-Minzdip","3,26 €","5,13 €",A,0
+2024-08-01,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-08-01,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-08-01,Dessert 1,Rote Grütze mit Vanillesoße,"0,78 €","1,52 €",C,0
+2024-08-01,Dessert 2,Quark mit Erdbeeren,"0,72 €","1,40 €",A,0
+2024-08-01,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-01,Gemüse 1,Fingerkarotten,"0,44 €","0,86 €",A,0
+2024-08-01,Gemüse 2,Blumenkohl,"0,44 €","0,86 €",A,0
+2024-08-01,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-01,Suppe,Tomatencremesuppe,"0,56 €","1,09 €",B,0
+2024-08-02,Eintopf,Unser Bestseller: Ungarische Gulaschsuppe,"3,28 €","6,40 €",A,0
+2024-08-02,Essen 1,Süßer Germknödel mit warmer Vanillesoße und Waldbeeren,"1,68 €","3,28 €",B,0
+2024-08-02,Essen 2,Zwei Kutterfrikadellen mit Remouladensoße,"2,20 €","4,29 €",D,0
+2024-08-02,Vegan,Gnocchi-Gyros-Pfanne mit Zaziki,"1,72 €","3,35 €",A,0
+2024-08-02,Wok-/Grill,Rheinischer Sauerbraten mit Apfelrotkohl und frischen Kartoffelklößen,"5,78 €","7,65 €",A,0
+2024-08-02,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-08-02,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-08-02,Dessert 1,Blaubeerjoghurt,"0,64 €","1,25 €",C,0
+2024-08-02,Dessert 2,Rote Grütze mit Vanillesoße,"0,78 €","1,52 €",C,0
+2024-08-02,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-02,Gemüse 1,Romanobohnen,"0,52 €","1,01 €",A,0
+2024-08-02,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-02,Suppe,Asiatische Gemüsesuppe,"0,62 €","1,21 €",A,0
+2024-08-05,Eintopf,Eintopf von grünen Bohnen,"1,72 €","3,35 €",A,0
+2024-08-05,Essen 1,Gefüllte Gnocchi mit Ajvarsoße und gebratenen Paprikastreifen,"2,34 €","4,56 €",B,0
+2024-08-05,Essen 2,Paniertes Hähnchenschnitzel mit Rahmsoße,"2,19 €","4,28 €",B,0
+2024-08-05,Vegan,"Kartoffel-Gemüsepfanne mit Falaffelbällchen, Cashewkernen und Koriander","1,95 €","3,80 €",A,0
+2024-08-05,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-08-05,Beilage 2,Kroketten,"0,61 €","1,19 €",C,1
+2024-08-05,Dessert 1,Vanillepudding,"0,60 €","1,17 €",C,0
+2024-08-05,Dessert 2,Erdbeer Joghurt,"0,48 €","0,94 €",B,0
+2024-08-05,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-05,Gemüse 1,Rahmkohlrabi,"0,44 €","0,86 €",A,0
+2024-08-05,Gemüse 2,Blumenkohl,"0,44 €","0,86 €",A,0
+2024-08-05,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-05,Suppe,Karotten-Ingwersuppe,"0,39 €","0,76 €",A,0
+2024-08-06,Eintopf,Spitzkohleintopf,"1,83 €","3,56 €",A,0
+2024-08-06,Essen 1,Spaghetti mit einer rauchigen Speck-Sahnesoße,"1,65 €","3,22 €",B,0
+2024-08-06,Essen 2,Gebratenes Buntbarschfilet mit Lauchrahmsoße,"2,20 €","4,28 €",B,0
+2024-08-06,Vegan,Seitan Ragout mit Mischpilzen und Vollkornnudeln,"2,14 €","4,17 €",A,0
+2024-08-06,Beilage 1,Rosmarinkartoffeln,"0,62 €","1,21 €",A,0
+2024-08-06,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-08-06,Dessert 1,Joghurt mit Kirschen,"0,56 €","1,09 €",C,0
+2024-08-06,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-06,Gemüse 1,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-08-06,Gemüse 2,Brokkoli,"0,76 €","1,48 €",A,0
+2024-08-06,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-06,Suppe,Blumenkohlrahmsuppe,"0,54 €","1,05 €",A,0
+2024-08-07,Eintopf,Lauchrahmtopf mit Kartoffelwürfeln und Suppengemüse,"1,62 €","3,16 €",A,0
+2024-08-07,Essen 1,Allgäuer Käsespätzle mit Lauch und Röstzwiebeln,"2,43 €","4,74 €",A,0
+2024-08-07,Essen 2,Kasselerrückenbraten mit Malzbiersoße,"2,24 €","4,37 €",A,0
+2024-08-07,Vegan,Indisches Rote Linsen Dal mit Blattspinat,"1,92 €","3,75 €",A,0
+2024-08-07,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-08-07,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-08-07,Dessert 1,Milchreis mit Zimt und Zucker,"0,74 €","1,48 €",C,0
+2024-08-07,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-07,Gemüse 2,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-08-07,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-07,Suppe,Curry-Rahmsuppe,"0,52 €","1,01 €",A,0
+2024-08-08,Eintopf,Erbseneintopf,"1,73 €","3,37 €",A,0
+2024-08-08,Essen 1,Kartoffeltaschen mit Frischkäsefüllung und Mangoldsoße,"2,35 €","4,58 €",B,0
+2024-08-08,Essen 2,Putenstreifen in einer fruchtigen Currysoße,"2,54 €","4,96 €",A,0
+2024-08-08,Vegan,Asiatischer Reistopf mit Wokgemüse und Sojabohnenkeimlingen,"1,92 €","3,75 €",A,0
+2024-08-08,Beilage 1,Nudeln mit Gemüse,"0,54 €","1,05 €",A,0
+2024-08-08,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-08-08,Dessert 1,Pfirsichquark,"0,62 €","1,21 €",A,0
+2024-08-08,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-08,Gemüse 1,Mischgemüse,"0,50 €","0,98 €",A,0
+2024-08-08,Gemüse 2,Romanesco,"0,76 €","1,48 €",A,0
+2024-08-08,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-08,Suppe,Paprikarahmsuppe,"0,62 €","1,21 €",A,0
+2024-08-09,Eintopf,Brasilianischer Gemüseeintopf mit roten Bohnen und Mais,"1,69 €","3,30 €",A,0
+2024-08-09,Essen 1,"""Kommse vonne Schicht, watt Schöneres gibbet nich"" als unsere: Currywurst","1,80 €","3,51 €",C,0
+2024-08-09,Essen 2,Zwei Backfischfilets mit Remouladensoße,"2,43 €","4,73 €",D,0
+2024-08-09,Vegan,Gulasch von der rheinischen Knolle mit Haferschmand,"1,49 €","2,91 €",A,0
+2024-08-09,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-08-09,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-08-09,Dessert 1,Erdbeercremejoghurt,"0,48 €","0,94 €",B,0
+2024-08-09,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-09,Gemüse 1,Erbsen und Fingerkarotten,"0,50 €","0,98 €",A,0
+2024-08-09,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-09,Suppe,Kräutersuppe,"0,42 €","0,82 €",B,0
+2024-08-12,Eintopf,"Möhren ""Durcheinander""","1,68 €","3,47 €",A,0
+2024-08-12,Essen 1,"Tortelloni ""Mediterraneo"" mit Kirschtomaten und Sonnenblumenkernen","2,26 €","4,41 €",A,0
+2024-08-12,Essen 2,Paniertes Putenschnitzel mit Geflügelsoße,"2,40 €","4,68 €",A,0
+2024-08-12,Vegan,"Bulgur-Gemüsepfanne ""Sweet Chili"" mit Grünkohl-Hanfbällchen","2,48 €","4,84 €",A,0
+2024-08-12,Wok-/Grill,"Frisch, gegrillte Schweinefiletmedaillons mit Speckböhnchen und Tagliatelle","5,08 €","6,95 €",A,0
+2024-08-12,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-08-12,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-08-12,Dessert 1,Zitronenquark,"0,44 €","0,86 €",A,0
+2024-08-12,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-12,Gemüse 1,Mischgemüse in Sojarahm,"0,58 €","1,13 €",A,0
+2024-08-12,Gemüse 2,Erbsen,"0,48 €","0,94 €",A,0
+2024-08-12,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-12,Suppe,Karotten-Ingwersuppe,"0,40 €","0,78 €",A,0
+2024-08-13,Eintopf,"Hackfleischeintopf ""Budapest"" mit Kartoffeln und Paprika","2,92 €","5,68 €",A,0
+2024-08-13,Essen 1,Gnocchiauflauf mit Blattspinat und Tomate,"2,18 €","4,25 €",A,0
+2024-08-13,Essen 2,Gebratenes Tilapiafilet mit Kokos-Curry-Gemüse,"2,42 €","4,72 €",A,0
+2024-08-13,Vegan,"Veganes "" No-Chicken"" Frikassee","1,84 €","3,59 €",A,0
+2024-08-13,Wok-/Grill,"""Pimp Your Burger"" - ""Planted."" Kebap Burger mit Pommes Frites und Toppings nach Wahl","5,76 €","7,63 €",A,0
+2024-08-13,Beilage 1,Nudeln,"0,40 €","0,78 €",A,0
+2024-08-13,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-08-13,Dessert 1,Waldbeerjoghurt,"0,46 €","0,90 €",B,0
+2024-08-13,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-13,Gemüse 1,Sommergemüse,"0,44 €","0,86 €",A,0
+2024-08-13,Gemüse 2,Brokkoli,"0,76 €","1,48 €",A,0
+2024-08-13,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-13,Suppe,Tandoori Gemüsesuppe,"0,52 €","1,01 €",A,0
+2024-08-14,Eintopf,Pürierter Kartoffeleintopf mit frischer Blattpetersilie,"1,90 €","3,71 €",A,0
+2024-08-14,Essen 1,Schupfnudel-Poutine,"2,40 €","4,68 €",B,0
+2024-08-14,Essen 2,Hausgemachte Bifteki-Frikadelle mit Hirtenkäsefüllung und Zaziki,"2,60 €","5,07 €",B,0
+2024-08-14,Vegan,"Vollkornspaghetti mit Mangold, Kirschtomaten und gerösteten Sonnenblumenkernen","1,64 €","3,20 €",A,0
+2024-08-14,Wok-/Grill,"Miso Ramen - Nudelsuppe mit Rinderhüfte, Shii-Take u. Mu-Err Pilzen, Nori-Blätter, Soja, Sesam, Ingwer und Koriander","5,44 €","7,31 €",A,0
+2024-08-14,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-08-14,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-08-14,Dessert 1,Schokopudding,"0,60 €","1,17 €",C,0
+2024-08-14,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-14,Gemüse 1,Rustica Karotten,"0,64 €","1,25 €",A,0
+2024-08-14,Gemüse 2,Ratatouille Gemüse,"0,48 €","0,94 €",A,0
+2024-08-14,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-14,Suppe,Kräutersuppe,"0,42 €","0,82 €",B,0
+2024-08-15,Eintopf,Blumenkohl-Curry-Topf mit Kokosmilch,"1,66 €","3,24 €",A,0
+2024-08-15,Essen 1,"Reisnudelpfanne ""Olymp"" - Reisnudeln mit mediterranem Gemüse und Weißkäse","1,82 €","3,55 €",A,0
+2024-08-15,Essen 2,Natur gebratenes Stielkotelett mit Schmorzwiebeln und Jus,"2,52 €","4,91 €",A,0
+2024-08-15,Vegan,Hausgemachte Linsenlasagne mit Tomatensoße,"2,22 €","4,33 €",A,0
+2024-08-15,Wok-/Grill,"Kurzgebratene, ausgelöste Hähnchenkeule mit Erdnusssoße und Risi Bisi","4,42 €","6,29 €",A,0
+2024-08-15,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-08-15,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-08-15,Dessert 1,Pfirsichquark,"0,62 €","1,21 €",A,0
+2024-08-15,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-15,Gemüse 1,Delikatessbohnen,"0,44 €","0,86 €",A,0
+2024-08-15,Gemüse 2,Buntes Gemüse mit Kichererbsen,"0,60 €","1,20 €",A,0
+2024-08-15,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-15,Suppe,Kartoffelsuppe,"0,46 €","0,90 €",A,0
+2024-08-16,Eintopf,Ribollita - Toskanischer Bauerntopf,"1,82 €","3,55 €",A,0
+2024-08-16,Essen 1,Gebackenes Käseschnitzel mit Kräutersoße,"2,48 €","4,84 €",D,0
+2024-08-16,Essen 2,Alaska-Seelachsfilet in Eihülle und Senf-Dillsoße,"2,64 €","5,15 €",A,0
+2024-08-16,Vegan,Gebackene Aubergine mit Tabouleh und Soja-Minzdip,"1,72 €","3,25 €",A,0
+2024-08-16,Wok-/Grill,"Argentinische Steakhüfte mit Pfefferrahmsoße, Pommes frites und Salat","7,00 €","8,87 €",A,0
+2024-08-16,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-08-16,Beilage 2,Nudeln,"0,40 €","0,78 €",A,0
+2024-08-16,Dessert 1,Joghurt mit Müsli,"0,43 €","0,84 €",B,0
+2024-08-16,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-16,Gemüse 1,Blattspinat in Sojarahm,"0,60 €","1,17 €",A,0
+2024-08-16,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-16,Suppe,Curry-Rahmsuppe,"0,52 €","1,01 €",A,0
+2024-08-19,Eintopf,Lauchrahmtopf mit Kartoffelwürfeln und Suppengemüse,"1,62 €","3,16 €",A,0
+2024-08-19,Essen 1,"Kartoffelnudeln mit Kraut, Paprikastreifen und Speck","1,94 €","3,78 €",A,0
+2024-08-19,Essen 2,Gebratene Hähnchenbrust mit Paprikarahmsoße,"2,56 €","4,99 €",A,0
+2024-08-19,Vegan,Frische Kartoffelknödel mit Champignons in Sojarahm,"2,56 €","4,99 €",A,0
+2024-08-19,Wok-/Grill,"Lahmacun, türkische Pizza mit frischen Salaten, Hähnchenstreifen und Joghurt","4,48 €","6,35 €",B,0
+2024-08-19,Beilage 1,Kroketten,"0,62 €","1,21 €",C,1
+2024-08-19,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-08-19,Dessert 1,Vanillepudding,"0,60 €","1,17 €",C,0
+2024-08-19,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-19,Gemüse 1,Karottenscheiben,"0,34 €","0,66 €",A,0
+2024-08-19,Gemüse 2,Erbsen,"0,48 €","0,94 €",A,0
+2024-08-19,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-19,Suppe,Kohlrabicremesuppe,"0,50 €","0,98 €",A,0
+2024-08-20,Eintopf,Süßkartoffel-Tomaten-Eintopf,"1,70 €","3,32 €",A,0
+2024-08-20,Essen 1,Fleischbällchen mit Paprika-Zwiebeln-Erbsengemüse und Ajvar,"2,52 €","4,91 €",A,0
+2024-08-20,Essen 2,Gebratenes Rotbarschfilet mit Lauchrahmsoße,"2,56 €","4,99 €",B,0
+2024-08-20,Vegan,Jackfruit-Ragout mit frischen Wiesenchampignons,"1,66 €","3,24 €",A,0
+2024-08-20,Wok-/Grill,"""Pimp Your Burger"" - Rindfleischpatty mit Salat, unserer Haussoße, Pommes frites und Toppings nach Wahl","6,04 €","7,91 €",D,0
+2024-08-20,Beilage 1,Nudeln,"0,40 €","0,78 €",A,0
+2024-08-20,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-08-20,Dessert 1,Milchreis mit Zimt und Zucker,"0,72 €","1,40 €",C,0
+2024-08-20,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-20,Gemüse 1,Romanobohnen,"0,52 €","1,01 €",A,0
+2024-08-20,Gemüse 2,Blattspinat in Sojarahm,"0,60 €","1,17 €",A,0
+2024-08-20,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-20,Suppe,Tomatensuppe,"0,40 €","0,78 €",A,0
+2024-08-21,Eintopf,Unser Bestseller: Ungarische Gulaschsuppe,"3,16 €","6,16 €",A,0
+2024-08-21,Essen 1,Nudel- Gemüseauflauf auf Tomatensugo,"2,22 €","4,33 €",A,0
+2024-08-21,Essen 2,Knusprig gebratener Schweinebauch mit Zwiebel-Apfelragout,"2,30 €","4,49 €",D,0
+2024-08-21,Vegan,"Kichererbsencurry mit Spinat, Blumenkohl, Wurzelgemüse und Reis","1,88 €","3,67 €",A,0
+2024-08-21,Wok-/Grill,"""Gong Bao Chicken"" - Traditionelles chinesisches Wok-Gericht aus der Szechuan-Küche mit Reis","3,72 €","5,59 €",A,0
+2024-08-21,Beilage 1,Schwenkkartoffeln,"0,64 €","1,25 €",B,0
+2024-08-21,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-08-21,Dessert 1,Pfirsichjoghurt,"0,52 €","1,01 €",C,0
+2024-08-21,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-21,Gemüse 1,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-08-21,Gemüse 2,Brokkoli,"0,76 €","1,48 €",A,0
+2024-08-21,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-21,Suppe,Pürierte Erbsensuppe,"0,56 €","1,09 €",A,0
+2024-08-22,Eintopf,Erbseneintopf,"1,72 €","3,35 €",A,0
+2024-08-22,Essen 1,Schwenkkartoffelpfanne mit Gemüse und Kräuter-Quark,"1,74 €","3,39 €",A,0
+2024-08-22,Essen 2,"""Jägergulasch"" - Schweinegulasch mit Speck und Champignons in Weißwein-Sahnesoße","2,52 €","4,91 €",B,0
+2024-08-22,Vegan,"Veggie-Gyros ""Akropolis"" mit Zaziki","1,62 €","3,16 €",A,0
+2024-08-22,Wok-/Grill,"Hausgemachte Lasagne al forno, Rindfleisch mit Wurzelgemüse, Tomatensoße und Salat","3,69 €","5,56 €",B,0
+2024-08-22,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-08-22,Beilage 2,Nudeln mit Gemüse,"0,52 €","1,01 €",A,0
+2024-08-22,Dessert 1,Erdbeercremejoghurt,"0,46 €","0,90 €",B,0
+2024-08-22,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-22,Gemüse 1,Balkangemüse,"0,46 €","0,90 €",A,0
+2024-08-22,Gemüse 2,Blumenkohl,"0,44 €","0,86 €",A,0
+2024-08-22,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-22,Suppe,Apfel-Kürbissuppe,"0,54 €","1,05 €",B,0
+2024-08-23,Eintopf,"Gemüseeintopf ""Pichelsteiner Art""","1,54 €","3,00 €",A,0
+2024-08-23,Essen 1,"""Tortilla Española"" Spanisches Kartoffelomelette mit Paprika und Kirschtomaten","1,96 €","3,82 €",A,0
+2024-08-23,Essen 2,"Fischfiletstreifen ""Kibbeling"" mit Zitronen-Mayonnaise","2,32 €","4,52 €",C,0
+2024-08-23,Vegan,Frisches Grillgemüse mit Kartoffeln aus dem Ofen,"2,32 €","4,52 €",B,0
+2024-08-23,Wok-/Grill,"Großes Schweineschnitzel ""Holsteiner Art"" mit Schmorzwiebeln, Spiegelei und Pommes frites","5,01 €","6,88 €",A,0
+2024-08-23,Beilage 1,Kartoffeln,"0,56 €","1,09 €",A,0
+2024-08-23,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-08-23,Dessert 1,Quark mit Mandarinen,"0,52 €","1,01 €",A,0
+2024-08-23,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-23,Gemüse 1,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-08-23,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-23,Suppe,Blumenkohlrahmsuppe,"0,54 €","1,05 €",A,0
+2024-08-26,Eintopf,"""planted. Chicken"" Eintopf mit Curry und Gemüse","2,34 €","4,56 €",A,0
+2024-08-26,Essen 1,Kartoffelgnocchi mit frischem Gemüse und Kräuter-Sahnesoße,"1,98 €","3,86 €",A,0
+2024-08-26,Essen 2,"Putengulasch ""Süß-Sauer"" mit Koriander","2,40 €","4,68 €",A,0
+2024-08-26,Vegan,"Orientalische Couscouspfanne mit Gemüse, Mango, Rosinen, Nüssen und Soja-Joghurtdip","1,96 €","3,82 €",A,0
+2024-08-26,Wok-/Grill,"Medium gegartes Roastbeef mit Kräuterbutter, Pommes frites und hausgemachtem Krautsalat","7,74 €","9,61 €",A,0
+2024-08-26,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-08-26,Beilage 2,Penne Rigate mit Gemüse,"0,47 €","0,91 €",A,0
+2024-08-26,Dessert 1,Joghurt mit Kirschen,"0,59 €","1,14 €",C,0
+2024-08-26,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-26,Gemüse 1,Cordial Mischgemüse,"0,60 €","1,17 €",A,0
+2024-08-26,Gemüse 2,Pariser Karotten,"0,66 €","1,29 €",A,0
+2024-08-26,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-26,Suppe,Gemüsecremesuppe,"0,42 €","0,82 €",B,0
+2024-08-27,Eintopf,Wirsingeintopf,"2,24 €","4,37 €",A,0
+2024-08-27,Essen 1,"Schupfnudeln mit karamellisierten Äpfeln, Ahornsirup und Vanillesoße","2,46 €","4,80 €",C,0
+2024-08-27,Essen 2,Gebratenes Tilapiafilet mit Meerrettich-Sahnesoße,"2,34 €","4,56 €",B,0
+2024-08-27,Vegan,"""Chili con Soja"" mit Kidneybohnen, Mais und Fladenbrot","1,90 €","3,71 €",A,0
+2024-08-27,Wok-/Grill,"""Pimp Your Burger"" - Mariniertes Hähchenbrustfilet mit Cole Slaw, Süßkartoffelpommes und Toppings nach Wahl","5,40 €","7,27 €",B,0
+2024-08-27,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-08-27,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-08-27,Dessert 1,Buttermilchdessert mit Erdbeeren,"0,63 €","1,24 €",A,0
+2024-08-27,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-27,Gemüse 1,Mischgemüse,"0,64 €","1,25 €",A,0
+2024-08-27,Gemüse 2,Blattspinat in Sojarahm,"0,60 €","1,17 €",A,0
+2024-08-27,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-27,Suppe,Blumenkohlrahmsuppe,"0,53 €","1,03 €",A,0
+2024-08-28,Eintopf,Mediterraner Tomaten-Zucchini-Eintopf,"1,62 €","3,16 €",A,0
+2024-08-28,Essen 1,Blumenkohl-Brokkoligratin mit Béchamelsoße,"1,76 €","3,43 €",A,0
+2024-08-28,Essen 2,Gebackener Hackbraten mit Balkansoße,"2,54 €","4,95 €",A,0
+2024-08-28,Vegan,Pikante Sesamnudeln mit asiatischem Pfannengemüse,"1,98 €","3,86 €",A,0
+2024-08-28,Wok-/Grill,"Svícková na smetane - Lendenbraten mit sämiger Wurzelgemüse-Sahne, Semmelknödel und Preiselbeeren","5,98 €","7,85 €",A,0
+2024-08-28,Beilage 1,Kroketten,"0,62 €","1,21 €",C,1
+2024-08-28,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-08-28,Dessert 1,Grießpudding mit Himbeeren,"0,74 €","1,44 €",C,0
+2024-08-28,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-28,Gemüse 1,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-08-28,Gemüse 2,Mexicogemüse,"0,64 €","1,25 €",A,0
+2024-08-28,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-28,Suppe,Champignonsuppe,"0,55 €","1,08 €",A,0
+2024-08-29,Eintopf,Gartengemüse-Eintopf mit Nudeln,"1,86 €","3,63 €",A,0
+2024-08-29,Essen 1,Zwei Spinatknödel mit Kräuter-Zwiebelsoße,"2,00 €","3,90 €",A,0
+2024-08-29,Essen 2,"Spaghetti ""Bolognese""","2,30 €","4,49 €",A,0
+2024-08-29,Vegan,"Rote Bete Gnocchis mit Gemüse, Champignons und gehackten Walnüssen","1,98 €","3,86 €",A,0
+2024-08-29,Wok-/Grill,"""Fish & Chips"" - Backfisch mit Erbsenpüree und Pommes frites","3,12 €","4,99 €",A,0
+2024-08-29,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-08-29,Beilage 2,Reis mit Erbsen,"0,62 €","1,21 €",A,0
+2024-08-29,Dessert 1,Mangoquark,"0,64 €","1,24 €",A,0
+2024-08-29,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-29,Gemüse 1,Delikatessbohnen,"0,43 €","0,84 €",A,0
+2024-08-29,Gemüse 2,Balkangemüse,"0,46 €","0,90 €",A,0
+2024-08-29,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-29,Suppe,Brokkolisuppe,"0,72 €","1,40 €",A,0
+2024-08-30,Eintopf,Eintopf von grünen Bohnen,"1,72 €","3,35 €",A,0
+2024-08-30,Essen 1,"One Pot aus dem Ofen mit Kartoffeln, Gemüse und Cheddar","1,90 €","3,71 €",A,0
+2024-08-30,Essen 2,Zwei Kutterfrikadellen mit Remouladensoße,"2,18 €","4,25 €",D,0
+2024-08-30,Vegan,Bunte Tortellini-Gemüsepfanne mit Tomatensoße,"2,22 €","4,33 €",A,0
+2024-08-30,Wok-/Grill,"""Plant-based Schnitzel vom Feld"" mit frischen Rahmchampignons, Pommes frites und Salat","5,54 €","7,41 €",A,0
+2024-08-30,Beilage 1,Couscous,"0,44 €","0,86 €",A,0
+2024-08-30,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-08-30,Dessert 1,Joghurt mit Ananas,"0,52 €","1,01 €",B,0
+2024-08-30,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-08-30,Gemüse 1,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-08-30,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-08-30,Suppe,Rote Linsen-Kartoffelsuppe,"0,56 €","1,10 €",A,0
+2024-09-02,Eintopf,"Hackfleischeintopf ""Budapest"" mit Kartoffeln und Paprika","2,92 €","5,69 €",A,0
+2024-09-02,Essen 1,"Rösti ""Caprese"" mit Tomaten und Mozzarella überbacken","2,20 €","4,29 €",B,0
+2024-09-02,Essen 2,"Holländische ""Frikandel Spezial"" mit Curryketchup, Mayonnaise und feinen Zwiebeln","1,72 €","3,35 €",C,0
+2024-09-02,Vegan,Gebratene schwäbische Maultaschen mit Mischgemüse,"2,14 €","4,17 €",A,0
+2024-09-02,Wok-/Grill,"Frische, bunte Bandnudeln mit Rucola-Pesto, Kirschtomaten und Schweinefiletstreifen","5,16 €","7,03 €",A,0
+2024-09-02,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-09-02,Beilage 2,Schwenkkartoffeln,"0,64 €","1,25 €",B,0
+2024-09-02,Dessert 1,Joghurt mit Ananas,"0,52 €","1,01 €",B,0
+2024-09-02,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-02,Gemüse 1,Brokkoli,"0,76 €","1,48 €",A,0
+2024-09-02,Gemüse 2,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-09-02,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-02,Suppe,Kartoffelsuppe,"0,42 €","0,82 €",A,0
+2024-09-03,Eintopf,Pürierter Kartoffeleintopf mit frischer Blattpetersilie,"1,90 €","3,71 €",A,0
+2024-09-03,Essen 1,Spaghetti al Limone mit gerösteten Mandeln und Parmesan,"1,74 €","3,39 €",B,0
+2024-09-03,Essen 2,Gebratenes Buntbarschfilet mit Lauchrahmsoße,"2,16 €","4,21 €",B,0
+2024-09-03,Vegan,Frühlingsrolle mit Gemüsefüllung und Mango-Chutney,"2,42 €","4,72 €",B,0
+2024-09-03,Wok-/Grill,"""Pimp Your Burger"" - Rindfleischpatty mit Salat, unserer Haussoße, Pommes frites und Toppings nach Wahl","6,08 €","7,95 €",D,0
+2024-09-03,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-09-03,Beilage 2,Nudeln mit Gemüse,"0,54 €","1,05 €",A,0
+2024-09-03,Dessert 1,Schokopudding,"0,60 €","1,17 €",C,0
+2024-09-03,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-03,Gemüse 1,Blumenkohl,"0,42 €","0,82 €",A,0
+2024-09-03,Gemüse 2,Karottenscheiben,"0,36 €","0,70 €",A,0
+2024-09-03,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-03,Suppe,Brokkolisuppe,"0,36 €","0,70 €",A,0
+2024-09-04,Aktion,"Pimp it - Tag der Currywurst"" Vegane Currywurst mit Pommes Frites und Toppings","6,32 €","8,19 €",B,0
+2024-09-04,Eintopf,"Weißer Bohneneintopf ""Serbische Art""","1,86 €","3,63 €",A,0
+2024-09-04,Essen 1,"Kartoffelnocken mit Spitzkohl, Karottenscheiben und Kürbisrahmsoße","1,80 €","3,60 €",A,0
+2024-09-04,Essen 2,Lummerbraten vom Schwein mit grüner Pfeffersoße,"2,22 €","4,33 €",A,0
+2024-09-04,Vegan,Penne Primavera mit buntem Gemüse,"1,72 €","3,35 €",A,0
+2024-09-04,Wok-/Grill,"Pimp it - Tag der Currywurst"" Currywurst mit Pommes Frites und Toppings","2,58 €","4,45 €",C,0
+2024-09-04,Beilage 1,Kroketten,"0,62 €","1,21 €",C,1
+2024-09-04,Beilage 2,Kartoffelpüree,"0,42 €","0,82 €",A,0
+2024-09-04,Beilage 3,"Pimp it - Tag der Currywurst"" Doppelte Currywurst mit Pommes Frites und Toppings","3,92 €","5,79 €",C,0
+2024-09-04,Dessert 1,Waldbeerjoghurt,"0,52 €","1,01 €",B,0
+2024-09-04,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-04,Gemüse 1,Delikatessbohnen,"0,44 €","0,86 €",A,0
+2024-09-04,Gemüse 2,Balkangemüse,"0,46 €","0,90 €",A,0
+2024-09-04,Gemüse 3,"Pimp it - Tag der Currywurst"" Doppelte, vegane Currywurst mit Pommes Frites und Toppings","8,32 €","10,19 €",A,0
+2024-09-04,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-04,Suppe,Karotten-Ingwersuppe,"0,40 €","0,78 €",A,0
+2024-09-05,Eintopf,Gemüse-Nudeltopf mit veganem Ei,"1,88 €","3,67 €",A,0
+2024-09-05,Essen 1,"""Mac & Cheese"" - Maccaroni mit Chashewkernen und Käsesoße","1,96 €","3,82 €",C,0
+2024-09-05,Essen 2,Hausgemachte Frikadelle mit Champignonrahmsoße,"2,64 €","5,15 €",A,0
+2024-09-05,Vegan,Kartoffel-Endivienstampf mit Falafelbällchen,"2,22 €","4,33 €",B,0
+2024-09-05,Wok-/Grill,"""Powerfood Salatbowl"" mit Hähnchenstreifen in Chili-Kokosrahm auf verschiedenen Salaten und einem Dressing nach Wahl","3,94 €","5,81 €",B,0
+2024-09-05,Beilage 1,Reisnudeln,"0,38 €","0,74 €",A,0
+2024-09-05,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-09-05,Dessert 1,Buttermilchdessert Mango,"0,72 €","1,40 €",B,0
+2024-09-05,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-05,Gemüse 1,Erbsen,"0,48 €","0,94 €",A,0
+2024-09-05,Gemüse 2,Ratatouille Gemüse,"0,46 €","0,90 €",A,0
+2024-09-05,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-05,Suppe,Petersilienwurzelsuppe,"0,76 €","1,48 €",A,0
+2024-09-06,Eintopf,Kichererbsen-Tomateneintopf,"1,46 €","3,33 €",A,0
+2024-09-06,Essen 1,Currywurstpfanne mit Paprika und Zwiebeln,"1,90 €","3,71 €",B,0
+2024-09-06,Essen 2,Seelachsfilet mit Spinat und Mozzarella überbacken und Zitronensoße,"2,96 €","5,77 €",A,0
+2024-09-06,Vegan,Bunter Gemüse-Mix mit tomatisierten Vollkornnudeln und frischem Basilikum,"2,12 €","4,13 €",A,0
+2024-09-06,Wok-/Grill,American Pancakes mit Beerenobst und Vanillesoße,"3,20 €","5,07 €",C,0
+2024-09-06,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-09-06,Beilage 2,Reis mit Gemüse,"0,60 €","1,17 €",B,0
+2024-09-06,Dessert 1,Grießpudding mit Himbeeren,"0,46 €","0,90 €",C,0
+2024-09-06,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-06,Gemüse 1,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-09-06,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-06,Suppe,Kräutersuppe,"0,42 €","0,82 €",B,0
+2024-09-09,Eintopf,"""Blumenkohleintopf mit Kartoffeln und Kichererbsen""","1,64 €","3,20 €",A,0
+2024-09-09,Essen 1,Kartoffel-Spitzkohlpfanne mit Walnuss-Apfeldip,"1,84 €","3,59 €",A,0
+2024-09-09,Essen 2,Schweinegulasch Toskana im Reisrand,"2,86 €","5,58 €",A,0
+2024-09-09,Vegan,Jackfruit-Kürbis-Curry mit Ananas und Kokosmilch,"1,98 €","3,86 €",A,0
+2024-09-09,Wok-/Grill,"""Pierogi"" mit Kartoffel-Quarkfüllung, Gemüsestiften und Schnittlauch-Crème-fraîche","2,74 €","4,61 €",B,0
+2024-09-09,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-09-09,Beilage 2,Rosmarinkartoffeln,"0,64 €","1,25 €",A,0
+2024-09-09,Dessert 1,Erdbeercremejoghurt,"0,46 €","0,90 €",B,0
+2024-09-09,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-09,Gemüse 1,Brokkoli,"0,68 €","1,33 €",A,0
+2024-09-09,Gemüse 2,Ratatouille Gemüse,"0,48 €","0,90 €",A,0
+2024-09-09,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-09,Suppe,Kohlrabicremesuppe,"0,50 €","0,98 €",A,0
+2024-09-10,Eintopf,Linseneintopf,"1,54 €","3,28 €",A,0
+2024-09-10,Essen 1,"Gebratener Reis mit Gemüse, Ei und einer Hähnchenhaxe","2,50 €","4,88 €",A,0
+2024-09-10,Essen 2,Rotbarschfilet mit Rahmgemüse,"2,20 €","4,29 €",A,0
+2024-09-10,Vegan,Backkartoffel mit Blattspinat und Kirschtomaten gefüllt,"1,96 €","3,82 €",A,0
+2024-09-10,Wok-/Grill,"""Pimp your Burger"" - Kross gebratenes Gemüse-Patty mit Pommes frites und Toppings nach Wahl","5,82 €","7,69 €",B,0
+2024-09-10,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-09-10,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-09-10,Dessert 1,Grießpudding mit Himbeeren,"0,74 €","1,44 €",C,0
+2024-09-10,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-10,Gemüse 1,Delikatessbohnen,"0,44 €","0,86 €",A,0
+2024-09-10,Gemüse 2,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-09-10,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-10,Suppe,Champignonsuppe,"0,54 €","1,05 €",A,0
+2024-09-11,Eintopf,"Möhren ""Durcheinander""","1,78 €","3,47 €",A,0
+2024-09-11,Essen 1,Semmelknödel mit Waldpilzen,"1,92 €","3,74 €",B,0
+2024-09-11,Essen 2,"""Pulled-Porkpfanne BBQ"" mit Paprika und Zwiebeln","2,34 €","4,56 €",A,0
+2024-09-11,Vegan,Hausgemachte Linsenlasagne mit Tomatensoße,"2,22 €","4,39 €",A,0
+2024-09-11,Wok-/Grill,"Choriatiki salata Griechischer Gemüsesalat mit roten Linsen, Oliven, Gurken, Tomaten, Paprika und gebratenem Halloumi","5,48 €","7,35 €",B,0
+2024-09-11,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-09-11,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-09-11,Dessert 1,Quark mit Erdbeeren,"0,72 €","1,40 €",A,0
+2024-09-11,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-11,Gemüse 1,Erbsen,"0,48 €","0,94 €",A,0
+2024-09-11,Gemüse 2,Mexicogemüse,"0,64 €","1,25 €",A,0
+2024-09-11,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-11,Suppe,Brokkolisuppe,"0,52 €","1,01 €",A,0
+2024-09-12,Eintopf,"Afrikanischer Ananas-Erdnuß-Eintopf ""planted.""","2,56 €","4,99 €",A,0
+2024-09-12,Essen 1,"Penne ""Mykonos"" mit Gemüse und Hirtenkäse","1,66 €","3,24 €",A,0
+2024-09-12,Essen 2,Geplatzte Wirsingroulade mit Jus,"2,04 €","3,98 €",A,0
+2024-09-12,Vegan,"Pommes frites ""Street Food Style"" mit Sojabolognese","2,06 €","4,01 €",A,0
+2024-09-12,Wok-/Grill,"""Pakora ""Gebackenes Tilapiafilet auf Indische Art mit Gemüsereis und Joghurt-Minzdip","3,26 €","5,13 €",A,0
+2024-09-12,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-09-12,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-09-12,Dessert 1,Rote Grütze mit Vanillesoße,"0,78 €","1,52 €",C,0
+2024-09-12,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-12,Gemüse 1,Fingerkarotten,"0,44 €","0,86 €",A,0
+2024-09-12,Gemüse 2,Blumenkohl,"0,44 €","0,86 €",A,0
+2024-09-12,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-12,Suppe,Tomatencremesuppe,"0,56 €","1,09 €",B,0
+2024-09-13,Eintopf,Unser Bestseller: Ungarische Gulaschsuppe,"3,28 €","6,40 €",A,0
+2024-09-13,Essen 1,Süßer Germknödel mit warmer Vanillesoße und Waldbeeren,"1,68 €","3,28 €",B,0
+2024-09-13,Essen 2,Zwei Kutterfrikadellen mit Remouladensoße,"2,20 €","4,29 €",D,0
+2024-09-13,Vegan,Gnocchi-Gyros-Pfanne mit Zaziki,"1,72 €","3,35 €",A,0
+2024-09-13,Wok-/Grill,Rheinischer Sauerbraten mit Apfelrotkohl und frischen Kartoffelklößen,"5,78 €","7,65 €",A,0
+2024-09-13,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-09-13,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-09-13,Dessert 1,Blaubeerjoghurt,"0,64 €","1,25 €",C,0
+2024-09-13,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-13,Gemüse 1,Romanobohnen,"0,52 €","1,01 €",A,0
+2024-09-13,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-13,Suppe,Asiatische Gemüsesuppe,"0,62 €","1,21 €",A,0
+2024-09-16,Eintopf,Eintopf von grünen Bohnen,"1,72 €","3,35 €",A,0
+2024-09-16,Essen 1,Gefüllte Gnocchi mit Ajvarsoße und gebratenen Paprikastreifen,"2,34 €","4,56 €",B,0
+2024-09-16,Essen 2,Paniertes Hähnchenschnitzel mit Rahmsoße,"2,19 €","4,28 €",A,0
+2024-09-16,Vegan,"Kartoffel-Gemüsepfanne mit Falaffelbällchen, Cashewkernen und Koriander","1,95 €","3,80 €",A,0
+2024-09-16,Wok-/Grill,"Tomatenrisotto mit Green Mountain Balls, veganem Fetakäse und Rucola","4,31 €","6,18 €",B,0
+2024-09-16,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-09-16,Beilage 2,Kroketten,"0,61 €","1,19 €",C,1
+2024-09-16,Dessert 1,Vanillepudding,"0,60 €","1,17 €",C,0
+2024-09-16,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-16,Gemüse 1,Rahmkohlrabi,"0,44 €","0,86 €",A,0
+2024-09-16,Gemüse 2,Blumenkohl,"0,44 €","0,86 €",A,0
+2024-09-16,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-16,Suppe,Karotten-Ingwersuppe,"0,39 €","0,76 €",A,0
+2024-09-17,Eintopf,Spitzkohleintopf,"1,83 €","3,56 €",A,0
+2024-09-17,Essen 1,Spaghetti mit einer rauchigen Speck-Sahnesoße,"1,65 €","3,22 €",B,0
+2024-09-17,Essen 2,Gebratenes Buntbarschfilet mit Lauchrahmsoße,"2,20 €","4,28 €",B,0
+2024-09-17,Vegan,Seitan Ragout mit Mischpilzen und Vollkornnudeln,"2,14 €","4,17 €",A,0
+2024-09-17,Wok-/Grill,"""Pimp Your Burger"" Zartes Hähnchenbrustfilet mit Haussoße, Rucola, Pommes frites und Toppings","5,23 €","7,10 €",B,0
+2024-09-17,Beilage 1,Rosmarinkartoffeln,"0,62 €","1,21 €",A,0
+2024-09-17,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-09-17,Dessert 1,Joghurt mit Kirschen,"0,56 €","1,09 €",C,0
+2024-09-17,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-17,Gemüse 1,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-09-17,Gemüse 2,Brokkoli,"0,76 €","1,48 €",A,0
+2024-09-17,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-17,Suppe,Blumenkohlrahmsuppe,"0,54 €","1,05 €",A,0
+2024-09-18,Eintopf,Lauchrahmtopf mit Kartoffelwürfeln und Suppengemüse,"1,62 €","3,16 €",A,0
+2024-09-18,Essen 1,Allgäuer Käsespätzle mit Lauch und Röstzwiebeln,"2,43 €","4,74 €",A,0
+2024-09-18,Essen 2,Kasselerrückenbraten mit Malzbiersoße,"2,24 €","4,37 €",A,0
+2024-09-18,Vegan,Indisches Rote Linsen Dal mit Blattspinat,"1,92 €","3,75 €",A,0
+2024-09-18,Wok-/Grill,"Cufte Hausgemachte Hackfleischtaler mit Zwiebelringen, Zaziki und Djuvec-Reis","4,66 €","6,53 €",A,0
+2024-09-18,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-09-18,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-09-18,Dessert 1,Milchreis mit Zimt und Zucker,"0,74 €","1,48 €",C,0
+2024-09-18,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-18,Gemüse 1,Wirsing in Sojarahm,"0,44 €","0,86 €",A,0
+2024-09-18,Gemüse 2,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-09-18,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-18,Suppe,Curry-Rahmsuppe,"0,52 €","1,01 €",A,0
+2024-09-19,Eintopf,Erbseneintopf,"1,73 €","3,37 €",A,0
+2024-09-19,Essen 1,Kartoffeltaschen mit Frischkäsefüllung und Mangoldsoße,"2,35 €","4,58 €",B,0
+2024-09-19,Essen 2,Putenstreifen in einer fruchtigen Currysoße,"2,54 €","4,96 €",A,0
+2024-09-19,Vegan,Asiatischer Reistopf mit Wokgemüse und Sojabohnenkeimlingen,"1,92 €","3,75 €",A,0
+2024-09-19,Wok-/Grill,"Rinderschmorbraten mit kräftiger Rotweinjus, Apfelrotkohl und frischen Klößen","5,57 €","7,44 €",A,0
+2024-09-19,Beilage 1,Nudeln mit Gemüse,"0,54 €","1,05 €",A,0
+2024-09-19,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-09-19,Dessert 1,Pfirsichquark,"0,62 €","1,21 €",A,0
+2024-09-19,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-19,Gemüse 1,Mischgemüse,"0,50 €","0,98 €",A,0
+2024-09-19,Gemüse 2,Romanesco,"0,76 €","1,48 €",A,0
+2024-09-19,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-19,Suppe,Paprikarahmsuppe,"0,62 €","1,21 €",A,0
+2024-09-20,Eintopf,Brasilianischer Gemüseeintopf mit roten Bohnen und Mais,"1,69 €","3,30 €",A,0
+2024-09-20,Essen 1,"""Kommse vonne Schicht, watt Schöneres gibbet nich"" als unsere: Currywurst","1,80 €","3,51 €",C,0
+2024-09-20,Essen 2,Zwei Backfischfilets mit Remouladensoße,"2,43 €","4,73 €",D,0
+2024-09-20,Vegan,Gulasch von der rheinischen Knolle mit Haferschmand,"1,49 €","2,91 €",A,0
+2024-09-20,Wok-/Grill,Indisches Butter Chicken mit Basmatireis,"4,99 €","6,86 €",A,0
+2024-09-20,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-09-20,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-09-20,Dessert 1,Erdbeercremejoghurt,"0,48 €","0,94 €",B,0
+2024-09-20,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-20,Gemüse 1,Erbsen und Fingerkarotten,"0,50 €","0,98 €",A,0
+2024-09-20,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-20,Suppe,Kräutersuppe,"0,42 €","0,82 €",B,0
+2024-09-23,Eintopf,"Möhren ""Durcheinander""","1,68 €","3,47 €",A,0
+2024-09-23,Essen 1,"Tortelloni ""Mediterraneo"" mit Kirschtomaten und Sonnenblumenkernen","2,26 €","4,41 €",A,0
+2024-09-23,Essen 2,Paniertes Putenschnitzel mit Geflügelsoße,"2,40 €","4,68 €",A,0
+2024-09-23,Vegan,"Bulgur-Gemüsepfanne ""Sweet Chili"" mit Grünkohl-Hanfbällchen","2,48 €","4,84 €",A,0
+2024-09-23,Wok-/Grill,"Frisch, gegrillte Schweinefiletmedaillons mit Speckböhnchen und Gnocchi","5,08 €","6,95 €",A,0
+2024-09-23,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-09-23,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-09-23,Dessert 1,Zitronenquark,"0,44 €","0,86 €",A,0
+2024-09-23,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-23,Gemüse 1,Mischgemüse in Sojarahm,"0,58 €","1,13 €",A,0
+2024-09-23,Gemüse 2,Erbsen,"0,48 €","0,94 €",A,0
+2024-09-23,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-23,Suppe,Karotten-Ingwersuppe,"0,40 €","0,78 €",A,0
+2024-09-24,Eintopf,"Hackfleischeintopf ""Budapest"" mit Kartoffeln und Paprika","2,92 €","5,68 €",A,0
+2024-09-24,Essen 1,Gnocchiauflauf mit Blattspinat und Tomate,"2,18 €","4,25 €",A,0
+2024-09-24,Essen 2,Gebratenes Tilapiafilet mit Kokos-Curry-Gemüse,"2,42 €","4,72 €",A,0
+2024-09-24,Vegan,"Veganes "" No-Chicken"" Frikassee","1,84 €","3,59 €",A,0
+2024-09-24,Wok-/Grill,"""Pimp Your Burger"" - ""Planted."" Kebap Burger mit Pommes Frites und Toppings nach Wahl","5,76 €","7,63 €",A,0
+2024-09-24,Beilage 1,Nudeln,"0,40 €","0,78 €",A,0
+2024-09-24,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-09-24,Dessert 1,Waldbeerjoghurt,"0,46 €","0,90 €",B,0
+2024-09-24,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-24,Gemüse 1,Sommergemüse,"0,44 €","0,86 €",A,0
+2024-09-24,Gemüse 2,Brokkoli,"0,76 €","1,48 €",A,0
+2024-09-24,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-24,Suppe,Tandoori Gemüsesuppe,"0,52 €","1,01 €",A,0
+2024-09-25,Eintopf,Pürierter Kartoffeleintopf mit frischer Blattpetersilie,"1,90 €","3,71 €",A,0
+2024-09-25,Essen 1,Schupfnudel-Poutine,"2,40 €","4,68 €",B,0
+2024-09-25,Essen 2,Hausgemachte Bifteki-Frikadelle mit Hirtenkäsefüllung und Zaziki,"2,60 €","5,07 €",B,0
+2024-09-25,Vegan,"Vollkornspaghetti mit Mangold, Kirschtomaten und gerösteten Sonnenblumenkernen","1,64 €","3,20 €",A,0
+2024-09-25,Wok-/Grill,"Miso Ramen - Nudelsuppe mit Rinderhüfte, Shii-Take u. Mu-Err Pilzen, Nori-Blätter, Soja, Sesam, Ingwer und Koriander","5,44 €","7,31 €",A,0
+2024-09-25,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-09-25,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-09-25,Dessert 1,Schokopudding,"0,60 €","1,17 €",C,0
+2024-09-25,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-25,Gemüse 1,Rustica Karotten,"0,64 €","1,25 €",A,0
+2024-09-25,Gemüse 2,Ratatouille Gemüse,"0,48 €","0,94 €",A,0
+2024-09-25,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-25,Suppe,Kräutersuppe,"0,42 €","0,82 €",B,0
+2024-09-26,Eintopf,Blumenkohl-Curry-Topf mit Kokosmilch,"1,66 €","3,24 €",A,0
+2024-09-26,Essen 1,"Reisnudelpfanne ""Olymp"" - Reisnudeln mit mediterranem Gemüse und Weißkäse","1,82 €","3,55 €",A,0
+2024-09-26,Essen 2,Natur gebratenes Stielkotelett mit Schmorzwiebeln und Jus,"2,52 €","4,91 €",A,0
+2024-09-26,Vegan,Hausgemachte Linsenlasagne mit Tomatensoße,"2,22 €","4,33 €",A,0
+2024-09-26,Wok-/Grill,"Kurzgebratene, ausgelöste Hähnchenkeule mit Erdnusssoße und Risi Bisi","4,42 €","6,29 €",A,0
+2024-09-26,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-09-26,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-09-26,Dessert 1,Pfirsichquark,"0,62 €","1,21 €",A,0
+2024-09-26,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-26,Gemüse 1,Delikatessbohnen,"0,44 €","0,86 €",A,0
+2024-09-26,Gemüse 2,Buntes Gemüse mit Kichererbsen,"0,76 €","1,48 €",A,0
+2024-09-26,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-26,Suppe,Kartoffelsuppe,"0,46 €","0,90 €",A,0
+2024-09-27,Eintopf,Ribollita - Toskanischer Bauerntopf,"1,82 €","3,55 €",A,0
+2024-09-27,Essen 1,Gebackenes Käseschnitzel mit Kräutersoße,"2,48 €","4,84 €",D,0
+2024-09-27,Essen 2,Alaska-Seelachsfilet in Eihülle und Senf-Dillsoße,"2,64 €","5,15 €",A,0
+2024-09-27,Vegan,Gebackene Aubergine mit Tabouleh und Soja-Minzdip,"1,72 €","3,25 €",A,0
+2024-09-27,Wok-/Grill,"Argentinische Steakhüfte mit Pfefferrahmsoße, Pommes frites und Salat","7,00 €","8,87 €",A,0
+2024-09-27,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-09-27,Beilage 2,Nudeln,"0,40 €","0,78 €",A,0
+2024-09-27,Dessert 1,Joghurt mit Müsli,"0,43 €","0,84 €",B,0
+2024-09-27,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-27,Gemüse 1,Blattspinat in Sojarahm,"0,60 €","1,17 €",A,0
+2024-09-27,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-27,Suppe,Curry-Rahmsuppe,"0,52 €","1,01 €",A,0
+2024-09-30,Eintopf,Lauchrahmtopf mit Kartoffelwürfeln und Suppengemüse,"1,62 €","3,16 €",A,0
+2024-09-30,Essen 1,"Kartoffelnudeln mit Kraut, Paprikastreifen und Speck","1,94 €","3,78 €",A,0
+2024-09-30,Essen 2,Gebratene Hähnchenbrust mit Paprikarahmsoße,"2,56 €","4,99 €",A,0
+2024-09-30,Vegan,Frische Kartoffelknödel mit Champignons in Sojarahm,"2,56 €","4,99 €",A,0
+2024-09-30,Beilage 1,Kroketten,"0,62 €","1,21 €",C,1
+2024-09-30,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-09-30,Dessert 1,Vanillepudding,"0,60 €","1,17 €",C,0
+2024-09-30,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-09-30,Gemüse 1,Karottenscheiben,"0,34 €","0,66 €",A,0
+2024-09-30,Gemüse 2,Erbsen,"0,48 €","0,94 €",A,0
+2024-09-30,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-09-30,Suppe,Kohlrabicremesuppe,"0,50 €","0,98 €",A,0
+2024-10-01,Eintopf,Süßkartoffel-Tomaten-Eintopf,"1,70 €","3,32 €",A,0
+2024-10-01,Essen 1,Fleischbällchen mit Paprika-Zwiebeln-Erbsengemüse und Ajvar,"2,52 €","4,91 €",A,0
+2024-10-01,Essen 2,Gebratenes Rotbarschfilet mit Lauchrahmsoße,"2,56 €","4,99 €",A,0
+2024-10-01,Vegan,Jackfruit-Ragout mit frischen Wiesenchampignons,"1,66 €","3,24 €",A,0
+2024-10-01,Wok-/Grill,"""Pimp Your Burger"" - Rindfleischpatty mit Salat, unserer Haussoße, Pommes frites und Toppings nach Wahl","6,04 €","7,91 €",D,0
+2024-10-01,Beilage 1,Nudeln,"0,40 €","0,78 €",A,0
+2024-10-01,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-10-01,Dessert 1,Milchreis mit Zimt und Zucker,"0,72 €","1,40 €",C,0
+2024-10-01,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-10-01,Gemüse 1,Romanobohnen,"0,52 €","1,01 €",A,0
+2024-10-01,Gemüse 2,Blattspinat in Sojarahm,"0,60 €","1,17 €",A,0
+2024-10-01,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-01,Suppe,Tomatensuppe,"0,40 €","0,78 €",A,0
+2024-10-02,Eintopf,Unser Bestseller: Ungarische Gulaschsuppe,"3,16 €","6,16 €",A,0
+2024-10-02,Essen 1,Nudel- Gemüseauflauf auf Tomatensugo,"2,22 €","4,33 €",A,0
+2024-10-02,Essen 2,Knusprig gebratener Schweinebauch mit Zwiebel-Apfelragout,"2,30 €","4,49 €",D,0
+2024-10-02,Vegan,"Kichererbsencurry mit Spinat, Blumenkohl, Wurzelgemüse und Reis","1,88 €","3,67 €",A,0
+2024-10-02,Wok-/Grill,"""Gong Bao Chicken"" - Traditionelles chinesisches Wok-Gericht aus der Szechuan-Küche mit Reis","3,72 €","5,59 €",A,0
+2024-10-02,Beilage 1,Schwenkkartoffeln,"0,64 €","1,25 €",B,0
+2024-10-02,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-10-02,Dessert 1,Pfirsichjoghurt,"0,52 €","1,01 €",C,0
+2024-10-02,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-10-02,Gemüse 1,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-10-02,Gemüse 2,Brokkoli,"0,76 €","1,48 €",A,0
+2024-10-02,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-02,Suppe,Pürierte Erbsensuppe,"0,56 €","1,09 €",A,0
+2024-10-04,Eintopf,"Gemüseeintopf ""Pichelsteiner Art""","1,54 €","3,00 €",A,0
+2024-10-04,Essen 1,"""Tortilla Española"" Spanisches Kartoffelomelette mit Paprika und Kirschtomaten","1,96 €","3,82 €",A,0
+2024-10-04,Essen 2,"Fischfiletstreifen ""Kibbeling"" mit Zitronen-Mayonnaise","2,32 €","4,52 €",C,0
+2024-10-04,Vegan,Frisches Grillgemüse mit Kartoffeln aus dem Ofen,"2,32 €","4,52 €",B,0
+2024-10-04,Wok-/Grill,"Großes Schweineschnitzel ""Holsteiner Art"" mit Schmorzwiebeln, Spiegelei und Pommes frites","5,01 €","6,88 €",A,0
+2024-10-04,Beilage 1,Kartoffeln,"0,56 €","1,09 €",A,0
+2024-10-04,Beilage 2,Pommes frites,"0,60 €","1,17 €",B,0
+2024-10-04,Dessert 1,Quark mit Mandarinen,"0,52 €","1,01 €",A,0
+2024-10-04,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-10-04,Gemüse 1,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-10-04,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-04,Suppe,Blumenkohlrahmsuppe,"0,54 €","1,05 €",A,0
+2024-10-07,Eintopf,"""planted. Chicken"" Eintopf mit Curry und Gemüse","2,34 €","4,56 €",A,0
+2024-10-07,Essen 1,Kartoffelgnocchi mit frischem Gemüse und Kräuter-Sahnesoße,"1,64 €","3,20 €",A,0
+2024-10-07,Essen 2,"Hähnchenbrustfilet ""Texas"" mit BBQ Soße","2,98 €","5,81 €",A,0
+2024-10-07,Vegan,"Orientalische Couscouspfanne mit Gemüse, Mango, Rosinen, Nüssen und Soja-Joghurtdip","1,96 €","3,82 €",A,0
+2024-10-07,Wok-/Grill,"Schweinefilet mit Kräuterbutter, Pommes frites und hausgemachten Krautsalat","4,60 €","6,47 €",A,0
+2024-10-07,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-10-07,Beilage 2,Penne Rigate mit Gemüse,"0,47 €","0,91 €",A,0
+2024-10-07,Dessert 1,Joghurt mit Kirschen,"0,59 €","1,14 €",C,0
+2024-10-07,Dessert Gläser,Dessert im Glas,---,---,C,0
+2024-10-07,Gemüse 1,Cordial Mischgemüse,"0,60 €","1,17 €",A,0
+2024-10-07,Gemüse 2,Pariser Karotten,"0,66 €","1,29 €",A,0
+2024-10-07,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-07,Suppe,Gemüsecremesuppe,"0,42 €","0,82 €",B,0
+2024-10-08,Eintopf,Deftiger Grünkohl-Kartoffeltopf,"1,68 €","3,28 €",A,0
+2024-10-08,Essen 1,Spätzle mit buntem Balsamico-Linsengemüse,"1,84 €","3,59 €",A,0
+2024-10-08,Essen 2,Mariniertes Tilapiafilet Cajun Style auf Asiagemüse,"3,40 €","6,63 €",A,0
+2024-10-08,Vegan,"""Chili con Soja"" mit Kidneybohnen, Mais und Fladenbrot","1,90 €","3,71 €",A,0
+2024-10-08,Wok-/Grill,"""Pimp Your Burger"" - Mariniertes Hähchenbrustfilet mit Cole Slaw, Pommes frites und Toppings nach Wahl","5,14 €","7,01 €",B,0
+2024-10-08,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-10-08,Beilage 2,Kartoffel Wedges,"0,68 €","1,33 €",B,0
+2024-10-08,Dessert 1,Buttermilchdessert mit Erdbeeren,"0,63 €","1,24 €",A,0
+2024-10-08,Dessert Gläser,Dessert im Glas,---,---,C,0
+2024-10-08,Gemüse 1,Mischgemüse,"0,64 €","1,25 €",A,0
+2024-10-08,Gemüse 2,Blattspinat in Sojarahm,"0,60 €","1,17 €",A,0
+2024-10-08,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-08,Suppe,Blumenkohlrahmsuppe,"0,53 €","1,03 €",A,0
+2024-10-09,Eintopf,Mediterraner Tomaten-Zucchini-Eintopf,"1,62 €","3,16 €",A,0
+2024-10-09,Essen 1,Rosenkohl-Kartoffelauflauf mit Schnittlauchsoße,"1,96 €","3,82 €",A,0
+2024-10-09,Essen 2,Gebackener Hackbraten mit dunkler Senfsoße,"2,62 €","5,11 €",A,0
+2024-10-09,Vegan,"Gebratene Mie Nudeln mit Wokgemüse, Tofu und veganem Ei","3,02 €","5,89 €",A,0
+2024-10-09,Wok-/Grill,"Grünes Thai-Curry mit Putenstreifen, dazu frisches Gemüse und Basmati-Reis Grünes Thai-Curry mit veganen Hähnchenstreifen ""planted"", dazu frisches Gemüse und Basmati-Reis",---,---,A,0
+2024-10-09,Beilage 1,Reis,"0,48 €","0,94 €",A,0
+2024-10-09,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-10-09,Dessert 1,Grießpudding mit Himbeeren,"0,74 €","1,44 €",C,0
+2024-10-09,Dessert Gläser,Dessert im Glas,---,---,C,0
+2024-10-09,Gemüse 1,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-10-09,Gemüse 2,Blumenkohl-Brokkoli-Mix,"0,54 €","1,05 €",A,0
+2024-10-09,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-09,Suppe,Champignonsuppe,"0,55 €","1,08 €",A,0
+2024-10-10,Eintopf,Gartengemüse-Eintopf mit Nudeln,"1,86 €","3,63 €",A,0
+2024-10-10,Essen 1,Zwei Spinatknödel mit Kräuter-Zwiebelsoße,"2,00 €","3,90 €",A,0
+2024-10-10,Essen 2,"Spaghetti ""Bolognese""","2,30 €","4,49 €",A,0
+2024-10-10,Vegan,"Rote Bete Gnocchis mit Gemüse, Champignons und gehackten Walnüssen","1,98 €","3,86 €",A,0
+2024-10-10,Wok-/Grill,"Rindergulasch mit Schmand, Spätzle und Salat","5,42 €","7,29 €",A,0
+2024-10-10,Beilage 1,Pommes frites,"0,60 €","1,17 €",B,0
+2024-10-10,Beilage 2,Reis mit Erbsen,"0,62 €","1,21 €",A,0
+2024-10-10,Dessert 1,Mangoquark,"0,64 €","1,24 €",A,0
+2024-10-10,Dessert Gläser,Dessert im Glas,---,---,C,0
+2024-10-10,Gemüse 1,Delikatessbohnen,"0,43 €","0,84 €",A,0
+2024-10-10,Gemüse 2,Balkangemüse,"0,46 €","0,90 €",A,0
+2024-10-10,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-10,Suppe,Brokkolisuppe,"0,72 €","1,40 €",A,0
+2024-10-11,Eintopf,Eintopf von grünen Bohnen,"1,72 €","3,35 €",A,0
+2024-10-11,Essen 1,"Schupfnudeln mit karamellisierten Äpfeln, Ahornsirup und Vanillesoße","1,78 €","3,47 €",C,0
+2024-10-11,Essen 2,Zwei Kutterfrikadellen mit Remouladensoße,"2,18 €","4,25 €",D,0
+2024-10-11,Vegan,Bunte Tortellini-Gemüsepfanne mit Tomatensoße,"2,22 €","4,33 €",A,0
+2024-10-11,Wok-/Grill,"""Plant-based Schnitzel vom Feld"" mit frischen Rahmchampignons, Pommes frites und Salat","5,54 €","7,41 €",A,0
+2024-10-11,Beilage 1,Couscous,"0,44 €","0,86 €",A,0
+2024-10-11,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-10-11,Dessert 1,Joghurt mit Ananas,"0,52 €","1,01 €",B,0
+2024-10-11,Dessert Gläser,Dessert im Glas,---,---,C,0
+2024-10-11,Gemüse 1,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-10-11,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-11,Suppe,Rote Linsen-Kartoffelsuppe,"0,56 €","1,10 €",A,0
+2024-10-14,Eintopf,"Hackfleischeintopf ""Budapest"" mit Kartoffeln und Paprika","2,92 €","5,69 €",A,0
+2024-10-14,Essen 1,Gnocchi mit Gemüse und Walnusspesto,"2,24 €","4,37 €",B,0
+2024-10-14,Essen 2,"Holländische ""Frikandel Spezial"" mit Curryketchup, Mayonnaise und feinen Zwiebeln","1,72 €","3,35 €",D,0
+2024-10-14,Vegan,Gebratene Maultaschen in Miso - Brühe mit Gemüsestreifen,"2,56 €","4,86 €",A,0
+2024-10-14,Wok-/Grill,"Frische, bunte Bandnudeln mit Rucola-Pesto, Kirschtomaten und Schweinefiletstreifen","5,16 €","7,03 €",A,0
+2024-10-14,Beilage 1,Pommes frites,"0,60 €","1,17 €",C,0
+2024-10-14,Beilage 2,Schwenkkartoffeln,"0,64 €","1,25 €",C,0
+2024-10-14,Dessert 1,Joghurt mit Ananas,"0,52 €","1,01 €",A,0
+2024-10-14,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-10-14,Gemüse 1,Brokkoli,"0,76 €","1,48 €",A,0
+2024-10-14,Gemüse 2,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-10-14,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-14,Suppe,Kartoffelsuppe,"0,42 €","0,82 €",A,0
+2024-10-15,Eintopf,Pürierter Kartoffeleintopf mit frischer Blattpetersilie,"1,90 €","3,71 €",A,0
+2024-10-15,Essen 1,Spaghetti al Limone mit gerösteten Mandeln und Parmesan,"1,74 €","3,39 €",A,0
+2024-10-15,Essen 2,Gebratenes Buntbarschfilet mit Thai-Green Soße,"2,72 €","5,30 €",A,0
+2024-10-15,Vegan,Frühlingsrolle mit Gemüsefüllung und chinesischer Bratensoße,"2,10 €","4,30 €",B,0
+2024-10-15,Wok-/Grill,"""Pimp Your Burger"" - Rindfleischpatty mit Salat, unserer Haussoße, Pommes frites und Toppings nach Wahl","6,08 €","7,95 €",D,0
+2024-10-15,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-10-15,Beilage 2,Nudeln mit Gemüse,"0,54 €","1,05 €",A,0
+2024-10-15,Dessert 1,Schokopudding,"0,60 €","1,17 €",C,0
+2024-10-15,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-10-15,Gemüse 1,Blumenkohl,"0,42 €","0,82 €",A,0
+2024-10-15,Gemüse 2,Karottenscheiben,"0,36 €","0,70 €",A,0
+2024-10-15,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-15,Suppe,Brokkolisuppe,"0,36 €","0,70 €",A,0
+2024-10-16,Aktion,"Ramen - Nudelsuppe mit Soja, Miso, Mu-Err Pilzen, Nori Blätter, Pak Choi, Ei, Ingwer, Sprossen und gebackenem Tofu","3,24 €","5,11 €",A,0
+2024-10-16,Eintopf,"Weißer Bohneneintopf ""Serbische Art""","1,86 €","3,63 €",A,0
+2024-10-16,Essen 1,Hähnchenflügel Asiasoße Komp.,"2,16 €","4,21 €",D,0
+2024-10-16,Essen 2,Lummerbraten vom Schwein mit grüner Pfeffersoße,"2,22 €","4,33 €",A,0
+2024-10-16,Vegan,"Penne ""Primavera"" mit buntem Gemüse","1,72 €","3,35 €",B,0
+2024-10-16,Wok-/Grill,"Miso Ramen - Nudelsuppe mit Rinderhüfte, Shii-Take u. Mu-Err Pilzen, Nori-Blätter, Soja, Sesam, Ingwer und Koriander","4,92 €","6,79 €",A,0
+2024-10-16,Beilage 1,Kroketten,"0,62 €","1,21 €",C,1
+2024-10-16,Dessert 1,Schokopudding,"0,60 €","1,17 €",C,0
+2024-10-16,Dessert 1,Waldbeerjoghurt,"0,52 €","1,01 €",B,0
+2024-10-16,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-10-16,Gemüse 1,Delikatessbohnen,"0,44 €","0,86 €",A,0
+2024-10-16,Gemüse 2,Balkangemüse,"0,46 €","0,90 €",A,0
+2024-10-16,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-16,Suppe,Karotten-Ingwersuppe,"0,40 €","0,78 €",A,0
+2024-10-17,Eintopf,Gemüse-Nudeltopf mit veganem Ei,"1,88 €","3,67 €",A,0
+2024-10-17,Essen 1,"""Mac & Cheese"" - Maccaroni mit Cashewkernen und Käsesoße","1,96 €","3,82 €",C,0
+2024-10-17,Essen 2,Hausgemachte Frikadelle mit Champignonrahmsoße,"2,64 €","5,15 €",B,0
+2024-10-17,Vegan,Kartoffel Wirsing Stampf mit Green Mountain Balls,"2,74 €","5,34 €",A,0
+2024-10-17,Wok-/Grill,"""Powerfood Salatbowl"" mit Hähnchenstreifen in Chili-Kokosrahm auf verschiedenen Salaten und einem Dressing","3,94 €","5,81 €",B,0
+2024-10-17,Beilage 1,Reisnudeln,"0,38 €","0,74 €",A,0
+2024-10-17,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-10-17,Dessert 1,Buttermilchdessert Mango,"0,72 €","1,40 €",B,0
+2024-10-17,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-10-17,Gemüse 1,Erbsen,"0,48 €","0,94 €",A,0
+2024-10-17,Gemüse 2,Ratatouille Gemüse,"0,46 €","0,90 €",A,0
+2024-10-17,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-17,Suppe,Petersilienwurzelsuppe,"0,76 €","1,48 €",A,0
+2024-10-18,Eintopf,Kichererbsen-Tomateneintopf,"1,46 €","3,33 €",A,0
+2024-10-18,Essen 1,Currywurstpfanne mit Paprika und Zwiebeln,"1,90 €","3,71 €",C,0
+2024-10-18,Essen 2,Frutti di Mare mit Farfalle,"2,74 €","5,22 €",A,0
+2024-10-18,Vegan,Pasta Protein Pfanne,"2,26 €","4,45 €",A,0
+2024-10-18,Wok-/Grill,American Pancakes mit Beerenobst und Vanillesoße,"3,20 €","5,07 €",C,0
+2024-10-18,Beilage 1,Pommes frites,"0,60 €","1,17 €",C,0
+2024-10-18,Beilage 2,Reis mit Gemüse,"0,60 €","1,17 €",A,0
+2024-10-18,Dessert 1,Grießpudding mit Himbeeren,"0,46 €","0,90 €",C,0
+2024-10-18,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-10-18,Gemüse 1,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-10-18,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-18,Suppe,Kräutersuppe,"0,42 €","0,82 €",B,0
+2024-10-21,Eintopf,"""Blumenkohleintopf mit Kartoffeln und Kichererbsen""","1,64 €","3,20 €",A,0
+2024-10-21,Essen 1,Semmelknödel mit Waldpilzen,"1,92 €","3,74 €",B,0
+2024-10-21,Essen 2,Mediterrane Hackfleisch-Nudel -Pfanne mit Gemüse und Tomaten,"3,00 €","5,90 €",A,0
+2024-10-21,Vegan,Gefüllte Frühlingsrolle an Sweet Chilisoße,"1,60 €","3,12 €",B,0
+2024-10-21,Wok-/Grill,"""Pierogi"" mit Kartoffel-Quarkfüllung, Gemüsestiften und Schnittlauch-Crème-fraîche","2,74 €","4,61 €",C,0
+2024-10-21,Beilage 1,Pommes frites,"0,60 €","1,17 €",C,0
+2024-10-21,Beilage 2,Reis mit Gemüse,"0,60 €","1,17 €",A,0
+2024-10-21,Dessert 1,Erdbeercremejoghurt,"0,46 €","0,90 €",B,0
+2024-10-21,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-10-21,Gemüse 1,Brokkoli,"0,76 €","1,48 €",A,0
+2024-10-21,Gemüse 2,Balkangemüse,"0,46 €","0,90 €",A,0
+2024-10-21,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-21,Suppe,Kohlrabicremesuppe,"0,50 €","0,98 €",A,0
+2024-10-22,Eintopf,Unser Bestseller: Ungarische Gulaschsuppe,"3,28 €","6,40 €",A,0
+2024-10-22,Essen 1,"Penne ""Mykonos"" mit Gemüse und Hirtenkäse","1,66 €","3,24 €",A,0
+2024-10-22,Essen 2,Rotbarschfilet mit Rahmgemüse,"2,20 €","4,29 €",A,0
+2024-10-22,Vegan,Sojastreifen Budapest mit Paprikastreifen und Tomate,"1,92 €","3,74 €",A,0
+2024-10-22,Wok-/Grill,"""Pimp your Burger"" - Kross gebratenes Gemüse-Patty mit Pommes frites und Toppings nach Wahl","5,82 €","7,69 €",C,0
+2024-10-22,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-10-22,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-10-22,Dessert 1,Grießpudding mit Himbeeren,"0,74 €","1,44 €",C,0
+2024-10-22,Dessert Gläser,Dessert im Glas,---,---,C,0
+2024-10-22,Gemüse 1,Delikatessbohnen,"0,44 €","0,86 €",A,0
+2024-10-22,Gemüse 2,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-10-22,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-22,Suppe,Champignonsuppe,"0,40 €","0,66 €",A,0
+2024-10-23,Eintopf,Linseneintopf,"1,54 €","3,28 €",A,0
+2024-10-23,Essen 1,Kartoffel-Spitzkohlpfanne mit Walnuss-Apfeldip,"1,84 €","3,59 €",B,0
+2024-10-23,Essen 2,Schweinegulasch Toskana im Reisrand,"2,90 €","5,66 €",A,0
+2024-10-23,Vegan,"Pommes frites ""Street Food Style"" mit Sojabolognese","2,06 €","4,01 €",B,0
+2024-10-23,Wok-/Grill,"""Gong Bao Chicken"" - Traditionelles chinesisches Wok-Gericht aus der Szechuan-Küche mit Reis","3,82 €","5,69 €",A,0
+2024-10-23,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-10-23,Beilage 2,Pommes frites,"0,60 €","1,17 €",C,0
+2024-10-23,Dessert 1,Quark mit Erdbeeren,"0,72 €","1,40 €",A,0
+2024-10-23,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-10-23,Gemüse 1,Erbsen,"0,48 €","0,94 €",A,0
+2024-10-23,Gemüse 2,Mexicogemüse,"0,64 €","1,25 €",A,0
+2024-10-23,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-23,Suppe,Brokkolisuppe,"0,34 €","0,66 €",A,0
+2024-10-24,Eintopf,"Afrikanischer Ananas-Erdnuß-Eintopf ""planted.""","2,56 €","4,99 €",A,0
+2024-10-24,Essen 1,"Gebratener Reis mit Gemüse, Ei und Hähncheninnenfilet","2,02 €","3,94 €",A,0
+2024-10-24,Essen 2,"""Pulled-Porkpfanne BBQ"" mit Paprika und Zwiebeln","2,34 €","4,56 €",A,0
+2024-10-24,Vegan,Hausgemachte Linsenlasagne mit Tomatensoße,"2,14 €","4,17 €",A,0
+2024-10-24,Wok-/Grill,"""Pakora ""Gebackenes Tilapiafilet auf Indische Art mit Gemüsereis und Joghurt-Minzdip","3,26 €","5,13 €",A,0
+2024-10-24,Beilage 1,Pommes frites,"0,60 €","1,17 €",C,0
+2024-10-24,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-10-24,Dessert 1,Rote Grütze mit Vanillesoße,"0,78 €","1,52 €",C,0
+2024-10-24,Dessert Gläser,Dessert im Glas,---,---,C,0
+2024-10-24,Gemüse 1,Fingerkarotten,"0,44 €","0,86 €",A,0
+2024-10-24,Gemüse 2,Blumenkohl,"0,44 €","0,85 €",A,0
+2024-10-24,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-24,Suppe,Tomatencremesuppe,"0,38 €","0,74 €",B,0
+2024-10-25,Eintopf,"Möhren ""Durcheinander""","1,78 €","3,47 €",A,0
+2024-10-25,Essen 1,Warmer Kaiserschmarren mit Vanillesoße,"1,52 €","2,96 €",C,0
+2024-10-25,Essen 2,Zwei Kutterfrikadellen mit Remouladensoße,"2,30 €","4,49 €",D,0
+2024-10-25,Vegan,"Grüne Tortellini mit veganer Käsesoße, bunten Gemüsestreifen und Rucola","2,56 €","5,00 €",C,0
+2024-10-25,Wok-/Grill,"Choriatiki salata Griechischer Gemüsesalat mit roten Linsen, Oliven, Gurken, Tomaten, Paprika und gebratenem Halloumi","5,48 €","7,35 €",C,0
+2024-10-25,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-10-25,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-10-25,Dessert 1,Blaubeerjoghurt,"0,54 €","1,05 €",C,0
+2024-10-25,Dessert Gläser,Dessert im Glas,---,---,C,0
+2024-10-25,Gemüse 1,Romanobohnen,"0,52 €","1,01 €",A,0
+2024-10-25,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-25,Suppe,Asiatische Gemüsesuppe,"0,62 €","1,21 €",A,0
+2024-10-28,Eintopf,Eintopf von grünen Bohnen,"1,72 €","3,35 €",A,0
+2024-10-28,Essen 1,Maccaroni Blumenkohl Auflauf mit Cheddarkäse,"2,02 €","3,94 €",B,0
+2024-10-28,Essen 2,Paniertes Hähnchenschnitzel mit Rahmsoße,"2,19 €","4,28 €",A,0
+2024-10-28,Vegan,"Kartoffel-Gemüsepfanne mit Falaffelbällchen, Cashewkernen und Koriander","1,95 €","3,80 €",A,0
+2024-10-28,Wok-/Grill,"Tomatenrisotto mit Green Mountain Balls, veganer Feta-Alternative und Rucola","4,31 €","6,18 €",B,0
+2024-10-28,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-10-28,Beilage 2,Kroketten,"0,61 €","1,19 €",C,1
+2024-10-28,Dessert 1,Vanillepudding,"0,60 €","1,17 €",C,0
+2024-10-28,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-10-28,Gemüse 1,Rahmkohlrabi,"0,44 €","0,86 €",A,0
+2024-10-28,Gemüse 2,Blumenkohl,"0,44 €","0,86 €",A,0
+2024-10-28,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-28,Suppe,Karotten-Ingwersuppe,"0,39 €","0,76 €",A,0
+2024-10-29,Eintopf,Deftiger Grünkohl-Kartoffeltopf,"1,70 €","3,57 €",A,0
+2024-10-29,Essen 1,Gefüllte Gnocchi mit Ajvarsoße und gebratenen Paprikastreifen,"1,92 €","3,74 €",C,0
+2024-10-29,Essen 2,Gebratenes Buntbarschfilet mit Lauchrahmsoße,"2,20 €","4,28 €",A,0
+2024-10-29,Vegan,Seitan Ragout mit Mischpilzen und Vollkornnudeln,"2,14 €","4,17 €",A,0
+2024-10-29,Wok-/Grill,"""Pimp Your Burger"" Zartes Hähnchenbrustfilet mit Haussoße, Rucola, Pommes frites und Toppings","5,23 €","7,10 €",C,0
+2024-10-29,Beilage 1,Rosmarinkartoffeln,"0,62 €","1,21 €",B,0
+2024-10-29,Beilage 2,Pommes frites,"0,60 €","1,17 €",C,0
+2024-10-29,Dessert 1,Joghurt mit Kirschen,"0,56 €","1,09 €",C,0
+2024-10-29,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-10-29,Gemüse 1,Rosenkohl in Sojarahm,"0,48 €","0,94 €",A,0
+2024-10-29,Gemüse 2,Brokkoli,"0,76 €","1,48 €",A,0
+2024-10-29,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-29,Suppe,Blumenkohlrahmsuppe,"0,54 €","1,05 €",A,0
+2024-10-30,Eintopf,Lauchrahmtopf mit Kartoffelwürfeln und Suppengemüse,"1,62 €","3,16 €",A,0
+2024-10-30,Essen 1,Allgäuer Käsespätzle mit Lauch und Röstzwiebeln,"2,43 €","4,74 €",B,0
+2024-10-30,Essen 2,Saftiger Nackenbraten mit Malzbiersoße,"2,58 €","5,03 €",B,0
+2024-10-30,Vegan,Indisches Linsen Dal mit roten Chilis und Koriander,"1,92 €","3,75 €",B,0
+2024-10-30,Wok-/Grill,Knusprige Schweinshaxe aus dem Ofen mit Kartoffelpüree und Sauerkraut,"5,06 €","6,93 €",A,0
+2024-10-30,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-10-30,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-10-30,Dessert 1,Milchreis mit Zimt und Zucker,"0,74 €","1,48 €",C,0
+2024-10-30,Dessert Gläser,Dessert im Glas,---,---,C,0
+2024-10-30,Gemüse 1,Wirsing in Sojarahm,"0,44 €","0,86 €",A,0
+2024-10-30,Gemüse 2,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-10-30,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-30,Suppe,Curry-Rahmsuppe,"0,52 €","1,01 €",A,0
+2024-10-31,Eintopf,Erbseneintopf,"1,73 €","3,37 €",A,0
+2024-10-31,Essen 1,Kartoffeltaschen mit Frischkäsefüllung und Grünkohlsoße,"2,04 €","3,98 €",C,0
+2024-10-31,Essen 2,Putenstreifen in einer fruchtigen Currysoße,"2,54 €","4,96 €",A,0
+2024-10-31,Vegan,Asiatischer Reis-Topf mit Wokgemüse und Sojabohnenkeimlingen,"1,92 €","3,75 €",A,0
+2024-10-31,Wok-/Grill,"Rinderschmorbraten mit kräftiger Rotweinjus, Apfelrotkohl und frischen Klößen","5,57 €","7,44 €",A,0
+2024-10-31,Beilage 1,Nudeln mit Gemüse,"0,54 €","1,05 €",A,0
+2024-10-31,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-10-31,Dessert 1,Pfirsichquark,"0,62 €","1,21 €",A,0
+2024-10-31,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-10-31,Gemüse 1,Mischgemüse,"0,50 €","0,98 €",A,0
+2024-10-31,Gemüse 2,Romanesco,"0,76 €","1,48 €",A,0
+2024-10-31,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-10-31,Suppe,Paprikarahmsuppe,"0,62 €","1,21 €",A,0
+2024-11-04,Eintopf,"Möhren ""Durcheinander""","1,72 €","3,35 €",A,0
+2024-11-04,Essen 1,"Tortelloni ""Mediterraneo"" mit Kirschtomaten und Sonnenblumenkernen","2,14 €","4,17 €",A,0
+2024-11-04,Essen 2,Im Ofen gebackene Hähnchenbrust mit Balsamico-Zwiebel-Jus,"2,72 €","5,30 €",A,0
+2024-11-04,Vegan,Cremige Miso-Ingwer-Polenta mit Brokkoli und Champignons,"2,30 €","4,49 €",A,0
+2024-11-04,Wok-/Grill,"Lichterfest-Menü ""Rasam Suppe"", ""Gemüse Dal"", ""Double Ka Meetha""","5,76 €","7,63 €",A,0
+2024-11-04,Beilage 1,Pommes frites,"0,60 €","1,17 €",C,0
+2024-11-04,Beilage 2,Reis mit Gemüse,"0,62 €","1,21 €",A,0
+2024-11-04,Dessert 1,Waldbeerjoghurt,"0,46 €","0,90 €",B,0
+2024-11-04,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-04,Gemüse 1,Mischgemüse in Sojarahm,"0,58 €","1,13 €",B,0
+2024-11-04,Gemüse 2,Erbsen,"0,48 €","0,94 €",A,0
+2024-11-04,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-04,Suppe,"Südindische Rasam-Suppe - Würzig, scharfe Suppe mit Tomaten, Tamarinde, Knoblauch, Koriander und Kreuzkümmel","0,88 €","1,72 €",A,0
+2024-11-05,Eintopf,"Hackfleischeintopf ""Budapest"" mit Kartoffeln und Paprika","2,24 €","4,37 €",A,0
+2024-11-05,Essen 1,Gnocchiauflauf mit Blattspinat und Tomate,"2,14 €","4,17 €",B,0
+2024-11-05,Essen 2,Gebratenes Tilapiafilet mit Kokos-Curry-Gemüse,"2,56 €","4,99 €",A,0
+2024-11-05,Vegan,"Veganes "" No-Chicken"" Frikassee","1,84 €","3,59 €",A,0
+2024-11-05,Wok-/Grill,"Lichterfest-Menü ""Masoor ki Dal"", ""Biryani"" Mango Lassi","5,02 €","6,89 €",A,0
+2024-11-05,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-11-05,Beilage 2,Reis,"0,48 €","0,94 €",A,0
+2024-11-05,Dessert 1,Grießpudding mit Himbeeren,"0,74 €","1,44 €",C,0
+2024-11-05,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-05,Gemüse 1,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-11-05,Gemüse 2,Brokkoli,"0,66 €","1,29 €",A,0
+2024-11-05,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-05,Suppe,"Rote Linsensuppe ""Masoor ki Dal""","0,58 €","1,13 €",A,0
+2024-11-06,Eintopf,Pürierter Kartoffeleintopf mit frischer Blattpetersilie,"1,80 €","3,51 €",A,0
+2024-11-06,Essen 1,Schupfnudel-Poutine,"2,28 €","4,45 €",C,0
+2024-11-06,Essen 2,Hausgemachte Bifteki-Frikadelle mit Hirtenkäsefüllung und Zaziki,"2,50 €","4,88 €",A,0
+2024-11-06,Vegan,Vollkornspaghetti mit Kürbis und Karamell-Walnüssen,"1,74 €","3,39 €",A,0
+2024-11-06,Wok-/Grill,"Lichterfest-Menü Indische Reissuppe, Tomaten-Dal mit Reis, ""Suji Ka Halwa""","3,82 €","5,69 €",A,0
+2024-11-06,Beilage 1,Nudeln,"0,38 €","0,74 €",A,0
+2024-11-06,Beilage 2,Pommes frites,"0,60 €","1,17 €",C,0
+2024-11-06,Dessert 1,Schokopudding,"0,60 €","1,17 €",C,0
+2024-11-06,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-06,Gemüse 1,Rustica Karotten,"0,64 €","1,25 €",A,0
+2024-11-06,Gemüse 2,Ratatouille Gemüse,"0,46 €","0,90 €",A,0
+2024-11-06,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-06,Suppe,"Indische Reissuppe - Gemüsebrühe mit Reis , Schmand und Ei","0,74 €","1,44 €",B,0
+2024-11-07,Eintopf,Blumenkohl-Curry-Topf mit Kokosmilch,"1,56 €","3,04 €",A,0
+2024-11-07,Essen 1,Kartoffelpfanne mit frischem Gemüse und Kräuterquark,"1,54 €","3,00 €",A,0
+2024-11-07,Essen 2,Natur gebratenes Stielkotelett mit Schmorzwiebeln und Jus,"2,42 €","4,72 €",A,0
+2024-11-07,Vegan,Hausgemachte Linsenlasagne mit Tomatensoße,"2,12 €","4,13 €",A,0
+2024-11-07,Wok-/Grill,"Kurzgebratene, ausgelöste Hähnchenkeule mit Erdnusssoße und Risi Bisi","3,78 €","5,65 €",A,0
+2024-11-07,Beilage 1,Pommes frites,"0,60 €","1,17 €",C,0
+2024-11-07,Beilage 2,Schwenkkartoffeln,"0,62 €","1,21 €",C,0
+2024-11-07,Dessert 1,Bananenquark,"0,76 €","1,48 €",B,0
+2024-11-07,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-07,Gemüse 1,Delikatessbohnen,"0,44 €","0,86 €",A,0
+2024-11-07,Gemüse 2,Buntes Gemüse mit Kichererbsen,"0,66 €","1,29 €",A,0
+2024-11-07,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-07,Suppe,Kartoffelsuppe,"0,46 €","0,90 €",A,0
+2024-11-08,Eintopf,Ribollita - Toskanischer Bauerntopf,"1,80 €","3,51 €",A,0
+2024-11-08,Essen 1,"Tellerrösti ""à la Popeye"" mit Blattspinat, getrockneten Tomaten und Hirtenkäse","2,44 €","4,76 €",C,0
+2024-11-08,Essen 2,Alaska-Seelachsfilet in Eihülle und Senf-Dillsoße,"2,56 €","4,99 €",A,0
+2024-11-08,Vegan,"Süße Spätzle mit Mohn, heißen Kirschen und Mandeln","1,70 €","3,32 €",C,0
+2024-11-08,Wok-/Grill,"Argentinische Steakhüfte mit Pfefferrahmsoße, Pommes frites und Salat","6,94 €","8,81 €",A,0
+2024-11-08,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-11-08,Beilage 2,Spätzle,"0,58 €","1,13 €",A,0
+2024-11-08,Dessert 1,Joghurt mit Müsli,"0,43 €","0,84 €",C,0
+2024-11-08,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-08,Gemüse 1,Blumenkohl-Brokkoli-Mix,"0,54 €","1,05 €",A,0
+2024-11-08,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-08,Suppe,Curry-Rahmsuppe,"0,50 €","0,98 €",A,0
+2024-11-11,Aktion,"Seitan-Gulasch mit Backpflaumen, frischem Rotkohl und Kartoffel-Klöße","3,93 €","5,79 €",A,0
+2024-11-11,Eintopf,Lauchrahmtopf mit Kartoffelwürfeln und Suppengemüse,"1,50 €","2,93 €",A,0
+2024-11-11,Essen 1,"Kartoffelnudeln mit Kraut, Paprikastreifen und Speck","1,86 €","3,63 €",B,0
+2024-11-11,Essen 2,"Paniertes Putenschnitzel ""Balkan Art""","2,48 €","4,84 €",A,0
+2024-11-11,Vegan,Frische Kartoffelknödel mit Champignons in Sojarahm,"2,54 €","4,95 €",A,0
+2024-11-11,Wok-/Grill,"Rosagebratene Entenbrust auf einer Rotwein-Backpflaumensoße, Rotkohl und Kartoffelklößen","7,66 €","9,53 €",B,0
+2024-11-11,Beilage 1,Kroketten,"0,62 €","1,21 €",C,1
+2024-11-11,Beilage 2,Reis mit Paprika und Erbsen,"0,76 €","1,48 €",A,0
+2024-11-11,Dessert 1,Vanillepudding,"0,58 €","1,13 €",C,0
+2024-11-11,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-11,Gemüse 1,Karottenscheiben,"0,34 €","0,66 €",A,0
+2024-11-11,Gemüse 2,Mischgemüse,"0,66 €","1,29 €",A,0
+2024-11-11,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-11,Suppe,Kohlrabicremesuppe,"0,48 €","0,94 €",A,0
+2024-11-12,Eintopf,Steckrüben-Rosenkohl-Eintopf mit Kartoffeln und Möhren,"1,50 €","2,93 €",A,0
+2024-11-12,Essen 1,"Fleischbällchen ""Köttbullar"" mit Rahmsoße und Preiselbeeren","2,56 €","4,99 €",C,0
+2024-11-12,Essen 2,Gebratenes Rotbarschfilet mit Lauchrahmsoße,"2,56 €","4,99 €",A,0
+2024-11-12,Vegan,"""Joys Kürbis-Curry"" mit Kichererbsen, Spinat, Kokosmilch, Ingwer und Koriander","1,88 €","3,67 €",C,0
+2024-11-12,Wok-/Grill,"""Pimp Your Burger"" - Rindfleischpatty mit Salat, unserer Haussoße, Pommes frites und Toppings nach Wahl","5,90 €","7,27 €",D,0
+2024-11-12,Beilage 1,Reis,"0,48 €","0,94 €",A,0
+2024-11-12,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-11-12,Dessert 1,Milchreis mit Zimt und Zucker,"0,72 €","1,40 €",C,0
+2024-11-12,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-12,Gemüse 1,Romanobohnen,"0,52 €","1,01 €",A,0
+2024-11-12,Gemüse 2,Wirsing in Sojarahm,"0,44 €","0,86 €",A,0
+2024-11-12,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-12,Suppe,Tomatensuppe,"0,54 €","1,05 €",A,0
+2024-11-13,Aktion,"Choriatiki salata Griechischer Gemüsesalat mit roten Linsen, Oliven, Gurken, Tomaten, Paprika und warmen veganem Fetakäse","5,24 €","7,11 €",C,0
+2024-11-13,Eintopf,Unser Bestseller: Ungarische Gulaschsuppe,"3,06 €","5,97 €",A,0
+2024-11-13,Essen 1,Farfalle-Nudeln mit Rahmspinat und Rührei,"1,96 €","3,82 €",A,0
+2024-11-13,Essen 2,Knusprig gebratener Schweinebauch mit Zwiebel-Apfelragout,"2,26 €","4,41 €",D,0
+2024-11-13,Vegan,Pulled Jackfruit Tortilla mit BBQ-Soße,"2,56 €","4,99 €",A,0
+2024-11-13,Wok-/Grill,"Choriatiki salata Griechischer Gemüsesalat mit roten Linsen, Oliven, Gurken, Tomaten, Paprika und gebratenem Halloumi","5,02 €","6,89 €",C,0
+2024-11-13,Beilage 1,Schwenkkartoffeln,"0,62 €","1,21 €",C,0
+2024-11-13,Beilage 2,Reis,"0,48 €","0,94 €",A,0
+2024-11-13,Dessert 1,Pfirsichjoghurt,"0,68 €","1,33 €",C,0
+2024-11-13,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-13,Gemüse 1,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-11-13,Gemüse 2,Brokkoli,"0,66 €","1,29 €",A,0
+2024-11-13,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-13,Suppe,Pürierte Erbsensuppe,"0,54 €","1,05 €",A,0
+2024-11-14,Eintopf,Erbseneintopf,"1,84 €","3,59 €",A,0
+2024-11-14,Essen 1,"Reisnudelpfanne ""Olymp"" - Reisnudeln mit mediterranem Gemüse und Weißkäse","1,82 €","3,55 €",A,0
+2024-11-14,Essen 2,"""Jägergulasch"" - Schweinegulasch mit Speck und Champignons in Weißwein-Sahnesoße","2,50 €","4,88 €",B,0
+2024-11-14,Vegan,"Veggie-Gyros ""Akropolis"" mit Zaziki","1,64 €","3,20 €",A,0
+2024-11-14,Wok-/Grill,"Hausgemachte Lasagne al forno, Rindfleisch mit Wurzelgemüse, Tomatensoße und Salat","3,32 €","5,19 €",C,0
+2024-11-14,Beilage 1,Pommes frites,"0,60 €","1,17 €",C,0
+2024-11-14,Beilage 2,Nudeln mit Gemüse,"0,52 €","1,01 €",A,0
+2024-11-14,Dessert 1,Erdbeercremejoghurt,"0,46 €","0,90 €",B,0
+2024-11-14,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-14,Gemüse 1,Balkangemüse,"0,46 €","0,90 €",A,0
+2024-11-14,Gemüse 2,Blumenkohl,"0,42 €","0,82 €",A,0
+2024-11-14,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-14,Suppe,Apfel-Kürbissuppe,"0,56 €","1,09 €",B,0
+2024-11-15,Eintopf,"Gemüseeintopf ""Pichelsteiner Art""","1,50 €","2,93 €",A,0
+2024-11-15,Essen 1,"""Tortilla Española"" Spanisches Kartoffelomelette mit Paprika und Kirschtomaten","1,96 €","3,82 €",A,0
+2024-11-15,Essen 2,"Fischfiletstreifen ""Kibbeling"" mit Zitronen-Mayonnaise","2,22 €","4,33 €",C,0
+2024-11-15,Vegan,Frisches Grillgemüse mit Kartoffeln aus dem Ofen,"2,38 €","4,64 €",B,0
+2024-11-15,Wok-/Grill,"Großes Schweineschnitzel ""Holsteiner Art"" mit Schmorzwiebeln, Spiegelei und Pommes frites","4,80 €","6,67 €",B,0
+2024-11-15,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-11-15,Beilage 2,Pommes frites,"0,60 €","1,17 €",C,0
+2024-11-15,Dessert 1,Quark mit Mandarinen,"0,52 €","1,01 €",A,0
+2024-11-15,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-15,Gemüse 1,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-11-15,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-15,Suppe,Blumenkohlrahmsuppe,"0,52 €","1,01 €",A,0
+2024-11-18,Eintopf,"""planted. Chicken"" Eintopf mit Curry und Gemüse","2,34 €","4,56 €",A,0
+2024-11-18,Essen 1,Kartoffelgnocchi mit frischem Gemüse und Kräuter-Sahnesoße,"1,64 €","3,20 €",B,0
+2024-11-18,Essen 2,"Hähnchenbrustfilet ""Texas"" mit BBQ Soße","2,98 €","5,81 €",A,0
+2024-11-18,Vegan,"Orientalische Couscouspfanne mit Gemüse, Mango, Rosinen, Nüssen und Soja-Joghurtdip","1,96 €","3,82 €",A,0
+2024-11-18,Wok-/Grill,"Schweinefilet mit Kräuterbutter, Pommes frites und hausgemachten Krautsalat","4,60 €","6,47 €",B,0
+2024-11-18,Beilage 1,Pommes frites,"0,60 €","1,17 €",C,0
+2024-11-18,Beilage 2,Penne Rigate mit Gemüse,"0,47 €","0,91 €",A,0
+2024-11-18,Dessert 1,Joghurt mit Kirschen,"0,59 €","1,14 €",C,0
+2024-11-18,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-18,Gemüse 1,Cordial Mischgemüse,"0,60 €","1,17 €",A,0
+2024-11-18,Gemüse 2,Pariser Karotten,"0,66 €","1,29 €",A,0
+2024-11-18,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-18,Suppe,Gemüsecremesuppe,"0,42 €","0,82 €",B,0
+2024-11-19,Eintopf,Deftiger Grünkohl-Kartoffeltopf,"1,68 €","3,28 €",A,0
+2024-11-19,Essen 1,Spätzle mit buntem Balsamico-Linsengemüse,"1,84 €","3,59 €",A,0
+2024-11-19,Essen 2,Mariniertes Tilapiafilet Cajun Style auf Asiagemüse,"3,40 €","6,63 €",A,0
+2024-11-19,Vegan,"""Falco´s Peanuts Asia-Nudeln "" mit Tofu, Chili, Ingwer, gehackte Erdnüsse, Sesamsamen und Lauch","2,24 €","4,37 €",A,0
+2024-11-19,Wok-/Grill,"""Pimp Your Burger"" - Mariniertes Hähchenbrustfilet mit Cole Slaw, Pommes frites und Toppings nach Wahl","5,14 €","7,01 €",C,0
+2024-11-19,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-11-19,Beilage 2,Kartoffel Wedges,"0,68 €","1,33 €",C,0
+2024-11-19,Dessert 1,Buttermilchdessert mit Erdbeeren,"0,63 €","1,24 €",A,0
+2024-11-19,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-19,Gemüse 1,Mischgemüse,"0,64 €","1,25 €",A,0
+2024-11-19,Gemüse 2,Blattspinat in Sojarahm,"0,60 €","1,17 €",A,0
+2024-11-19,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-19,Suppe,Blumenkohlrahmsuppe,"0,53 €","1,03 €",A,0
+2024-11-20,Eintopf,Mediterraner Tomaten-Zucchini-Eintopf,"1,62 €","3,16 €",A,0
+2024-11-20,Essen 1,Rosenkohl-Kartoffelauflauf mit Schnittlauchsoße,"1,96 €","3,82 €",B,0
+2024-11-20,Essen 2,Gebackener Hackbraten mit dunkler Senfsoße,"2,62 €","5,11 €",A,0
+2024-11-20,Vegan,"Gebratene Mie Nudeln mit Wokgemüse, Tofu und veganem Ei","3,02 €","5,89 €",A,0
+2024-11-20,Wok-/Grill,"Cufte Hausgemachte Hackfleischtaler mit Zwiebelringen, Zaziki und Djuvec-Reis","5,37 €","7,24 €",A,0
+2024-11-20,Beilage 1,Reis,"0,48 €","0,94 €",A,0
+2024-11-20,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-11-20,Dessert 1,Grießpudding mit Himbeeren,"0,74 €","1,44 €",C,0
+2024-11-20,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-20,Gemüse 1,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-11-20,Gemüse 2,Blumenkohl-Brokkoli-Mix,"0,54 €","1,05 €",A,0
+2024-11-20,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-20,Suppe,Champignonsuppe,"0,55 €","1,08 €",A,0
+2024-11-21,Eintopf,Gartengemüse-Eintopf mit Nudeln,"1,86 €","3,63 €",A,0
+2024-11-21,Essen 1,Zwei Spinatknödel mit Kräuter-Zwiebelsoße,"2,00 €","3,90 €",B,0
+2024-11-21,Essen 2,"Spaghetti ""Bolognese""","2,30 €","4,49 €",A,0
+2024-11-21,Vegan,"Rote Bete Gnocchis mit Gemüse, Champignons und gehackten Walnüssen","1,98 €","3,86 €",A,0
+2024-11-21,Wok-/Grill,"Geschmorte Lammkeule mit Thymian- Honigsoße, Rosenkohl und Süßkartoffelstampf","6,52 €","8,39 €",A,0
+2024-11-21,Beilage 1,Pommes frites,"0,60 €","1,17 €",C,0
+2024-11-21,Beilage 2,Reis mit Erbsen,"0,62 €","1,21 €",A,0
+2024-11-21,Dessert 1,Mangoquark,"0,64 €","1,24 €",A,0
+2024-11-21,Dessert 2,Christstollen mit Vanillecreme,"1,26 €","2,45 €",B,0
+2024-11-21,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-21,Gemüse 1,Delikatessbohnen,"0,43 €","0,84 €",A,0
+2024-11-21,Gemüse 2,Balkangemüse,"0,46 €","0,90 €",A,0
+2024-11-21,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-21,Suppe,Brokkolisuppe,"0,72 €","1,40 €",A,0
+2024-11-22,Eintopf,Fasolada,"1,67 €","3,43 €",A,0
+2024-11-22,Essen 1,"Schupfnudeln mit karamellisierten Äpfeln, Ahornsirup und Vanillesoße","1,78 €","3,47 €",C,0
+2024-11-22,Essen 2,Zwei Kutterfrikadellen mit Remouladensoße,"2,18 €","4,25 €",D,0
+2024-11-22,Vegan,Bunte Tortellini-Gemüsepfanne mit Tomatensoße,"2,22 €","4,33 €",B,0
+2024-11-22,Wok-/Grill,"""Plant-based Schnitzel vom Feld"" mit frischen Rahmchampignons, Pommes frites und Salat","5,54 €","7,41 €",B,0
+2024-11-22,Beilage 1,Couscous,"0,44 €","0,86 €",A,0
+2024-11-22,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-11-22,Dessert 1,Joghurt mit Ananas,"0,52 €","1,01 €",A,0
+2024-11-22,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-22,Gemüse 1,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-11-22,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-22,Suppe,Rote Linsen-Kartoffelsuppe,"0,56 €","1,10 €",A,0
+2024-11-25,Eintopf,"Hackfleischeintopf ""Budapest"" mit Kartoffeln und Paprika","2,92 €","5,69 €",A,0
+2024-11-25,Essen 1,Gnocchi mit Gemüse und Walnusspesto,"2,24 €","4,37 €",B,0
+2024-11-25,Essen 2,"Holländische ""Frikandel Spezial"" mit Curryketchup, Mayonnaise und feinen Zwiebeln","1,72 €","3,35 €",D,0
+2024-11-25,Vegan,Gebratene Maultaschen in Miso - Brühe mit Gemüsestreifen,"2,56 €","4,86 €",A,0
+2024-11-25,Wok-/Grill,"Frische, bunte Bandnudeln mit Rucola-Pesto, Kirschtomaten und Schweinefiletstreifen","5,16 €","7,03 €",A,0
+2024-11-25,Beilage 1,Pommes frites,"0,60 €","1,17 €",C,0
+2024-11-25,Beilage 2,Couscous,"0,46 €","0,90 €",A,0
+2024-11-25,Dessert 1,Joghurt mit Johannisbeeren,"0,40 €","0,80 €",C,0
+2024-11-25,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-25,Gemüse 1,Brokkoli,"0,76 €","1,48 €",A,0
+2024-11-25,Gemüse 2,Leipziger Allerlei,"0,58 €","1,13 €",A,0
+2024-11-25,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-25,Suppe,Karotten-Ingwersuppe,"0,38 €","0,74 €",A,0
+2024-11-26,Eintopf,Pürierter Kartoffeleintopf mit frischer Blattpetersilie,"1,90 €","3,71 €",A,0
+2024-11-26,Essen 1,Spaghetti al Limone mit gerösteten Mandeln und Parmesan,"1,74 €","3,39 €",A,0
+2024-11-26,Essen 2,Gebratenes Buntbarschfilet mit Thai-Green Soße,"2,72 €","5,30 €",A,0
+2024-11-26,Vegan,"""Alejandro´s roter Linsen-Masala"" mit gehackten Tomaten, Kokosmilch, Spinat, Ingwer und Basmati-Reis","2,16 €","4,21 €",A,0
+2024-11-26,Wok-/Grill,"""Pimp Your Burger"" - Rindfleischpatty mit Salat, unserer Haussoße, Pommes frites und Toppings nach Wahl","6,08 €","7,95 €",D,0
+2024-11-26,Beilage 1,Schwenkkartoffeln,"0,46 €","0,90 €",C,0
+2024-11-26,Beilage 2,Nudeln mit Gemüse,"0,54 €","1,05 €",A,0
+2024-11-26,Dessert 1,Schokopudding,"0,60 €","1,17 €",C,0
+2024-11-26,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-26,Gemüse 1,Blumenkohl,"0,42 €","0,82 €",A,0
+2024-11-26,Gemüse 2,Karottenscheiben,"0,36 €","0,70 €",A,0
+2024-11-26,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-26,Suppe,Brokkolisuppe,"0,36 €","0,70 €",A,0
+2024-11-27,Eintopf,"Weißer Bohneneintopf ""Serbische Art""","1,86 €","3,63 €",A,0
+2024-11-27,Essen 1,"Hähnchenflügel mit Woksoße ""Sweet&Spicy""","2,68 €","5,23 €",D,0
+2024-11-27,Essen 2,Lummerbraten vom Schwein mit grüner Pfeffersoße,"2,22 €","4,33 €",A,0
+2024-11-27,Vegan,"Penne ""Primavera"" mit buntem Gemüse","1,72 €","3,35 €",B,0
+2024-11-27,Wok-/Grill,"Pollo a la Brasa Peruanische Hähnchenkeule mit Koriander, Limette, Chili, Basmati-Reis und Ajì Verde","5,32 €","7,19 €",C,0
+2024-11-27,Beilage 1,Kroketten,"0,62 €","1,21 €",C,1
+2024-11-27,Beilage 2,Nudeln mit Gemüse,"0,54 €","1,05 €",A,0
+2024-11-27,Dessert 1,Waldbeerjoghurt,"0,52 €","1,01 €",B,0
+2024-11-27,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-27,Gemüse 1,Delikatessbohnen,"0,44 €","0,86 €",A,0
+2024-11-27,Gemüse 2,Balkangemüse,"0,46 €","0,90 €",A,0
+2024-11-27,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-27,Suppe,"Cremige Kürbissuppe mit Ingwer, Kokosmilch und gerösteten Kürbiskernen","0,46 €","0,90 €",B,0
+2024-11-28,Aktion,Salted Caramel Pudding mit Spekulatius,"1,76 €","3,43 €",A,0
+2024-11-28,Eintopf,Gemüse-Nudeltopf mit veganem Ei,"1,88 €","3,67 €",A,0
+2024-11-28,Essen 1,"""Mac & Cheese"" - Maccaroni mit Cashewkernen und Käsesoße","1,96 €","3,82 €",C,0
+2024-11-28,Essen 2,Hausgemachte Frikadelle mit Champignonrahmsoße,"2,64 €","5,15 €",B,0
+2024-11-28,Vegan,Kartoffel-Endivien-Stampf mit 3 Green Mounten Balls,"2,70 €","5,27 €",C,0
+2024-11-28,Wok-/Grill,"""Gebackener Butternusskürbis"" Balsamicolinsen mit Dattelsirup, Chiliöl und Granatapfelkernen, dazu Rosmarinkartoffeln","3,30 €","5,17 €",A,0
+2024-11-28,Beilage 1,Kartoffel Wedges,"0,48 €","0,94 €",C,0
+2024-11-28,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-11-28,Dessert 1,Grießpudding mit Himbeeren,"0,74 €","1,44 €",C,0
+2024-11-28,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-11-28,Gemüse 1,Erbsen,"0,48 €","0,94 €",A,0
+2024-11-28,Gemüse 2,Ratatouille Gemüse,"0,46 €","0,90 €",A,0
+2024-11-28,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-28,Suppe,Kohlrabicremesuppe,"0,48 €","0,94 €",A,0
+2024-11-29,Eintopf,Kichererbsen-Tomateneintopf,"1,46 €","3,33 €",A,0
+2024-11-29,Essen 1,Currywurstpfanne mit Paprika und Zwiebeln,"1,90 €","3,71 €",C,0
+2024-11-29,Essen 2,Frutti di Mare mit Farfalle,"2,74 €","5,22 €",A,0
+2024-11-29,Vegan,"Protein Pastapfanne mit Soja, getrockneten Tomaten und veganem Käse","2,26 €","4,41 €",A,0
+2024-11-29,Wok-/Grill,American Pancakes mit Beerenobst und Vanillesoße,"3,20 €","5,07 €",C,0
+2024-11-29,Beilage 1,Pommes frites,"0,60 €","1,17 €",C,0
+2024-11-29,Beilage 2,Reis mit Gemüse,"0,60 €","1,17 €",A,0
+2024-11-29,Dessert 1,Buttermilchdessert Mango,"0,46 €","0,90 €",B,0
+2024-11-29,Dessert Gläser,Dessert im Glas,---,---,C,0
+2024-11-29,Gemüse 1,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-11-29,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-11-29,Suppe,Kräutersuppe,"0,42 €","0,82 €",B,0
+2024-12-02,Eintopf,"""Blumenkohleintopf mit Kartoffeln und Kichererbsen""","1,64 €","3,20 €",A,0
+2024-12-02,Essen 1,Semmelknödel mit Waldpilzen,"1,92 €","3,74 €",B,0
+2024-12-02,Essen 2,Mediterrane Hackfleisch-Nudel -Pfanne mit Gemüse und Tomaten,"2,08 €","4,06 €",A,0
+2024-12-02,Vegan,Gefüllte Frühlingsrolle an Sweet Chilisoße,"1,60 €","3,12 €",B,0
+2024-12-02,Wok-/Grill,"""Pierogi"" mit Kartoffel-Quarkfüllung, Gemüsestiften und Schnittlauch-Crème-fraîche","2,74 €","4,61 €",C,0
+2024-12-02,Beilage 1,Pommes frites,"0,60 €","1,17 €",C,0
+2024-12-02,Beilage 2,Reis mit Gemüse,"0,60 €","1,17 €",A,0
+2024-12-02,Dessert 1,Buttermilchdessert Mango,"0,46 €","0,90 €",B,0
+2024-12-02,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-12-02,Gemüse 1,Brokkoli,"0,76 €","1,48 €",A,0
+2024-12-02,Gemüse 2,Balkangemüse,"0,60 €","1,20 €",A,0
+2024-12-02,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-12-02,Suppe,Kohlrabicremesuppe,"0,50 €","0,98 €",A,0
+2024-12-03,Eintopf,Unser Bestseller: Ungarische Gulaschsuppe,"3,28 €","6,40 €",A,0
+2024-12-03,Essen 1,"Penne ""Mykonos"" mit Gemüse und Hirtenkäse","1,66 €","3,24 €",A,0
+2024-12-03,Essen 2,Rotbarschfilet mit Rahmgemüse,"2,20 €","4,29 €",A,0
+2024-12-03,Vegan,"""Mellis kreolisches Jambalaya"" frisches Gemüse, Knoblauch, Thymian, Oregano, Kidneybohnen und Reis","2,22 €","4,33 €",A,0
+2024-12-03,Wok-/Grill,"""Pimp your Burger"" - Kross gebratenes Gemüse-Patty mit Pommes frites und Toppings nach Wahl","5,82 €","7,69 €",C,0
+2024-12-03,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-12-03,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-12-03,Dessert 1,Grießpudding mit Himbeeren,"0,74 €","1,44 €",C,0
+2024-12-03,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-12-03,Gemüse 1,Delikatessbohnen,"0,44 €","0,86 €",A,0
+2024-12-03,Gemüse 2,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-12-03,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-12-03,Suppe,Champignonsuppe,"0,40 €","0,66 €",A,0
+2024-12-04,Eintopf,Linseneintopf,"1,54 €","3,28 €",A,0
+2024-12-04,Essen 1,Kartoffel-Spitzkohlpfanne mit Walnuss-Apfeldip,"1,84 €","3,59 €",B,0
+2024-12-04,Essen 2,Schweinegulasch Toskana im Reisrand,"2,90 €","5,66 €",A,0
+2024-12-04,Vegan,"Pommes frites ""Street Food Style"" mit Sojabolognese","2,06 €","4,01 €",B,0
+2024-12-04,Wok-/Grill,"Moqueca Baiana Marniertes gebratenes Barschfilet mit Zwiebeln, Paprika, passierte Tomaten und Reis [Bio)","3,96 €","5,83 €",A,0
+2024-12-04,Beilage 1,Reis,"0,46 €","0,90 €",A,0
+2024-12-04,Beilage 2,Pommes frites,"0,60 €","1,17 €",C,0
+2024-12-04,Dessert 1,Quark mit Erdbeeren,"0,72 €","1,40 €",A,0
+2024-12-04,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-12-04,Gemüse 1,Erbsen,"0,48 €","0,94 €",A,0
+2024-12-04,Gemüse 2,Mexicogemüse,"0,64 €","1,25 €",A,0
+2024-12-04,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-12-04,Suppe,Brokkolisuppe,"0,34 €","0,66 €",A,0
+2024-12-05,Aktion,Lebkuchen- Tiramisu,"1,52 €","2,96 €",D,0
+2024-12-05,Eintopf,"Afrikanischer Ananas-Erdnuß-Eintopf ""planted.""","2,56 €","4,99 €",A,0
+2024-12-05,Essen 1,"Gebratener Reis mit Gemüse, Ei und Hähncheninnenfilet","2,02 €","3,94 €",A,0
+2024-12-05,Essen 2,"""Pulled-Porkpfanne BBQ"" mit Paprika und Zwiebeln","2,34 €","4,56 €",A,0
+2024-12-05,Vegan,Hausgemachte Linsenlasagne mit Tomatensoße,"2,14 €","4,17 €",A,0
+2024-12-05,Wok-/Grill,"Lachsfilet aus dem Ofen mit Kapernveloute, Graupenrisotto und Brokkoli","6,26 €","8,13 €",B,0
+2024-12-05,Beilage 1,Pommes frites,"0,60 €","1,17 €",C,0
+2024-12-05,Beilage 2,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-12-05,Dessert 1,Rote Grütze mit Vanillesoße,"0,78 €","1,52 €",C,0
+2024-12-05,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-12-05,Gemüse 1,Fingerkarotten,"0,44 €","0,86 €",A,0
+2024-12-05,Gemüse 2,Blumenkohl,"0,44 €","0,85 €",A,0
+2024-12-05,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-12-05,Suppe,Tomatencremesuppe,"0,38 €","0,74 €",B,0
+2024-12-06,Eintopf,"Möhren ""Durcheinander""","1,78 €","3,47 €",A,0
+2024-12-06,Essen 1,Warmer Kaiserschmarren mit Vanillesoße,"1,52 €","2,96 €",C,0
+2024-12-06,Essen 2,Zwei Kutterfrikadellen mit Remouladensoße,"2,30 €","4,49 €",D,0
+2024-12-06,Vegan,"Grüne Tortellini mit veganer Käsesoße, bunten Gemüsestreifen und Rucola","2,56 €","5,00 €",C,0
+2024-12-06,Wok-/Grill,"Choriatiki salata Griechischer Gemüsesalat mit roten Linsen, Oliven, Gurken, Tomaten, Paprika und gebratenem Halloumi","5,48 €","7,35 €",C,0
+2024-12-06,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-12-06,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-12-06,Dessert 1,Blaubeerjoghurt,"0,54 €","1,05 €",C,0
+2024-12-06,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-12-06,Gemüse 1,Romanobohnen,"0,52 €","1,01 €",A,0
+2024-12-06,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-12-06,Suppe,Asiatische Gemüsesuppe,"0,62 €","1,21 €",A,0
+2024-12-09,Eintopf,Eintopf von grünen Bohnen,"1,72 €","3,35 €",A,0
+2024-12-09,Essen 1,Maccaroni Blumenkohl Auflauf mit Cheddarkäse,"2,02 €","3,94 €",B,0
+2024-12-09,Essen 2,Paniertes Hähnchenschnitzel mit Rahmsoße,"2,19 €","4,28 €",A,0
+2024-12-09,Vegan,"Kartoffel-Gemüsepfanne mit Falaffelbällchen, Cashewkernen und Koriander","1,95 €","3,80 €",A,0
+2024-12-09,Wok-/Grill,"Tomatenrisotto mit Green Mountain Balls, veganer Feta-Alternative und Rucola","4,31 €","6,18 €",B,0
+2024-12-09,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-12-09,Beilage 2,Kroketten,"0,62 €","1,21 €",C,1
+2024-12-09,Dessert 1,Vanillepudding,"0,60 €","1,17 €",C,0
+2024-12-09,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-12-09,Gemüse 1,Rahmkohlrabi,"0,44 €","0,86 €",A,0
+2024-12-09,Gemüse 2,Blumenkohl,"0,44 €","0,86 €",A,0
+2024-12-09,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-12-09,Suppe,Karotten-Ingwersuppe,"0,39 €","0,76 €",A,0
+2024-12-10,Eintopf,Deftiger Grünkohl-Kartoffeltopf,"1,70 €","3,57 €",A,0
+2024-12-10,Essen 1,Gefüllte Gnocchis mit Paprikasoße,"1,92 €","3,74 €",C,0
+2024-12-10,Essen 2,Gebratenes Buntbarschfilet mit Lauchrahmsoße,"2,20 €","4,28 €",A,0
+2024-12-10,Vegan,"""Josy´s mariniertes Soja"" Gulasch mit Zwiebeln, Paprika und Balsamico dazu Kräuter-Spätzle","2,34 €","4,56 €",A,0
+2024-12-10,Wok-/Grill,"""Pimp Your Burger"" Zartes Hähnchenbrustfilet mit Haussoße, Rucola, Pommes frites und Toppings","5,23 €","7,10 €",C,0
+2024-12-10,Beilage 1,Rosmarinkartoffeln,"0,62 €","1,21 €",B,0
+2024-12-10,Beilage 2,Pommes frites,"0,60 €","1,17 €",C,0
+2024-12-10,Dessert 1,Joghurt mit Kirschen,"0,56 €","1,09 €",C,0
+2024-12-10,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-12-10,Gemüse 1,Rosenkohl in Sojarahm,"0,48 €","0,94 €",A,0
+2024-12-10,Gemüse 2,Brokkoli,"0,76 €","1,48 €",A,0
+2024-12-10,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-12-10,Suppe,Blumenkohlrahmsuppe,"0,54 €","1,05 €",A,0
+2024-12-11,Eintopf,Lauchrahmtopf mit Kartoffelwürfeln und Suppengemüse,"1,62 €","3,16 €",A,0
+2024-12-11,Essen 1,Allgäuer Käsespätzle mit Lauch und Röstzwiebeln,"2,43 €","4,74 €",B,0
+2024-12-11,Essen 2,Saftiger Nackenbraten mit Malzbiersoße,"2,58 €","5,03 €",B,0
+2024-12-11,Vegan,Indisches Linsen Dal mit roten Chilis und Koriander,"1,92 €","3,75 €",B,0
+2024-12-11,Wok-/Grill,"Svícková na smetane - Lendenbraten mit sämiger Wurzelgemüse-Sahne, Semmelknödel und Preiselbeeren","5,40 €","7,27 €",A,0
+2024-12-11,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-12-11,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-12-11,Dessert 1,Milchreis mit Zimt und Zucker,"0,74 €","1,48 €",C,0
+2024-12-11,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-12-11,Gemüse 1,Wirsing in Sojarahm,"0,44 €","0,86 €",A,0
+2024-12-11,Gemüse 2,Kaisergemüse,"0,48 €","0,94 €",A,0
+2024-12-11,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-12-11,Suppe,Curry-Rahmsuppe,"0,52 €","1,01 €",A,0
+2024-12-12,Aktion,"Christmas Bowl"" Couscous mit planted. Duck, Wintersalat, marinierter Rotkohl, Orangen Kurkumadressing und gerösteten Walnüssen","5,74 €","7,61 €",B,0
+2024-12-12,Eintopf,Erbseneintopf,"1,73 €","3,37 €",A,0
+2024-12-12,Essen 1,Kartoffeltaschen mit Frischkäsefüllung und Grünkohlsoße,"2,04 €","3,98 €",C,0
+2024-12-12,Essen 2,Putenstreifen in einer fruchtigen Currysoße,"2,54 €","4,96 €",A,0
+2024-12-12,Vegan,Asiatischer Reis-Topf mit Wokgemüse und Sojabohnenkeimlingen,"1,92 €","3,75 €",A,0
+2024-12-12,Wok-/Grill,"Bowl Weihnachten Ente vegan Christmas Bowl"" Couscous mit Entenbrust, Wintersalat, marinierter Rotkohl, Orangen Kurkumadressing und gerösteten Walnüssen Dressing Orange N","5,74 €","7,61 €",A,0
+2024-12-12,Beilage 1,Nudeln mit Gemüse,"0,54 €","1,05 €",A,0
+2024-12-12,Beilage 2,Reis,"0,46 €","0,90 €",A,0
+2024-12-12,Dessert 1,Pfirsichquark,"0,62 €","1,21 €",A,0
+2024-12-12,Dessert 2,Cheesecake Creme mit Butterkeksboden,"1,60 €","3,12 €",E,0
+2024-12-12,Dessert Gläser,Dessert im Glas,"1,60 €","1,60 €",C,0
+2024-12-12,Gemüse 1,Mischgemüse,"0,50 €","0,98 €",A,0
+2024-12-12,Gemüse 2,Romanesco,"0,76 €","1,48 €",A,0
+2024-12-12,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-12-12,Suppe,Paprikarahmsuppe,"0,62 €","1,21 €",A,0
+2024-12-13,Eintopf,Brasilianischer Gemüseeintopf mit roten Bohnen und Mais,"1,69 €","3,30 €",A,0
+2024-12-13,Essen 1,"""Kommse vonne Schicht, watt Schöneres gibbet nich"" als unsere: Currywurst","1,80 €","3,51 €",C,0
+2024-12-13,Essen 2,Zwei Backfischfilets mit Remouladensoße,"2,43 €","4,73 €",D,0
+2024-12-13,Vegan,Gulasch von der rheinischen Knolle mit Haferschmand,"1,49 €","2,91 €",A,0
+2024-12-13,Wok-/Grill,Indisches Butter Chicken mit Basmatireis,"4,99 €","6,86 €",B,0
+2024-12-13,Beilage 1,Kartoffeln,"0,44 €","0,86 €",A,0
+2024-12-13,Beilage 2,Pommes frites,"0,60 €","1,17 €",C,0
+2024-12-13,Dessert 1,Erdbeercremejoghurt,"0,48 €","0,94 €",B,0
+2024-12-13,Dessert Gläser,Dessert im Glas,---,---,C,0
+2024-12-13,Gemüse 1,Erbsen und Fingerkarotten,"0,50 €","0,98 €",A,0
+2024-12-13,Salat,Kleine Salatschale,"0,60 €","1,17 €",C,0
+2024-12-13,Suppe,Kräutersuppe,"0,42 €","0,82 €",B,0
